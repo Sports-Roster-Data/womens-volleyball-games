@@ -1,0 +1,5640 @@
+{
+    "Game": {
+        "Type": "VolleyballGame",
+        "HasStarted": true,
+        "IsComplete": true,
+        "Source": "statcrew",
+        "Date": "10/11/2021",
+        "DateUTC": null,
+        "StartTime": "10:00 AM",
+        "EndTime": "10:54 AM",
+        "UseLiveStatsAutomation": null,
+        "NcaaGameId": "",
+        "SidearmGameId": null,
+        "ClientId": null,
+        "ClientAbbrev": null,
+        "ClientLiveStatsUrl": null,
+        "Notes": [],
+        "Location": "Jamaica, NY",
+        "GlobalSportShortname": null,
+        "BannerMessage": null,
+        "StadiumImage": null,
+        "SiteImage": null,
+        "ClientHostname": null,
+        "Officials": "1st Referee: Samuel Torres, 2nd Referee: Russell Rodriguez, Scorer: Harris Rappel",
+        "Attendance": 0,
+        "PeriodsRegulation": 5,
+        "Period": 3,
+        "ClockSeconds": -1,
+        "Context": "",
+        "Rules": {
+            "PeriodMinutes": -1,
+            "PeriodName": "Set",
+            "OTMinutes": -1,
+            "ShowExtraPeriodsAsOT": true,
+            "ClockDirection": "None",
+            "ClockSegmentation": "Periods"
+        },
+        "HomeTeam": {
+            "Id": "YORKW",
+            "Name": "York College (NY)",
+            "Score": 0,
+            "SetScore": 8,
+            "CurrentRecord": "0-3, 0-2 CUNYAC",
+            "PostgameRecord": "",
+            "NcaaSchoolCode": "",
+            "Color": "#EEEEEE",
+            "TextColor": "#232323",
+            "Logo": "https://www.huntercollegeathletics.com/images/logos/YorkLogo.png",
+            "Url": null,
+            "PeriodScores": [
+                5,
+                7,
+                8
+            ],
+            "PeriodTimeouts": []
+        },
+        "VisitingTeam": {
+            "Id": "HUNTER",
+            "Name": "Hunter",
+            "Score": 3,
+            "SetScore": 25,
+            "CurrentRecord": "6-8, 2-0 CUNYAC",
+            "PostgameRecord": "",
+            "NcaaSchoolCode": "",
+            "Color": "#401955",
+            "TextColor": "#FFFFFF",
+            "Logo": "https://www.huntercollegeathletics.com/images/logos/site/site.png",
+            "Url": "https://www.huntercollegeathletics.com",
+            "PeriodScores": [
+                25,
+                25,
+                25
+            ],
+            "PeriodTimeouts": []
+        },
+        "LastPlays": [
+            {
+                "Player": {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alexa",
+                    "LastName": "Sayson",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [
+                    {
+                        "Team": "HomeTeam",
+                        "FirstName": "Chayana",
+                        "LastName": "Jimenez",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Justine",
+                        "LastName": "Smith",
+                        "UniformNumber": "22",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "VisitingTeam",
+                "Narrative": "[Jimenez, Chayana] Kill by Alexa Sayson (from Justine Smith).",
+                "Context": "",
+                "Id": "104+5E567F15",
+                "Type": "KILL",
+                "Action": "HUNTER",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 8,
+                    "VisitingTeam": 25
+                }
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [
+                    {
+                        "Team": "HomeTeam",
+                        "FirstName": "Chayana",
+                        "LastName": "Jimenez",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Liliana",
+                        "LastName": "Khidr",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "HomeTeam",
+                "Narrative": "[Jimenez, Chayana] Attack error by Liliana Khidr.",
+                "Context": "",
+                "Id": "103+D430FF88",
+                "Type": "ATTACK ERROR",
+                "Action": "YORKW",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 8,
+                    "VisitingTeam": 24
+                }
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Justine",
+                        "LastName": "Smith",
+                        "UniformNumber": "22",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "HomeTeam",
+                "Narrative": "[Justine Smith] Service error.",
+                "Context": "",
+                "Id": "102+C910A495",
+                "Type": "SERVICE ERROR",
+                "Action": "YORKW",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 7,
+                    "VisitingTeam": 24
+                }
+            },
+            {
+                "Player": {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alexa",
+                    "LastName": "Sayson",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [
+                    {
+                        "Team": "HomeTeam",
+                        "FirstName": "Nadaysia",
+                        "LastName": "Nivar",
+                        "UniformNumber": "14",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Justine",
+                        "LastName": "Smith",
+                        "UniformNumber": "22",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "VisitingTeam",
+                "Narrative": "[Nivar, Nadaysia] Kill by Alexa Sayson (from Justine Smith).",
+                "Context": "",
+                "Id": "101+387E9F79",
+                "Type": "KILL",
+                "Action": "HUNTER",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 6,
+                    "VisitingTeam": 24
+                }
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Pearl",
+                        "LastName": "Mensah",
+                        "UniformNumber": "12",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "HomeTeam",
+                "Narrative": "[Pearl Mensah] Service error.",
+                "Context": "",
+                "Id": "100+DDFB8B12",
+                "Type": "SERVICE ERROR",
+                "Action": "YORKW",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 6,
+                    "VisitingTeam": 23
+                }
+            }
+        ]
+    },
+    "Leaders": {
+        "VisitingTeam": {
+            "Kills": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Alexa",
+                        "LastName": "Sayson",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "8"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Mariam",
+                        "LastName": "Ouattara",
+                        "UniformNumber": "16",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Beverly",
+                        "LastName": "Wong",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Liliana",
+                        "LastName": "Khidr",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                }
+            ],
+            "Hitting %": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Mariam",
+                        "LastName": "Ouattara",
+                        "UniformNumber": "16",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1.000"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Pearl",
+                        "LastName": "Mensah",
+                        "UniformNumber": "12",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".667"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Alexa",
+                        "LastName": "Sayson",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".615"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Liliana",
+                        "LastName": "Khidr",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".333"
+                }
+            ],
+            "Assists": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kiara",
+                        "LastName": "Abreu",
+                        "UniformNumber": "13",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "16"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Justine",
+                        "LastName": "Smith",
+                        "UniformNumber": "22",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "7"
+                }
+            ],
+            "Service Aces": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Liliana",
+                        "LastName": "Khidr",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "9"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Mariam",
+                        "LastName": "Ouattara",
+                        "UniformNumber": "16",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "8"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Alexa",
+                        "LastName": "Sayson",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Beverly",
+                        "LastName": "Wong",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                }
+            ],
+            "Total Blocks": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Mariapaz",
+                        "LastName": "Lojano",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Mariam",
+                        "LastName": "Ouattara",
+                        "UniformNumber": "16",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Beverly",
+                        "LastName": "Wong",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Alexa",
+                        "LastName": "Sayson",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                }
+            ],
+            "Digs": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Alexa",
+                        "LastName": "Sayson",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Erin",
+                        "LastName": "Hyman",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Mariapaz",
+                        "LastName": "Lojano",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Beverly",
+                        "LastName": "Wong",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                }
+            ],
+            "Points": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Mariam",
+                        "LastName": "Ouattara",
+                        "UniformNumber": "16",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "15"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Alexa",
+                        "LastName": "Sayson",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "12"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Liliana",
+                        "LastName": "Khidr",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "12"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Beverly",
+                        "LastName": "Wong",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                }
+            ]
+        },
+        "HomeTeam": {
+            "Kills": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kylana",
+                        "LastName": "Laspina",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Ruth",
+                        "LastName": "Lopez",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Chayana",
+                        "LastName": "Jimenez",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Hitting %": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Ruth",
+                        "LastName": "Lopez",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1.000"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Chayana",
+                        "LastName": "Jimenez",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "-.200"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kylana",
+                        "LastName": "Laspina",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "-.333"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kiara",
+                        "LastName": "Gonzalez",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "-.400"
+                }
+            ],
+            "Assists": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kiara",
+                        "LastName": "Gonzalez",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                }
+            ],
+            "Service Aces": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Chayana",
+                        "LastName": "Jimenez",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                }
+            ],
+            "Total Blocks": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kylana",
+                        "LastName": "Laspina",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Ruth",
+                        "LastName": "Lopez",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Chayana",
+                        "LastName": "Jimenez",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kiara",
+                        "LastName": "Gonzalez",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                }
+            ],
+            "Digs": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kylana",
+                        "LastName": "Laspina",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "8"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Emily",
+                        "LastName": "Cabrera",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Nadaysia",
+                        "LastName": "Nivar",
+                        "UniformNumber": "14",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Chayana",
+                        "LastName": "Jimenez",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Points": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Chayana",
+                        "LastName": "Jimenez",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kylana",
+                        "LastName": "Laspina",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Ruth",
+                        "LastName": "Lopez",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ]
+        }
+    },
+    "Stats": {
+        "HomeTeam": {
+            "TopPerformer": {
+                "Team": "HomeTeam",
+                "FirstName": "Ruth",
+                "LastName": "Lopez",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "Players": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ruth",
+                    "LastName": "Lopez",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Franceska",
+                    "LastName": "Cabral",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "PlayerGroups": {
+                "Players": {
+                    "Title": "Players",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "GamesPlayed": "GP",
+                        "Kills": "K",
+                        "AttackErrors": "E",
+                        "TotalAttackAttempts": "TA",
+                        "HittingPercentage": "H%",
+                        "Assists": "Ast",
+                        "ServiceAces": "Ace",
+                        "ServiceErrors": "SE",
+                        "BlockSolos": "BS",
+                        "BlockAssists": "BA",
+                        "BlockErrors": "BE",
+                        "TotalBlocks": "TB",
+                        "Digs": "Dig",
+                        "ReceptionAttempts": "Rec",
+                        "ReceptionErrors": "RE",
+                        "BallHandlingErrors": "BHE",
+                        "Points": "Pts",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "GamesPlayed": "GamesPlayed",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "TotalAttackAttempts": "Total Attacks",
+                        "HittingPercentage": "Hitting %",
+                        "Assists": "Assists",
+                        "ServiceAces": "Service Aces",
+                        "ServiceErrors": "Service Errors",
+                        "BlockSolos": "Block Solo",
+                        "BlockAssists": "Block Assist",
+                        "BlockErrors": "Block Errors",
+                        "TotalBlocks": "Total Blocks",
+                        "Digs": "Digs",
+                        "ReceptionAttempts": "Reception Attempts",
+                        "ReceptionErrors": "Reception Errors",
+                        "BallHandlingErrors": "Ball Handling Errors",
+                        "Points": "Points",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "2",
+                            "Name": "K. LASPINA",
+                            "GamesPlayed": "3",
+                            "Kills": "1",
+                            "AttackErrors": "3",
+                            "TotalAttackAttempts": "6",
+                            "HittingPercentage": "-.333",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "8",
+                            "ReceptionAttempts": "17",
+                            "ReceptionErrors": "4",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "3",
+                            "Name": "R. LOPEZ",
+                            "GamesPlayed": "3",
+                            "Kills": "1",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": "1.000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "7",
+                            "ReceptionErrors": "4",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "4",
+                            "Name": "C. JIMENEZ",
+                            "GamesPlayed": "3",
+                            "Kills": "1",
+                            "AttackErrors": "3",
+                            "TotalAttackAttempts": "10",
+                            "HittingPercentage": "-.200",
+                            "Assists": "0",
+                            "ServiceAces": "2",
+                            "ServiceErrors": "2",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "13",
+                            "ReceptionErrors": "6",
+                            "BallHandlingErrors": "0",
+                            "Points": "3",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "5",
+                            "Name": "K. GONZALEZ",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "2",
+                            "TotalAttackAttempts": "5",
+                            "HittingPercentage": "-.400",
+                            "Assists": "2",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "1",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "6",
+                            "Name": "E. CABRERA",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "7",
+                            "TotalAttackAttempts": "8",
+                            "HittingPercentage": "-.875",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "1",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "13",
+                            "ReceptionErrors": "3",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "14",
+                            "Name": "N. NIVAR",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "3",
+                            "TotalAttackAttempts": "6",
+                            "HittingPercentage": "-.500",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "2",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "16",
+                            "ReceptionErrors": "8",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "11",
+                            "Name": "F. CABRAL",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        }
+                    ]
+                }
+            },
+            "Totals": {
+                "Key": {
+                    "Points": "P",
+                    "Kills": "K",
+                    "AttackErrors": "E",
+                    "TotalAttackAttempts": "TA",
+                    "HittingPercentage": "H%",
+                    "Assists": "Ast",
+                    "ServiceAces": "Ace",
+                    "ServiceErrors": "SE",
+                    "BlockSolos": "BS",
+                    "BlockAssists": "BA",
+                    "BlockErrors": "BE",
+                    "Digs": "Dig",
+                    "TotalBlocks": "TB",
+                    "ReceptionErrors": "RE",
+                    "BallHandlingErrors": "BHE"
+                },
+                "FullKey": {
+                    "Points": "Points",
+                    "Kills": "Kills",
+                    "AttackErrors": "Attack Errors",
+                    "TotalAttackAttempts": "Total Attacks",
+                    "HittingPercentage": "Hitting %",
+                    "Assists": "Assists",
+                    "ServiceAces": "Service Aces",
+                    "ServiceErrors": "Service Errors",
+                    "BlockSolos": "Block Solo",
+                    "BlockAssists": "Block Assist",
+                    "BlockErrors": "Block Errors",
+                    "Digs": "Digs",
+                    "TotalBlocks": "Total Blocks",
+                    "ReceptionErrors": "Reception Errors",
+                    "BallHandlingErrors": "Ball Handling Errors"
+                },
+                "Values": {
+                    "Points": "5",
+                    "Kills": "3",
+                    "AttackErrors": "18",
+                    "TotalAttackAttempts": "36",
+                    "HittingPercentage": "-.417",
+                    "Assists": "2",
+                    "ServiceAces": "2",
+                    "ServiceErrors": "5",
+                    "BlockSolos": "0",
+                    "BlockAssists": "0",
+                    "BlockErrors": "3",
+                    "Digs": "14",
+                    "TotalBlocks": "0.0",
+                    "ReceptionErrors": "25",
+                    "BallHandlingErrors": "0"
+                }
+            },
+            "PeriodStats": [
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "1",
+                        "Points": "5",
+                        "Kills": "0",
+                        "AttackErrors": "5",
+                        "AttackAttempts": "10",
+                        "HittingPercentage": "-.500",
+                        "Aces": "2",
+                        "Blocks": "0",
+                        "ServiceErrors": "0",
+                        "BallHandlingErrors": "1"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "2",
+                        "Points": "7",
+                        "Kills": "1",
+                        "AttackErrors": "7",
+                        "AttackAttempts": "16",
+                        "HittingPercentage": "-.375",
+                        "Aces": "0",
+                        "Blocks": "0",
+                        "ServiceErrors": "2",
+                        "BallHandlingErrors": "1"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "3",
+                        "Points": "8",
+                        "Kills": "2",
+                        "AttackErrors": "6",
+                        "AttackAttempts": "10",
+                        "HittingPercentage": "-.400",
+                        "Aces": "0",
+                        "Blocks": "0",
+                        "ServiceErrors": "4",
+                        "BallHandlingErrors": "1"
+                    }
+                }
+            ]
+        },
+        "VisitingTeam": {
+            "TopPerformer": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "Players": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alexa",
+                    "LastName": "Sayson",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariapaz",
+                    "LastName": "Lojano",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liz",
+                    "LastName": "Danielle Singson",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Erin",
+                    "LastName": "Dugan",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Erin",
+                    "LastName": "Hyman",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "XinQi",
+                    "LastName": "Wang",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Pearl",
+                    "LastName": "Mensah",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kayla",
+                    "LastName": "Treadwell",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Justine",
+                    "LastName": "Smith",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "PlayerGroups": {
+                "Players": {
+                    "Title": "Players",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "GamesPlayed": "GP",
+                        "Kills": "K",
+                        "AttackErrors": "E",
+                        "TotalAttackAttempts": "TA",
+                        "HittingPercentage": "H%",
+                        "Assists": "Ast",
+                        "ServiceAces": "Ace",
+                        "ServiceErrors": "SE",
+                        "BlockSolos": "BS",
+                        "BlockAssists": "BA",
+                        "BlockErrors": "BE",
+                        "TotalBlocks": "TB",
+                        "Digs": "Dig",
+                        "ReceptionAttempts": "Rec",
+                        "ReceptionErrors": "RE",
+                        "BallHandlingErrors": "BHE",
+                        "Points": "Pts",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "GamesPlayed": "GamesPlayed",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "TotalAttackAttempts": "Total Attacks",
+                        "HittingPercentage": "Hitting %",
+                        "Assists": "Assists",
+                        "ServiceAces": "Service Aces",
+                        "ServiceErrors": "Service Errors",
+                        "BlockSolos": "Block Solo",
+                        "BlockAssists": "Block Assist",
+                        "BlockErrors": "Block Errors",
+                        "TotalBlocks": "Total Blocks",
+                        "Digs": "Digs",
+                        "ReceptionAttempts": "Reception Attempts",
+                        "ReceptionErrors": "Reception Errors",
+                        "BallHandlingErrors": "Ball Handling Errors",
+                        "Points": "Points",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "3",
+                            "Name": "B. WONG",
+                            "GamesPlayed": "3",
+                            "Kills": "3",
+                            "AttackErrors": "2",
+                            "TotalAttackAttempts": "7",
+                            "HittingPercentage": ".143",
+                            "Assists": "0",
+                            "ServiceAces": "3",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "3",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "6",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "7",
+                            "Name": "A. SAYSON",
+                            "GamesPlayed": "3",
+                            "Kills": "8",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "13",
+                            "HittingPercentage": ".615",
+                            "Assists": "0",
+                            "ServiceAces": "4",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "4",
+                            "ReceptionAttempts": "6",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "0",
+                            "Points": "12",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "8",
+                            "Name": "L. KHIDR",
+                            "GamesPlayed": "3",
+                            "Kills": "3",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "6",
+                            "HittingPercentage": ".333",
+                            "Assists": "0",
+                            "ServiceAces": "9",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "12",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "10",
+                            "Name": "M. LOJANO",
+                            "GamesPlayed": "3",
+                            "Kills": "2",
+                            "AttackErrors": "2",
+                            "TotalAttackAttempts": "7",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "1",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "1",
+                            "Digs": "3",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "4",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "13",
+                            "Name": "K. ABREU",
+                            "GamesPlayed": "2",
+                            "Kills": "0",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": "-1.000",
+                            "Assists": "16",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "16",
+                            "Name": "M. OUATTARA",
+                            "GamesPlayed": "2",
+                            "Kills": "6",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "6",
+                            "HittingPercentage": "1.000",
+                            "Assists": "0",
+                            "ServiceAces": "8",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "1",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "1",
+                            "Digs": "1",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "15",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "1",
+                            "Name": "L. DANIELLE SINGSON",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "2",
+                            "Name": "E. DUGAN",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "5",
+                            "Name": "E. HYMAN",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "4",
+                            "ReceptionAttempts": "8",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "11",
+                            "Name": "X. WANG",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "12",
+                            "Name": "P. MENSAH",
+                            "GamesPlayed": "1",
+                            "Kills": "2",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "3",
+                            "HittingPercentage": ".667",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "2",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "17",
+                            "Name": "K. TREADWELL",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "22",
+                            "Name": "J. SMITH",
+                            "GamesPlayed": "1",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": ".000",
+                            "Assists": "7",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        }
+                    ]
+                }
+            },
+            "Totals": {
+                "Key": {
+                    "Points": "P",
+                    "Kills": "K",
+                    "AttackErrors": "E",
+                    "TotalAttackAttempts": "TA",
+                    "HittingPercentage": "H%",
+                    "Assists": "Ast",
+                    "ServiceAces": "Ace",
+                    "ServiceErrors": "SE",
+                    "BlockSolos": "BS",
+                    "BlockAssists": "BA",
+                    "BlockErrors": "BE",
+                    "Digs": "Dig",
+                    "TotalBlocks": "TB",
+                    "ReceptionErrors": "RE",
+                    "BallHandlingErrors": "BHE"
+                },
+                "FullKey": {
+                    "Points": "Points",
+                    "Kills": "Kills",
+                    "AttackErrors": "Attack Errors",
+                    "TotalAttackAttempts": "Total Attacks",
+                    "HittingPercentage": "Hitting %",
+                    "Assists": "Assists",
+                    "ServiceAces": "Service Aces",
+                    "ServiceErrors": "Service Errors",
+                    "BlockSolos": "Block Solo",
+                    "BlockAssists": "Block Assist",
+                    "BlockErrors": "Block Errors",
+                    "Digs": "Digs",
+                    "TotalBlocks": "Total Blocks",
+                    "ReceptionErrors": "Reception Errors",
+                    "BallHandlingErrors": "Ball Handling Errors"
+                },
+                "Values": {
+                    "Points": "51",
+                    "Kills": "24",
+                    "AttackErrors": "6",
+                    "TotalAttackAttempts": "44",
+                    "HittingPercentage": ".409",
+                    "Assists": "23",
+                    "ServiceAces": "25",
+                    "ServiceErrors": "6",
+                    "BlockSolos": "2",
+                    "BlockAssists": "0",
+                    "BlockErrors": "0",
+                    "Digs": "15",
+                    "TotalBlocks": "2.0",
+                    "ReceptionErrors": "2",
+                    "BallHandlingErrors": "0"
+                }
+            },
+            "PeriodStats": [
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "1",
+                        "Points": "25",
+                        "Kills": "9",
+                        "AttackErrors": "2",
+                        "AttackAttempts": "18",
+                        "HittingPercentage": ".389",
+                        "Aces": "9",
+                        "Blocks": "0",
+                        "ServiceErrors": "0",
+                        "BallHandlingErrors": "2"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "2",
+                        "Points": "25",
+                        "Kills": "7",
+                        "AttackErrors": "3",
+                        "AttackAttempts": "13",
+                        "HittingPercentage": ".308",
+                        "Aces": "8",
+                        "Blocks": "2",
+                        "ServiceErrors": "3",
+                        "BallHandlingErrors": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "3",
+                        "Points": "25",
+                        "Kills": "8",
+                        "AttackErrors": "1",
+                        "AttackAttempts": "13",
+                        "HittingPercentage": ".538",
+                        "Aces": "8",
+                        "Blocks": "0",
+                        "ServiceErrors": "2",
+                        "BallHandlingErrors": "1"
+                    }
+                }
+            ]
+        }
+    },
+    "SeasonStats": {
+        "HomeTeam": null,
+        "VisitingTeam": null
+    },
+    "Plays": [
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ruth",
+                    "LastName": "Lopez",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "YORKW starters: Jimenez, Chayana; Gonzalez, Kiara; Nivar, Nadaysia; Laspina, Kylana; Lopez, Ruth; Cabrera, Emily.",
+            "Context": "",
+            "Id": "0+99DF1128",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariapaz",
+                    "LastName": "Lojano",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alexa",
+                    "LastName": "Sayson",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Erin",
+                    "LastName": "Hyman",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "HUNTER starters: Liliana Khidr; Mariapaz Lojano; Beverly Wong; Mariam Ouattara; Kiara Abreu; Alexa Sayson; libero Erin Hyman.",
+            "Context": "",
+            "Id": "1+E37F48B5",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Chayana",
+                "LastName": "Jimenez",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Erin",
+                    "LastName": "Hyman",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Jimenez, Chayana] Service ace (Erin Hyman).",
+            "Context": "",
+            "Id": "2+260AE53A",
+            "Type": "SERVICE ACE",
+            "Action": "YORKW",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Chayana",
+                "LastName": "Jimenez",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alexa",
+                    "LastName": "Sayson",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Jimenez, Chayana] Service ace (Alexa Sayson).",
+            "Context": "",
+            "Id": "3+3945C6C6",
+            "Type": "SERVICE ACE",
+            "Action": "YORKW",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Jimenez, Chayana] Attack error by Nivar, Nadaysia.",
+            "Context": "",
+            "Id": "4+2961D0A1",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Attack error by Gonzalez, Kiara.",
+            "Context": "",
+            "Id": "5+F97FFAB9",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Kill by Mariam Ouattara (from Kiara Abreu).",
+            "Context": "",
+            "Id": "6+D75E0DE",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariapaz",
+                "LastName": "Lojano",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Kill by Mariapaz Lojano (from Kiara Abreu).",
+            "Context": "",
+            "Id": "7+EF63F6F1",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liliana",
+                "LastName": "Khidr",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Service ace (Jimenez, Chayana).",
+            "Context": "",
+            "Id": "8+B2939903",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Kill by Beverly Wong (from Kiara Abreu), block error by Nivar, Nadaysia.",
+            "Context": "",
+            "Id": "9+41CC719D",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liliana",
+                "LastName": "Khidr",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Service ace (Jimenez, Chayana).",
+            "Context": "",
+            "Id": "10+AA651F29",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liliana",
+                "LastName": "Khidr",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ruth",
+                    "LastName": "Lopez",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Service ace (Lopez, Ruth).",
+            "Context": "",
+            "Id": "11+E0BD7384",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Kill by Mariam Ouattara (from Kiara Abreu).",
+            "Context": "",
+            "Id": "12+578177EC",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Attack error by Jimenez, Chayana.",
+            "Context": "",
+            "Id": "13+A4781502",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liliana",
+                "LastName": "Khidr",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Service ace (Cabrera, Emily).",
+            "Context": "",
+            "Id": "14+39E49E68",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Timeout York College (NY).",
+            "Context": "",
+            "Id": "15+DE53E197",
+            "Type": "TIMEOUT YORK COLLEGE",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariapaz",
+                    "LastName": "Lojano",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Liliana Khidr] Attack error by Mariapaz Lojano.",
+            "Context": "",
+            "Id": "16+9A596536",
+            "Type": "ATTACK ERROR",
+            "Action": "YORKW",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ruth",
+                    "LastName": "Lopez",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Gonzalez, Kiara] Bad set by Lopez, Ruth.",
+            "Context": "",
+            "Id": "17+160CE55D",
+            "Type": "BAD SET",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariapaz",
+                    "LastName": "Lojano",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Mariapaz Lojano] Attack error by Beverly Wong.",
+            "Context": "",
+            "Id": "18+35A9C408",
+            "Type": "ATTACK ERROR",
+            "Action": "YORKW",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Nivar, Nadaysia] Kill by Mariam Ouattara (from Kiara Abreu).",
+            "Context": "",
+            "Id": "19+EAA1856B",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Kill by Mariam Ouattara (from Kiara Abreu).",
+            "Context": "",
+            "Id": "20+6550FB34",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Beverly Wong] Bad set by Kiara Abreu.",
+            "Context": "",
+            "Id": "21+FD1A0087",
+            "Type": "BAD SET",
+            "Action": "YORKW",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Laspina, Kylana] Kill by Mariam Ouattara (from Kiara Abreu).",
+            "Context": "",
+            "Id": "22+F373FA70",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Service ace (Nivar, Nadaysia).",
+            "Context": "",
+            "Id": "23+90B21EDB",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 16
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alexa",
+                "LastName": "Sayson",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Kill by Alexa Sayson (from Kiara Abreu).",
+            "Context": "",
+            "Id": "24+26BEE45A",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 17
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liliana",
+                "LastName": "Khidr",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Kill by Liliana Khidr (from Kiara Abreu).",
+            "Context": "",
+            "Id": "25+BE6605E5",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Bad set by Jimenez, Chayana.",
+            "Context": "",
+            "Id": "26+32EDD8C2",
+            "Type": "BAD SET",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 19
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Service ace (Nivar, Nadaysia).",
+            "Context": "",
+            "Id": "27+83991A8F",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 20
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Service ace (Nivar, Nadaysia).",
+            "Context": "",
+            "Id": "28+BE23620C",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Timeout York College (NY).",
+            "Context": "",
+            "Id": "29+921A714D",
+            "Type": "TIMEOUT YORK COLLEGE",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Service ace (Nivar, Nadaysia).",
+            "Context": "",
+            "Id": "30+B6A9E026",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Attack error by Cabrera, Emily.",
+            "Context": "",
+            "Id": "31+5E9E1ECD",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ruth",
+                    "LastName": "Lopez",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Service ace (Lopez, Ruth).",
+            "Context": "",
+            "Id": "32+EA01E321",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Attack error by Cabrera, Emily.",
+            "Context": "",
+            "Id": "33+B9E6BAB3",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 25
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ruth",
+                    "LastName": "Lopez",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "YORKW starters: Gonzalez, Kiara; Cabrera, Emily; Jimenez, Chayana; Lopez, Ruth; Nivar, Nadaysia; Laspina, Kylana.",
+            "Context": "",
+            "Id": "34+5EC805F1",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariapaz",
+                    "LastName": "Lojano",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alexa",
+                    "LastName": "Sayson",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Erin",
+                    "LastName": "Hyman",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "HUNTER starters: Liliana Khidr; Mariapaz Lojano; Beverly Wong; Mariam Ouattara; Kiara Abreu; Alexa Sayson; libero Erin Hyman.",
+            "Context": "",
+            "Id": "35+6428E8D0",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liliana",
+                "LastName": "Khidr",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Service ace (Nivar, Nadaysia).",
+            "Context": "",
+            "Id": "36+B2B12B67",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liliana",
+                "LastName": "Khidr",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Service ace (Laspina, Kylana).",
+            "Context": "",
+            "Id": "37+DA18C4A4",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Attack error by Nivar, Nadaysia.",
+            "Context": "",
+            "Id": "38+EEC0617D",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Beverly",
+                "LastName": "Wong",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Kill by Beverly Wong (from Kiara Abreu).",
+            "Context": "",
+            "Id": "39+BD2E30D0",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ruth",
+                "LastName": "Lopez",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Liliana Khidr] Kill by Lopez, Ruth.",
+            "Context": "",
+            "Id": "40+E3062004",
+            "Type": "KILL",
+            "Action": "YORKW",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Gonzalez, Kiara] Attack error by Kiara Abreu.",
+            "Context": "",
+            "Id": "41+24CFE2D1",
+            "Type": "ATTACK ERROR",
+            "Action": "YORKW",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Gonzalez, Kiara] Kill by Mariam Ouattara (from Kiara Abreu).",
+            "Context": "",
+            "Id": "42+F48E9CF5",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariapaz",
+                "LastName": "Lojano",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariapaz Lojano] Service ace (Laspina, Kylana).",
+            "Context": "",
+            "Id": "43+9042D770",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariapaz",
+                    "LastName": "Lojano",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariapaz Lojano] Attack error by Cabrera, Emily.",
+            "Context": "",
+            "Id": "44+CE009B5B",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariapaz",
+                    "LastName": "Lojano",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Mariapaz Lojano] Attack error by Beverly Wong.",
+            "Context": "",
+            "Id": "45+31148FCC",
+            "Type": "ATTACK ERROR",
+            "Action": "YORKW",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariapaz",
+                    "LastName": "Lojano",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Cabrera, Emily] Attack error by Mariapaz Lojano.",
+            "Context": "",
+            "Id": "46+A2D4AA59",
+            "Type": "ATTACK ERROR",
+            "Action": "YORKW",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Cabrera, Emily] Service error.",
+            "Context": "",
+            "Id": "47+B73CB48E",
+            "Type": "SERVICE ERROR",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Beverly",
+                "LastName": "Wong",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Service ace (Cabrera, Emily).",
+            "Context": "",
+            "Id": "48+20B0346D",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Attack error by Jimenez, Chayana.",
+            "Context": "",
+            "Id": "49+90B9B25B",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Beverly",
+                "LastName": "Wong",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Service ace (Laspina, Kylana).",
+            "Context": "",
+            "Id": "50+2F33EC23",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alexa",
+                "LastName": "Sayson",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Kill by Alexa Sayson (from Kiara Abreu).",
+            "Context": "",
+            "Id": "51+7F437B56",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Attack error by Nivar, Nadaysia (block by Mariam Ouattara).",
+            "Context": "",
+            "Id": "52+234636F4",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Attack error by Cabrera, Emily.",
+            "Context": "",
+            "Id": "53+A8FD057C",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Timeout York College (NY).",
+            "Context": "",
+            "Id": "54+35E4E8AD",
+            "Type": "TIMEOUT YORK COLLEGE",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alexa",
+                "LastName": "Sayson",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Kill by Alexa Sayson (from Kiara Abreu).",
+            "Context": "",
+            "Id": "55+706E7EA2",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Beverly Wong] Bad set by Kiara Abreu.",
+            "Context": "",
+            "Id": "56+517221B1",
+            "Type": "BAD SET",
+            "Action": "YORKW",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Jimenez, Chayana] Service error.",
+            "Context": "",
+            "Id": "57+7951C5FF",
+            "Type": "SERVICE ERROR",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 16
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Service ace (Jimenez, Chayana).",
+            "Context": "",
+            "Id": "58+CE6CB5CC",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 17
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alexa",
+                "LastName": "Sayson",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Kill by Alexa Sayson (from Kiara Abreu).",
+            "Context": "",
+            "Id": "59+A1438672",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Service ace (Cabrera, Emily).",
+            "Context": "",
+            "Id": "60+BC281355",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 19
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Attack error by Cabrera, Emily.",
+            "Context": "",
+            "Id": "61+CEF3BCD0",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 20
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alexa",
+                "LastName": "Sayson",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Kill by Alexa Sayson (from Kiara Abreu).",
+            "Context": "",
+            "Id": "62+96934333",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariam",
+                "LastName": "Ouattara",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mariam Ouattara] Service ace (Jimenez, Chayana).",
+            "Context": "",
+            "Id": "63+F9B27075",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariam",
+                    "LastName": "Ouattara",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Mariam Ouattara] Service error.",
+            "Context": "",
+            "Id": "64+B45ED1EF",
+            "Type": "SERVICE ERROR",
+            "Action": "YORKW",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ruth",
+                    "LastName": "Lopez",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Lopez, Ruth] Service error.",
+            "Context": "",
+            "Id": "65+60B8379D",
+            "Type": "SERVICE ERROR",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Kiara Abreu] Kill by Liliana Khidr (from Kiara Abreu), block error by Nivar, Nadaysia.",
+            "Context": "",
+            "Id": "66+8F9471D6",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Abreu",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Kiara Abreu] Service error.",
+            "Context": "",
+            "Id": "67+CC928EC5",
+            "Type": "SERVICE ERROR",
+            "Action": "YORKW",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariapaz",
+                    "LastName": "Lojano",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Nivar, Nadaysia] Attack error by Gonzalez, Kiara (block by Mariapaz Lojano).",
+            "Context": "",
+            "Id": "68+52E258F2",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 25
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ruth",
+                    "LastName": "Lopez",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "YORKW starters: Jimenez, Chayana; Gonzalez, Kiara; Cabrera, Emily; Laspina, Kylana; Lopez, Ruth; Nivar, Nadaysia.",
+            "Context": "",
+            "Id": "69+675222D3",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alexa",
+                    "LastName": "Sayson",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariapaz",
+                    "LastName": "Lojano",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Pearl",
+                    "LastName": "Mensah",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Justine",
+                    "LastName": "Smith",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Erin",
+                    "LastName": "Hyman",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "HUNTER starters: Alexa Sayson; Liliana Khidr; Mariapaz Lojano; Beverly Wong; Pearl Mensah; Justine Smith; libero Erin Hyman.",
+            "Context": "",
+            "Id": "70+594A067C",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Jimenez, Chayana] Service error.",
+            "Context": "",
+            "Id": "71+8F5D52D4",
+            "Type": "SERVICE ERROR",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alexa",
+                "LastName": "Sayson",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Alexa Sayson] Service ace (Jimenez, Chayana).",
+            "Context": "",
+            "Id": "72+BDE0C4F1",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alexa",
+                "LastName": "Sayson",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Alexa Sayson] Service ace (Nivar, Nadaysia).",
+            "Context": "",
+            "Id": "73+7A62C305",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alexa",
+                    "LastName": "Sayson",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Justine",
+                    "LastName": "Smith",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Alexa Sayson] Kill by Liliana Khidr (from Justine Smith), block error by Cabrera, Emily.",
+            "Context": "",
+            "Id": "74+C5BC50E8",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alexa",
+                "LastName": "Sayson",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ruth",
+                    "LastName": "Lopez",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Alexa Sayson] Service ace (Lopez, Ruth).",
+            "Context": "",
+            "Id": "75+D99FE9E6",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alexa",
+                    "LastName": "Sayson",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Alexa Sayson] Attack error by Cabrera, Emily.",
+            "Context": "",
+            "Id": "76+4673A962",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alexa",
+                "LastName": "Sayson",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ruth",
+                    "LastName": "Lopez",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Alexa Sayson] Service ace (Lopez, Ruth).",
+            "Context": "",
+            "Id": "77+C27F69B0",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alexa",
+                    "LastName": "Sayson",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Alexa Sayson] Attack error by Laspina, Kylana.",
+            "Context": "",
+            "Id": "78+89610C70",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alexa",
+                    "LastName": "Sayson",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Alexa Sayson] Service error.",
+            "Context": "",
+            "Id": "79+33B8C0DF",
+            "Type": "SERVICE ERROR",
+            "Action": "YORKW",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Justine",
+                    "LastName": "Smith",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Gonzalez, Kiara] Bad set by Justine Smith.",
+            "Context": "",
+            "Id": "80+CFB45400",
+            "Type": "BAD SET",
+            "Action": "YORKW",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mariapaz",
+                "LastName": "Lojano",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Justine",
+                    "LastName": "Smith",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Gonzalez, Kiara] Kill by Mariapaz Lojano (from Justine Smith).",
+            "Context": "",
+            "Id": "81+A71ADD6D",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liliana",
+                "LastName": "Khidr",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Service ace (Nivar, Nadaysia).",
+            "Context": "",
+            "Id": "82+79CC74B4",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Attack error by Cabrera, Emily.",
+            "Context": "",
+            "Id": "83+CD05A553",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Timeout York College (NY).",
+            "Context": "",
+            "Id": "84+A5DB424A",
+            "Type": "TIMEOUT YORK COLLEGE",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Bad set by Laspina, Kylana.",
+            "Context": "",
+            "Id": "85+C9BBF2CC",
+            "Type": "BAD SET",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liliana",
+                "LastName": "Khidr",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Service ace (Jimenez, Chayana).",
+            "Context": "",
+            "Id": "86+F3DCF6FF",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Pearl",
+                "LastName": "Mensah",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Justine",
+                    "LastName": "Smith",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Kill by Pearl Mensah (from Justine Smith).",
+            "Context": "",
+            "Id": "87+6281010D",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liliana",
+                "LastName": "Khidr",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Liliana Khidr] Service ace (Nivar, Nadaysia).",
+            "Context": "",
+            "Id": "88+569BF956",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Kylana",
+                "LastName": "Laspina",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Liliana Khidr] Kill by Laspina, Kylana (from Gonzalez, Kiara).",
+            "Context": "",
+            "Id": "89+5F795B1E",
+            "Type": "KILL",
+            "Action": "YORKW",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Beverly",
+                "LastName": "Wong",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Justine",
+                    "LastName": "Smith",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Cabrera, Emily] Kill by Beverly Wong (from Justine Smith).",
+            "Context": "",
+            "Id": "90+718BFE2E",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 16
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mariapaz",
+                    "LastName": "Lojano",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Mariapaz Lojano] Service error.",
+            "Context": "",
+            "Id": "91+845D0A4F",
+            "Type": "SERVICE ERROR",
+            "Action": "YORKW",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 16
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Laspina, Kylana] Service error.",
+            "Context": "",
+            "Id": "92+CAABDD3C",
+            "Type": "SERVICE ERROR",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 17
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Pearl",
+                "LastName": "Mensah",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Justine",
+                    "LastName": "Smith",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Kill by Pearl Mensah (from Justine Smith).",
+            "Context": "",
+            "Id": "93+AEC4737",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Attack error by Laspina, Kylana.",
+            "Context": "",
+            "Id": "94+4C34484E",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 19
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alexa",
+                "LastName": "Sayson",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Kill by Alexa Sayson.",
+            "Context": "",
+            "Id": "95+A371C8B1",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 20
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Attack error by Jimenez, Chayana.",
+            "Context": "",
+            "Id": "96+C9F8C7D3",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Beverly",
+                "LastName": "Wong",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Beverly Wong] Service ace (Laspina, Kylana).",
+            "Context": "",
+            "Id": "97+86C7E4B1",
+            "Type": "SERVICE ACE",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Chayana",
+                "LastName": "Jimenez",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Beverly",
+                    "LastName": "Wong",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kiara",
+                    "LastName": "Gonzalez",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Beverly Wong] Kill by Jimenez, Chayana (from Gonzalez, Kiara).",
+            "Context": "",
+            "Id": "98+B82C5A0E",
+            "Type": "KILL",
+            "Action": "YORKW",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ruth",
+                    "LastName": "Lopez",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kylana",
+                    "LastName": "Laspina",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Lopez, Ruth] Attack error by Laspina, Kylana.",
+            "Context": "",
+            "Id": "99+57A82F60",
+            "Type": "ATTACK ERROR",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Pearl",
+                    "LastName": "Mensah",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Pearl Mensah] Service error.",
+            "Context": "",
+            "Id": "100+DDFB8B12",
+            "Type": "SERVICE ERROR",
+            "Action": "YORKW",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alexa",
+                "LastName": "Sayson",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadaysia",
+                    "LastName": "Nivar",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Justine",
+                    "LastName": "Smith",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Nivar, Nadaysia] Kill by Alexa Sayson (from Justine Smith).",
+            "Context": "",
+            "Id": "101+387E9F79",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Justine",
+                    "LastName": "Smith",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Justine Smith] Service error.",
+            "Context": "",
+            "Id": "102+C910A495",
+            "Type": "SERVICE ERROR",
+            "Action": "YORKW",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liliana",
+                    "LastName": "Khidr",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Jimenez, Chayana] Attack error by Liliana Khidr.",
+            "Context": "",
+            "Id": "103+D430FF88",
+            "Type": "ATTACK ERROR",
+            "Action": "YORKW",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alexa",
+                "LastName": "Sayson",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Chayana",
+                    "LastName": "Jimenez",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Justine",
+                    "LastName": "Smith",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Jimenez, Chayana] Kill by Alexa Sayson (from Justine Smith).",
+            "Context": "",
+            "Id": "104+5E567F15",
+            "Type": "KILL",
+            "Action": "HUNTER",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 25
+            }
+        }
+    ]
+}

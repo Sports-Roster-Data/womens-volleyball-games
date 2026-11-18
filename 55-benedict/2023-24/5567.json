@@ -1,0 +1,5585 @@
+{
+    "Game": {
+        "Type": "VolleyballGame",
+        "HasStarted": true,
+        "IsComplete": true,
+        "Source": "",
+        "Date": "10/17/2023",
+        "DateUTC": null,
+        "StartTime": "6:02 PM",
+        "EndTime": "6:46 PM",
+        "UseLiveStatsAutomation": null,
+        "NcaaGameId": "",
+        "SidearmGameId": null,
+        "ClientId": null,
+        "ClientAbbrev": null,
+        "ClientLiveStatsUrl": null,
+        "Notes": [],
+        "Location": "",
+        "GlobalSportShortname": null,
+        "BannerMessage": null,
+        "StadiumImage": null,
+        "SiteImage": null,
+        "ClientHostname": null,
+        "Officials": "",
+        "Attendance": 50,
+        "PeriodsRegulation": 5,
+        "Period": 3,
+        "ClockSeconds": -1,
+        "Context": "",
+        "Rules": {
+            "PeriodMinutes": -1,
+            "PeriodName": "Set",
+            "OTMinutes": -1,
+            "ShowExtraPeriodsAsOT": true,
+            "ClockDirection": "None",
+            "ClockSegmentation": "Periods"
+        },
+        "HomeTeam": {
+            "Id": "Morris",
+            "Name": "Morris",
+            "Score": 0,
+            "SetScore": 6,
+            "CurrentRecord": "0-3",
+            "PostgameRecord": "",
+            "NcaaSchoolCode": "",
+            "Color": "#EEEEEE",
+            "TextColor": "#232323",
+            "Logo": "https://benedicttigers.com/images/logos/mascot.gif",
+            "Url": null,
+            "PeriodScores": [
+                2,
+                4,
+                6
+            ],
+            "PeriodTimeouts": []
+        },
+        "VisitingTeam": {
+            "Id": "BEN",
+            "Name": "Benedict",
+            "Score": 3,
+            "SetScore": 25,
+            "CurrentRecord": "13-7,8-7 SIAC",
+            "PostgameRecord": "",
+            "NcaaSchoolCode": "",
+            "Color": "#3D1356",
+            "TextColor": "#FEDC01",
+            "Logo": "https://benedicttigers.com/images/logos/site/site.png",
+            "Url": "https://benedicttigers.com",
+            "PeriodScores": [
+                25,
+                25,
+                25
+            ],
+            "PeriodTimeouts": []
+        },
+        "LastPlays": [
+            {
+                "Player": {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Cana",
+                    "LastName": "Smith",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [
+                    {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jada",
+                        "LastName": "Teasley",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jadyn",
+                        "LastName": "Murry",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "VisitingTeam",
+                "Narrative": "[Teasley, Jada] Kill by Smith, Cana (from Murry, Jadyn).",
+                "Context": "",
+                "Id": "104+CC82556D",
+                "Type": "KILL",
+                "Action": "BEN",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 6,
+                    "VisitingTeam": 25
+                }
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jordan",
+                        "LastName": "Gilbert",
+                        "UniformNumber": "19",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "HomeTeam",
+                "Narrative": "[Gilbert, Jordan] Service error.",
+                "Context": "",
+                "Id": "103+C0D58CF6",
+                "Type": "SERVICE ERROR",
+                "Action": "Morris",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 6,
+                    "VisitingTeam": 24
+                }
+            },
+            {
+                "Player": {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Gilbert",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [
+                    {
+                        "Team": "HomeTeam",
+                        "FirstName": "Tamiya",
+                        "LastName": "Tyler",
+                        "UniformNumber": "13",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jadyn",
+                        "LastName": "Murry",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "VisitingTeam",
+                "Narrative": "[Tyler, Tamiya] Kill by Gilbert, Jordan (from Murry, Jadyn).",
+                "Context": "",
+                "Id": "102+8E92E800",
+                "Type": "KILL",
+                "Action": "BEN",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 5,
+                    "VisitingTeam": 24
+                }
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jordan",
+                        "LastName": "Williams",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "HomeTeam",
+                "Narrative": "[Williams, Jordan] Service error.",
+                "Context": "",
+                "Id": "101+E452C739",
+                "Type": "SERVICE ERROR",
+                "Action": "Morris",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 5,
+                    "VisitingTeam": 23
+                }
+            },
+            {
+                "Player": {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Cana",
+                    "LastName": "Smith",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jordan",
+                        "LastName": "Williams",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "VisitingTeam",
+                "Narrative": "[Williams, Jordan] Kill by Smith, Cana.",
+                "Context": "",
+                "Id": "100+C270F87E",
+                "Type": "KILL",
+                "Action": "BEN",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 4,
+                    "VisitingTeam": 23
+                }
+            }
+        ]
+    },
+    "Leaders": {
+        "VisitingTeam": {
+            "Kills": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Deisire'",
+                        "LastName": "Young",
+                        "UniformNumber": "16",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "T'Yannah",
+                        "LastName": "Lake",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "5"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Cana",
+                        "LastName": "Smith",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kennede",
+                        "LastName": "Thomas",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                }
+            ],
+            "Hitting %": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jadyn",
+                        "LastName": "Murry",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1.000"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Mya",
+                        "LastName": "Dixon",
+                        "UniformNumber": "11",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".750"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "T'Yannah",
+                        "LastName": "Lake",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".667"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Nyla",
+                        "LastName": "Troncoso",
+                        "UniformNumber": "17",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".667"
+                }
+            ],
+            "Assists": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jadyn",
+                        "LastName": "Murry",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "23"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jordan",
+                        "LastName": "Williams",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Armoni",
+                        "LastName": "Harris",
+                        "UniformNumber": "18",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Deisire'",
+                        "LastName": "Young",
+                        "UniformNumber": "16",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Service Aces": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "La'Jai",
+                        "LastName": "Wilson",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "12"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jordan",
+                        "LastName": "Williams",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "11"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jadyn",
+                        "LastName": "Murry",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Armoni",
+                        "LastName": "Harris",
+                        "UniformNumber": "18",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Total Blocks": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Cana",
+                        "LastName": "Smith",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kaiah",
+                        "LastName": "Green",
+                        "UniformNumber": "9",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jordan",
+                        "LastName": "Williams",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Brandi",
+                        "LastName": "Seaborn",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                }
+            ],
+            "Digs": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Cana",
+                        "LastName": "Smith",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jordan",
+                        "LastName": "Williams",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "T'Yannah",
+                        "LastName": "Lake",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jadyn",
+                        "LastName": "Murry",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Points": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "La'Jai",
+                        "LastName": "Wilson",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "13"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jordan",
+                        "LastName": "Williams",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "11"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jadyn",
+                        "LastName": "Murry",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Deisire'",
+                        "LastName": "Young",
+                        "UniformNumber": "16",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                }
+            ]
+        },
+        "HomeTeam": {
+            "Kills": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "RaiJhane",
+                        "LastName": "McCrae",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jada",
+                        "LastName": "Teasley",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Samaya",
+                        "LastName": "Johnson",
+                        "UniformNumber": "20",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Olivia",
+                        "LastName": "Brooks",
+                        "UniformNumber": "22",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Hitting %": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Olivia",
+                        "LastName": "Brooks",
+                        "UniformNumber": "22",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1.000"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Samaya",
+                        "LastName": "Johnson",
+                        "UniformNumber": "20",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "-.250"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jada",
+                        "LastName": "Teasley",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "-.364"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Tamiya",
+                        "LastName": "Tyler",
+                        "UniformNumber": "13",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "-1.000"
+                }
+            ],
+            "Assists": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "RaiJhane",
+                        "LastName": "McCrae",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                }
+            ],
+            "Service Aces": [],
+            "Total Blocks": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "RaiJhane",
+                        "LastName": "McCrae",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jada",
+                        "LastName": "Teasley",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Samaya",
+                        "LastName": "Johnson",
+                        "UniformNumber": "20",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Olivia",
+                        "LastName": "Brooks",
+                        "UniformNumber": "22",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                }
+            ],
+            "Digs": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Samaya",
+                        "LastName": "Johnson",
+                        "UniformNumber": "20",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "5"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "RaiJhane",
+                        "LastName": "McCrae",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Lyric",
+                        "LastName": "Washington",
+                        "UniformNumber": "16",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Tamiya",
+                        "LastName": "Tyler",
+                        "UniformNumber": "13",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                }
+            ],
+            "Points": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "RaiJhane",
+                        "LastName": "McCrae",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jada",
+                        "LastName": "Teasley",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Samaya",
+                        "LastName": "Johnson",
+                        "UniformNumber": "20",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Olivia",
+                        "LastName": "Brooks",
+                        "UniformNumber": "22",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ]
+        }
+    },
+    "Stats": {
+        "HomeTeam": {
+            "TopPerformer": {
+                "Team": "HomeTeam",
+                "FirstName": "Olivia",
+                "LastName": "Brooks",
+                "UniformNumber": "22",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "Players": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jada",
+                    "LastName": "Teasley",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samaya",
+                    "LastName": "Johnson",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Brooks",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lyric",
+                    "LastName": "Washington",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jade-Lynn",
+                    "LastName": "Andrews",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tamiya",
+                    "LastName": "Tyler",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Cynthia",
+                    "LastName": "Dewitt",
+                    "UniformNumber": "23",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "PlayerGroups": {
+                "Players": {
+                    "Title": "Players",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "GamesPlayed": "GP",
+                        "Kills": "K",
+                        "AttackErrors": "E",
+                        "TotalAttackAttempts": "TA",
+                        "HittingPercentage": "H%",
+                        "Assists": "Ast",
+                        "ServiceAces": "Ace",
+                        "ServiceErrors": "SE",
+                        "BlockSolos": "BS",
+                        "BlockAssists": "BA",
+                        "BlockErrors": "BE",
+                        "TotalBlocks": "TB",
+                        "Digs": "Dig",
+                        "ReceptionAttempts": "Rec",
+                        "ReceptionErrors": "RE",
+                        "BallHandlingErrors": "BHE",
+                        "Points": "Pts",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "GamesPlayed": "GamesPlayed",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "TotalAttackAttempts": "Total Attacks",
+                        "HittingPercentage": "Hitting %",
+                        "Assists": "Assists",
+                        "ServiceAces": "Service Aces",
+                        "ServiceErrors": "Service Errors",
+                        "BlockSolos": "Block Solo",
+                        "BlockAssists": "Block Assist",
+                        "BlockErrors": "Block Errors",
+                        "TotalBlocks": "Total Blocks",
+                        "Digs": "Digs",
+                        "ReceptionAttempts": "Reception Attempts",
+                        "ReceptionErrors": "Reception Errors",
+                        "BallHandlingErrors": "Ball Handling Errors",
+                        "Points": "Points",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "1",
+                            "Name": "R. MCCRAE",
+                            "GamesPlayed": "3",
+                            "Kills": "1",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "2",
+                            "HittingPercentage": ".000",
+                            "Assists": "2",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "5",
+                            "ReceptionErrors": "4",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "6",
+                            "Name": "J. TEASLEY",
+                            "GamesPlayed": "3",
+                            "Kills": "1",
+                            "AttackErrors": "5",
+                            "TotalAttackAttempts": "11",
+                            "HittingPercentage": "-.364",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "14",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "20",
+                            "Name": "S. JOHNSON",
+                            "GamesPlayed": "3",
+                            "Kills": "1",
+                            "AttackErrors": "2",
+                            "TotalAttackAttempts": "4",
+                            "HittingPercentage": "-.250",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "5",
+                            "ReceptionAttempts": "21",
+                            "ReceptionErrors": "5",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "22",
+                            "Name": "O. BROOKS",
+                            "GamesPlayed": "3",
+                            "Kills": "1",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": "1.000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "20",
+                            "ReceptionErrors": "7",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "16",
+                            "Name": "L. WASHINGTON",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "4",
+                            "ReceptionErrors": "4",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "11",
+                            "Name": "J. ANDREWS",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "13",
+                            "Name": "T. TYLER",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": "-1.000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "2",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "23",
+                            "Name": "C. DEWITT",
+                            "GamesPlayed": "2",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "4",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        }
+                    ]
+                }
+            },
+            "Totals": {
+                "Key": {
+                    "Points": "P",
+                    "Kills": "K",
+                    "AttackErrors": "E",
+                    "TotalAttackAttempts": "TA",
+                    "HittingPercentage": "H%",
+                    "Assists": "Ast",
+                    "ServiceAces": "Ace",
+                    "ServiceErrors": "SE",
+                    "BlockSolos": "BS",
+                    "BlockAssists": "BA",
+                    "BlockErrors": "BE",
+                    "Digs": "Dig",
+                    "TotalBlocks": "TB",
+                    "ReceptionErrors": "RE",
+                    "BallHandlingErrors": "BHE"
+                },
+                "FullKey": {
+                    "Points": "Points",
+                    "Kills": "Kills",
+                    "AttackErrors": "Attack Errors",
+                    "TotalAttackAttempts": "Total Attacks",
+                    "HittingPercentage": "Hitting %",
+                    "Assists": "Assists",
+                    "ServiceAces": "Service Aces",
+                    "ServiceErrors": "Service Errors",
+                    "BlockSolos": "Block Solo",
+                    "BlockAssists": "Block Assist",
+                    "BlockErrors": "Block Errors",
+                    "Digs": "Digs",
+                    "TotalBlocks": "Total Blocks",
+                    "ReceptionErrors": "Reception Errors",
+                    "BallHandlingErrors": "Ball Handling Errors"
+                },
+                "Values": {
+                    "Points": "4",
+                    "Kills": "4",
+                    "AttackErrors": "9",
+                    "TotalAttackAttempts": "23",
+                    "HittingPercentage": "-.217",
+                    "Assists": "2",
+                    "ServiceAces": "0",
+                    "ServiceErrors": "1",
+                    "BlockSolos": "0",
+                    "BlockAssists": "0",
+                    "BlockErrors": "0",
+                    "Digs": "13",
+                    "TotalBlocks": "0.0",
+                    "ReceptionErrors": "28",
+                    "BallHandlingErrors": "0"
+                }
+            },
+            "PeriodStats": [
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "1",
+                        "Points": "2",
+                        "Kills": "1",
+                        "AttackErrors": "3",
+                        "AttackAttempts": "8",
+                        "HittingPercentage": "-.250",
+                        "Aces": "0",
+                        "Blocks": "0",
+                        "ServiceErrors": "0",
+                        "BallHandlingErrors": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "2",
+                        "Points": "3",
+                        "Kills": "1",
+                        "AttackErrors": "2",
+                        "AttackAttempts": "7",
+                        "HittingPercentage": "-.143",
+                        "Aces": "0",
+                        "Blocks": "0",
+                        "ServiceErrors": "0",
+                        "BallHandlingErrors": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "3",
+                        "Points": "6",
+                        "Kills": "2",
+                        "AttackErrors": "4",
+                        "AttackAttempts": "8",
+                        "HittingPercentage": "-.250",
+                        "Aces": "0",
+                        "Blocks": "0",
+                        "ServiceErrors": "2",
+                        "BallHandlingErrors": "2"
+                    }
+                }
+            ]
+        },
+        "VisitingTeam": {
+            "TopPerformer": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jadyn",
+                "LastName": "Murry",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "Players": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Cana",
+                    "LastName": "Smith",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kaiah",
+                    "LastName": "Green",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Williams",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Brandi",
+                    "LastName": "Seaborn",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kennede",
+                    "LastName": "Thomas",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mya",
+                    "LastName": "Dixon",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "T'Yannah",
+                    "LastName": "Lake",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Gilbert",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Willow",
+                    "LastName": "Alls",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kylie",
+                    "LastName": "Jackson",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Armoni",
+                    "LastName": "Harris",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Krislenn",
+                    "LastName": "Lucas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Nyla",
+                    "LastName": "Troncoso",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Deisire'",
+                    "LastName": "Young",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "PlayerGroups": {
+                "Players": {
+                    "Title": "Players",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "GamesPlayed": "GP",
+                        "Kills": "K",
+                        "AttackErrors": "E",
+                        "TotalAttackAttempts": "TA",
+                        "HittingPercentage": "H%",
+                        "Assists": "Ast",
+                        "ServiceAces": "Ace",
+                        "ServiceErrors": "SE",
+                        "BlockSolos": "BS",
+                        "BlockAssists": "BA",
+                        "BlockErrors": "BE",
+                        "TotalBlocks": "TB",
+                        "Digs": "Dig",
+                        "ReceptionAttempts": "Rec",
+                        "ReceptionErrors": "RE",
+                        "BallHandlingErrors": "BHE",
+                        "Points": "Pts",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "GamesPlayed": "GamesPlayed",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "TotalAttackAttempts": "Total Attacks",
+                        "HittingPercentage": "Hitting %",
+                        "Assists": "Assists",
+                        "ServiceAces": "Service Aces",
+                        "ServiceErrors": "Service Errors",
+                        "BlockSolos": "Block Solo",
+                        "BlockAssists": "Block Assist",
+                        "BlockErrors": "Block Errors",
+                        "TotalBlocks": "Total Blocks",
+                        "Digs": "Digs",
+                        "ReceptionAttempts": "Reception Attempts",
+                        "ReceptionErrors": "Reception Errors",
+                        "BallHandlingErrors": "Ball Handling Errors",
+                        "Points": "Points",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "2",
+                            "Name": "C. SMITH",
+                            "GamesPlayed": "2",
+                            "Kills": "4",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "5",
+                            "HittingPercentage": ".600",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "1",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "4",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "9",
+                            "Name": "K. GREEN",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "1",
+                            "Name": "J. WILLIAMS",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "3",
+                            "ServiceAces": "11",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "4",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "11",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "6",
+                            "Name": "B. SEABORN",
+                            "GamesPlayed": "1",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "7",
+                            "Name": "K. THOMAS",
+                            "GamesPlayed": "1",
+                            "Kills": "3",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "5",
+                            "HittingPercentage": ".600",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "3",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "11",
+                            "Name": "M. DIXON",
+                            "GamesPlayed": "1",
+                            "Kills": "3",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "4",
+                            "HittingPercentage": ".750",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "1",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "3",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "8",
+                            "Name": "T. LAKE",
+                            "GamesPlayed": "3",
+                            "Kills": "5",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "6",
+                            "HittingPercentage": ".667",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "1",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "5",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "19",
+                            "Name": "J. GILBERT",
+                            "GamesPlayed": "2",
+                            "Kills": "3",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "6",
+                            "HittingPercentage": ".500",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "3",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "3",
+                            "Name": "L. WILSON",
+                            "GamesPlayed": "3",
+                            "Kills": "1",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "2",
+                            "HittingPercentage": ".500",
+                            "Assists": "0",
+                            "ServiceAces": "12",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "3",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "13",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "4",
+                            "Name": "J. MURRY",
+                            "GamesPlayed": "3",
+                            "Kills": "3",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "3",
+                            "HittingPercentage": "1.000",
+                            "Assists": "23",
+                            "ServiceAces": "3",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "6",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "5",
+                            "Name": "W. ALLS",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "10",
+                            "Name": "K. JACKSON",
+                            "GamesPlayed": "1",
+                            "Kills": "2",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "6",
+                            "HittingPercentage": ".333",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "2",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "2",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "18",
+                            "Name": "A. HARRIS",
+                            "GamesPlayed": "1",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "1",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "14",
+                            "Name": "K. LUCAS",
+                            "GamesPlayed": "2",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "17",
+                            "Name": "N. TRONCOSO",
+                            "GamesPlayed": "1",
+                            "Kills": "2",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "3",
+                            "HittingPercentage": ".667",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "2",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "16",
+                            "Name": "D. YOUNG",
+                            "GamesPlayed": "3",
+                            "Kills": "6",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "9",
+                            "HittingPercentage": ".556",
+                            "Assists": "1",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "6",
+                            "PersonId": ""
+                        }
+                    ]
+                }
+            },
+            "Totals": {
+                "Key": {
+                    "Points": "P",
+                    "Kills": "K",
+                    "AttackErrors": "E",
+                    "TotalAttackAttempts": "TA",
+                    "HittingPercentage": "H%",
+                    "Assists": "Ast",
+                    "ServiceAces": "Ace",
+                    "ServiceErrors": "SE",
+                    "BlockSolos": "BS",
+                    "BlockAssists": "BA",
+                    "BlockErrors": "BE",
+                    "Digs": "Dig",
+                    "TotalBlocks": "TB",
+                    "ReceptionErrors": "RE",
+                    "BallHandlingErrors": "BHE"
+                },
+                "FullKey": {
+                    "Points": "Points",
+                    "Kills": "Kills",
+                    "AttackErrors": "Attack Errors",
+                    "TotalAttackAttempts": "Total Attacks",
+                    "HittingPercentage": "Hitting %",
+                    "Assists": "Assists",
+                    "ServiceAces": "Service Aces",
+                    "ServiceErrors": "Service Errors",
+                    "BlockSolos": "Block Solo",
+                    "BlockAssists": "Block Assist",
+                    "BlockErrors": "Block Errors",
+                    "Digs": "Digs",
+                    "TotalBlocks": "Total Blocks",
+                    "ReceptionErrors": "Reception Errors",
+                    "BallHandlingErrors": "Ball Handling Errors"
+                },
+                "Values": {
+                    "Points": "60",
+                    "Kills": "32",
+                    "AttackErrors": "3",
+                    "TotalAttackAttempts": "49",
+                    "HittingPercentage": ".592",
+                    "Assists": "28",
+                    "ServiceAces": "28",
+                    "ServiceErrors": "2",
+                    "BlockSolos": "0",
+                    "BlockAssists": "0",
+                    "BlockErrors": "0",
+                    "Digs": "9",
+                    "TotalBlocks": "0.0",
+                    "ReceptionErrors": "0",
+                    "BallHandlingErrors": "0"
+                }
+            },
+            "PeriodStats": [
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "1",
+                        "Points": "25",
+                        "Kills": "8",
+                        "AttackErrors": "1",
+                        "AttackAttempts": "11",
+                        "HittingPercentage": ".636",
+                        "Aces": "12",
+                        "Blocks": "0",
+                        "ServiceErrors": "0",
+                        "BallHandlingErrors": "2"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "2",
+                        "Points": "25",
+                        "Kills": "14",
+                        "AttackErrors": "2",
+                        "AttackAttempts": "20",
+                        "HittingPercentage": ".600",
+                        "Aces": "9",
+                        "Blocks": "0",
+                        "ServiceErrors": "0",
+                        "BallHandlingErrors": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "3",
+                        "Points": "25",
+                        "Kills": "10",
+                        "AttackErrors": "0",
+                        "AttackAttempts": "18",
+                        "HittingPercentage": ".556",
+                        "Aces": "7",
+                        "Blocks": "0",
+                        "ServiceErrors": "1",
+                        "BallHandlingErrors": "3"
+                    }
+                }
+            ]
+        }
+    },
+    "SeasonStats": {
+        "HomeTeam": null,
+        "VisitingTeam": null
+    },
+    "Plays": [
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "F-503365 starters: RaiJhane, McCrae; Jada, Teasley; Cynthia, Dewitt; Samaya, Johnson; Olivia, Brooks; Lyric, Washington.",
+            "Context": "",
+            "Id": "0+C871A17C",
+            "Type": "F-503365 STARTERS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "F-55 starters: Cana, Smith; Jadyn, Murry; Krislenn, Lucas; Deisire', Young; Nyla, Troncoso; Jordan, Gilbert.",
+            "Context": "",
+            "Id": "1+B060EDCD",
+            "Type": "F-55 STARTERS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Gilbert",
+                "UniformNumber": "19",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Murry, Jadyn] Kill by Gilbert, Jordan (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "2+1EBA551C",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jadyn",
+                "LastName": "Murry",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Brooks",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Murry, Jadyn] Service ace (Brooks, Olivia).",
+            "Context": "",
+            "Id": "3+B2EDFD32",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jadyn",
+                "LastName": "Murry",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Brooks",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Murry, Jadyn] Service ace (Brooks, Olivia).",
+            "Context": "",
+            "Id": "4+C703A5B1",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Deisire'",
+                "LastName": "Young",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Murry, Jadyn] Kill by Young, Deisire' (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "5+B1945EE0",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Nyla",
+                "LastName": "Troncoso",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Murry, Jadyn] Kill by Troncoso, Nyla (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "6+9E508D16",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jadyn",
+                "LastName": "Murry",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lyric",
+                    "LastName": "Washington",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Murry, Jadyn] Kill by Murry, Jadyn (from Washington, Lyric).",
+            "Context": "",
+            "Id": "7+7532D73",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samaya",
+                    "LastName": "Johnson",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Murry, Jadyn] Attack error by Johnson, Samaya (from McCrae, RaiJhane).",
+            "Context": "",
+            "Id": "8+B8B18CFC",
+            "Type": "ATTACK ERROR",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Olivia",
+                "LastName": "Brooks",
+                "UniformNumber": "22",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Murry, Jadyn] Kill by Brooks, Olivia (from McCrae, RaiJhane).",
+            "Context": "",
+            "Id": "9+BB57E09A",
+            "Type": "KILL",
+            "Action": "Morris",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Nyla",
+                "LastName": "Troncoso",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samaya",
+                    "LastName": "Johnson",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Johnson, Samaya] Kill by Troncoso, Nyla (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "10+9A925778",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "BEN subs: Wilson, La'Jai.",
+            "Context": "",
+            "Id": "11+87FFAAE2",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Cana",
+                "LastName": "Smith",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Kill by Smith, Cana (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "12+D179D256",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lyric",
+                    "LastName": "Washington",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Service ace (Washington, Lyric).",
+            "Context": "",
+            "Id": "13+7BDCEA06",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lyric",
+                    "LastName": "Washington",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Service ace (Washington, Lyric).",
+            "Context": "",
+            "Id": "14+40ACAA69",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Bad set by McCrae, RaiJhane.",
+            "Context": "",
+            "Id": "15+EB890BF",
+            "Type": "BAD SET",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Brooks",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Service ace (Brooks, Olivia).",
+            "Context": "",
+            "Id": "16+6CD1A8C4",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Cana",
+                    "LastName": "Smith",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Wilson, La'Jai] Attack error by Smith, Cana (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "17+BF942189",
+            "Type": "ATTACK ERROR",
+            "Action": "Morris",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Cana",
+                "LastName": "Smith",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[McCrae, RaiJhane] Kill by Smith, Cana (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "18+57ACFB11",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Williams",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samaya",
+                    "LastName": "Johnson",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Service ace (Johnson, Samaya).",
+            "Context": "",
+            "Id": "19+13B6AD1E",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Williams",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samaya",
+                    "LastName": "Johnson",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Service ace (Johnson, Samaya).",
+            "Context": "",
+            "Id": "20+EED0E49D",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 16
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Williams",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Service ace (Team).",
+            "Context": "",
+            "Id": "21+DE51CABE",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 17
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Williams",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Brooks",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Service ace (Brooks, Olivia).",
+            "Context": "",
+            "Id": "22+D108D836",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "T'Yannah",
+                    "LastName": "Lake",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "BEN subs: Lake, T'Yannah.",
+            "Context": "",
+            "Id": "23+96CFBE67",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Williams",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Service ace (McCrae, RaiJhane).",
+            "Context": "",
+            "Id": "24+2BC7A72D",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 19
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tamiya",
+                    "LastName": "Tyler",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "Morris subs: Tyler, Tamiya.",
+            "Context": "",
+            "Id": "25+A84A241C",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Williams",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tamiya",
+                    "LastName": "Tyler",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Bad set by Tyler, Tamiya.",
+            "Context": "",
+            "Id": "26+C8FD235C",
+            "Type": "BAD SET",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 20
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Williams",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Service ace (Team).",
+            "Context": "",
+            "Id": "27+C5C74890",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Williams",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tamiya",
+                    "LastName": "Tyler",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Brooks",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Attack error by Tyler, Tamiya (from Brooks, Olivia).",
+            "Context": "",
+            "Id": "28+4FB48310",
+            "Type": "ATTACK ERROR",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Williams",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samaya",
+                    "LastName": "Johnson",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Service ace (Johnson, Samaya).",
+            "Context": "",
+            "Id": "29+C8601E30",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Williams",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samaya",
+                    "LastName": "Johnson",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Brooks",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Attack error by Johnson, Samaya (from Brooks, Olivia).",
+            "Context": "",
+            "Id": "30+B31AB74E",
+            "Type": "ATTACK ERROR",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Williams",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Kill by Wilson, La'Jai (from Williams, Jordan).",
+            "Context": "",
+            "Id": "31+5C7C8930",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 25
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tamiya",
+                    "LastName": "Tyler",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "Morris subs: Tyler, Tamiya.",
+            "Context": "",
+            "Id": "32+7506C0B6",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "F-503365 starters: RaiJhane, McCrae; Jada, Teasley; Cynthia, Dewitt; Samaya, Johnson; Olivia, Brooks; Lyric, Washington; Tamiya, Tyler.",
+            "Context": "",
+            "Id": "33+1858583A",
+            "Type": "F-503365 STARTERS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "F-55 starters: Cana, Smith; Jadyn, Murry; Krislenn, Lucas; Deisire', Young; Nyla, Troncoso; Jordan, Gilbert; Jordan, Williams; La'Jai, Wilson; T'Yannah, Lake.",
+            "Context": "",
+            "Id": "34+AE5CFF17",
+            "Type": "F-55 STARTERS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Cana",
+                    "LastName": "Smith",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Nyla",
+                    "LastName": "Troncoso",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Gilbert",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kennede",
+                    "LastName": "Thomas",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mya",
+                    "LastName": "Dixon",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "BEN subs: Smith, Cana; Wilson, La'Jai; Troncoso, Nyla; Gilbert, Jordan; Thomas, Kennede; Dixon, Mya.",
+            "Context": "",
+            "Id": "35+920EE019",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mya",
+                "LastName": "Dixon",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samaya",
+                    "LastName": "Johnson",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Johnson, Samaya] Kill by Dixon, Mya (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "36+A9B276A1",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Armoni",
+                    "LastName": "Harris",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "BEN subs: Harris, Armoni.",
+            "Context": "",
+            "Id": "37+42A0855E",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "T'Yannah",
+                "LastName": "Lake",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Armoni",
+                    "LastName": "Harris",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Williams",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Harris, Armoni] Kill by Lake, T'Yannah (from Williams, Jordan).",
+            "Context": "",
+            "Id": "38+B63A43CA",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Armoni",
+                "LastName": "Harris",
+                "UniformNumber": "18",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Brooks",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Harris, Armoni] Service ace (Brooks, Olivia).",
+            "Context": "",
+            "Id": "39+48F95D6F",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Armoni",
+                    "LastName": "Harris",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jada",
+                    "LastName": "Teasley",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Harris, Armoni] Attack error by McCrae, RaiJhane (from Teasley, Jada).",
+            "Context": "",
+            "Id": "40+1048DBD",
+            "Type": "ATTACK ERROR",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "T'Yannah",
+                "LastName": "Lake",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Armoni",
+                    "LastName": "Harris",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Harris, Armoni] Kill by Lake, T'Yannah (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "41+98318136",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Samaya",
+                "LastName": "Johnson",
+                "UniformNumber": "20",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Armoni",
+                    "LastName": "Harris",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Harris, Armoni] Kill by Johnson, Samaya (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "42+F6BDA8C3",
+            "Type": "KILL",
+            "Action": "Morris",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mya",
+                "LastName": "Dixon",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[McCrae, RaiJhane] Kill by Dixon, Mya (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "43+9A25290C",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tamiya",
+                    "LastName": "Tyler",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "Morris subs: Tyler, Tamiya.",
+            "Context": "",
+            "Id": "44+59C7D7B2",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Krislenn",
+                    "LastName": "Lucas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jada",
+                    "LastName": "Teasley",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tamiya",
+                    "LastName": "Tyler",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Lucas, Krislenn] Attack error by Teasley, Jada (from Tyler, Tamiya).",
+            "Context": "",
+            "Id": "45+FB71D717",
+            "Type": "ATTACK ERROR",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Krislenn",
+                "LastName": "Lucas",
+                "UniformNumber": "14",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Brooks",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Lucas, Krislenn] Service ace (Brooks, Olivia).",
+            "Context": "",
+            "Id": "46+919F498F",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "T'Yannah",
+                "LastName": "Lake",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Krislenn",
+                    "LastName": "Lucas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Armoni",
+                    "LastName": "Harris",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Lucas, Krislenn] Kill by Lake, T'Yannah (from Harris, Armoni).",
+            "Context": "",
+            "Id": "47+E36D1959",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mya",
+                "LastName": "Dixon",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Krislenn",
+                    "LastName": "Lucas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Lucas, Krislenn] Kill by Dixon, Mya (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "48+80841780",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Deisire'",
+                "LastName": "Young",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Krislenn",
+                    "LastName": "Lucas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Lucas, Krislenn] Kill by Young, Deisire' (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "49+2892FB40",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Krislenn",
+                    "LastName": "Lucas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "T'Yannah",
+                    "LastName": "Lake",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Lucas, Krislenn] Attack error by Lake, T'Yannah (from Lucas, Krislenn).",
+            "Context": "",
+            "Id": "50+A39657DB",
+            "Type": "ATTACK ERROR",
+            "Action": "Morris",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "T'Yannah",
+                "LastName": "Lake",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tamiya",
+                    "LastName": "Tyler",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Tyler, Tamiya] Kill by Lake, T'Yannah (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "51+B56BA47A",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Brandi",
+                    "LastName": "Seaborn",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "BEN subs: Seaborn, Brandi.",
+            "Context": "",
+            "Id": "52+6D83B982",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Olivia",
+                "LastName": "Brooks",
+                "UniformNumber": "22",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Brandi",
+                    "LastName": "Seaborn",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Seaborn, Brandi] Kill by Brooks, Olivia.",
+            "Context": "",
+            "Id": "53+7AF7E1F8",
+            "Type": "KILL",
+            "Action": "Morris",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jadyn",
+                "LastName": "Murry",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jada",
+                    "LastName": "Teasley",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Teasley, Jada] Kill by Murry, Jadyn.",
+            "Context": "",
+            "Id": "54+CE4C8393",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "BEN subs: Wilson, La'Jai.",
+            "Context": "",
+            "Id": "55+5908E701",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Service ace (McCrae, RaiJhane).",
+            "Context": "",
+            "Id": "56+D962A6E6",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Kennede",
+                "LastName": "Thomas",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Kill by Thomas, Kennede (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "57+CF4ACCC4",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Service ace (Team).",
+            "Context": "",
+            "Id": "58+7768DFE6",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 16
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jada",
+                    "LastName": "Teasley",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Service ace (Teasley, Jada).",
+            "Context": "",
+            "Id": "59+7A468897",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 17
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Kennede",
+                "LastName": "Thomas",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Kill by Thomas, Kennede (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "60+DBBB7105",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Service ace (Team).",
+            "Context": "",
+            "Id": "61+59039E45",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 19
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Deisire'",
+                "LastName": "Young",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Kill by Young, Deisire' (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "62+DA874E99",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 20
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Kennede",
+                "LastName": "Thomas",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Kill by Thomas, Kennede.",
+            "Context": "",
+            "Id": "63+E95D01AC",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Service ace (McCrae, RaiJhane).",
+            "Context": "",
+            "Id": "64+33FCB8EE",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Deisire'",
+                    "LastName": "Young",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Wilson, La'Jai] Attack error by Young, Deisire' (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "65+E406AE00",
+            "Type": "ATTACK ERROR",
+            "Action": "Morris",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Deisire'",
+                "LastName": "Young",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Brooks",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Brooks, Olivia] Kill by Young, Deisire' (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "66+E8BF0E95",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Williams",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tamiya",
+                    "LastName": "Tyler",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Service ace (Tyler, Tamiya).",
+            "Context": "",
+            "Id": "67+21DA064F",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Williams",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Service ace (Team).",
+            "Context": "",
+            "Id": "68+8792F12C",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 25
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "F-503365 starters: RaiJhane, McCrae; Jada, Teasley; Cynthia, Dewitt; Samaya, Johnson; Olivia, Brooks; Lyric, Washington; Tamiya, Tyler.",
+            "Context": "",
+            "Id": "69+80CF3853",
+            "Type": "F-503365 STARTERS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "F-55 starters: Jadyn, Murry; Krislenn, Lucas; Deisire', Young; Jordan, Williams; T'Yannah, Lake; Kennede, Thomas; Mya, Dixon; Armoni, Harris; Brandi, Seaborn; La'Jai, Wilson.",
+            "Context": "",
+            "Id": "70+3FC2B813",
+            "Type": "F-55 STARTERS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Cynthia",
+                    "LastName": "Dewitt",
+                    "UniformNumber": "23",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "Morris subs: Dewitt, Cynthia.",
+            "Context": "",
+            "Id": "71+CD55D760",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Brandi",
+                    "LastName": "Seaborn",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kennede",
+                    "LastName": "Thomas",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mya",
+                    "LastName": "Dixon",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Krislenn",
+                    "LastName": "Lucas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Armoni",
+                    "LastName": "Harris",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Cana",
+                    "LastName": "Smith",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kylie",
+                    "LastName": "Jackson",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Gilbert",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "BEN subs: Wilson, La'Jai; Seaborn, Brandi; Thomas, Kennede; Dixon, Mya; Lucas, Krislenn; Harris, Armoni; Smith, Cana; Jackson, Kylie; Gilbert, Jordan.",
+            "Context": "",
+            "Id": "72+F6002DF5",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jadyn",
+                "LastName": "Murry",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Murry, Jadyn] Service ace (Team).",
+            "Context": "",
+            "Id": "73+78F92703",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "RaiJhane",
+                "LastName": "McCrae",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kylie",
+                    "LastName": "Jackson",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Murry, Jadyn] Kill by McCrae, RaiJhane (from Jackson, Kylie).",
+            "Context": "",
+            "Id": "74+CBBBA22E",
+            "Type": "KILL",
+            "Action": "Morris",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "T'Yannah",
+                "LastName": "Lake",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samaya",
+                    "LastName": "Johnson",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Johnson, Samaya] Kill by Lake, T'Yannah (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "75+1F4A94D3",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "BEN subs: Wilson, La'Jai.",
+            "Context": "",
+            "Id": "76+A3F42ADB",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Gilbert",
+                "UniformNumber": "19",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Kill by Gilbert, Jordan (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "77+4EECBF56",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jada",
+                    "LastName": "Teasley",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Attack error by Teasley, Jada (from McCrae, RaiJhane).",
+            "Context": "",
+            "Id": "78+85A7F02B",
+            "Type": "ATTACK ERROR",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Bad set by McCrae, RaiJhane.",
+            "Context": "",
+            "Id": "79+1F68D765",
+            "Type": "BAD SET",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jada",
+                    "LastName": "Teasley",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Attack error by Teasley, Jada.",
+            "Context": "",
+            "Id": "80+85D7072F",
+            "Type": "ATTACK ERROR",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jadyn",
+                "LastName": "Murry",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Deisire'",
+                    "LastName": "Young",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Kill by Murry, Jadyn (from Young, Deisire').",
+            "Context": "",
+            "Id": "81+E93C0C57",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Service ace (McCrae, RaiJhane).",
+            "Context": "",
+            "Id": "82+7EDD0C31",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Deisire'",
+                "LastName": "Young",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Kill by Young, Deisire' (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "83+7A69DEF5",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Kylie",
+                "LastName": "Jackson",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Kill by Jackson, Kylie (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "84+CF77338D",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Deisire'",
+                "LastName": "Young",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Kill by Young, Deisire' (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "85+6C895EA3",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tamiya",
+                    "LastName": "Tyler",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Bad set by Tyler, Tamiya.",
+            "Context": "",
+            "Id": "86+8F58CD8E",
+            "Type": "BAD SET",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jada",
+                    "LastName": "Teasley",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Bad set by Teasley, Jada.",
+            "Context": "",
+            "Id": "87+8A32A381",
+            "Type": "BAD SET",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jada",
+                    "LastName": "Teasley",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Attack error by Teasley, Jada (from McCrae, RaiJhane).",
+            "Context": "",
+            "Id": "88+C2855F85",
+            "Type": "ATTACK ERROR",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lyric",
+                    "LastName": "Washington",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Service ace (Washington, Lyric).",
+            "Context": "",
+            "Id": "89+32938400",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Kylie",
+                "LastName": "Jackson",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Williams",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Kill by Jackson, Kylie (from Williams, Jordan).",
+            "Context": "",
+            "Id": "90+780B0AD2",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 16
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lyric",
+                    "LastName": "Washington",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Service ace (Washington, Lyric).",
+            "Context": "",
+            "Id": "91+3B18001A",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 17
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "La'Jai",
+                "LastName": "Wilson",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samaya",
+                    "LastName": "Johnson",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wilson, La'Jai] Service ace (Johnson, Samaya).",
+            "Context": "",
+            "Id": "92+E6262A2B",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "La'Jai",
+                    "LastName": "Wilson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Wilson, La'Jai] Bad set by Murry, Jadyn.",
+            "Context": "",
+            "Id": "93+7D4DAAEF",
+            "Type": "BAD SET",
+            "Action": "Morris",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jada",
+                "LastName": "Teasley",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[McCrae, RaiJhane] Kill by Teasley, Jada (from McCrae, RaiJhane).",
+            "Context": "",
+            "Id": "94+4D6B5D88",
+            "Type": "KILL",
+            "Action": "Morris",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[McCrae, RaiJhane] Bad set by Murry, Jadyn.",
+            "Context": "",
+            "Id": "95+F90E3D84",
+            "Type": "BAD SET",
+            "Action": "Morris",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[McCrae, RaiJhane] Service error.",
+            "Context": "",
+            "Id": "96+8C675195",
+            "Type": "SERVICE ERROR",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 19
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Williams",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Brooks",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Service ace (Brooks, Olivia).",
+            "Context": "",
+            "Id": "97+7333A4F",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 20
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Williams",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jada",
+                    "LastName": "Teasley",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "RaiJhane",
+                    "LastName": "McCrae",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Attack error by Teasley, Jada (from McCrae, RaiJhane).",
+            "Context": "",
+            "Id": "98+DB9E39FB",
+            "Type": "ATTACK ERROR",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Williams",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samaya",
+                    "LastName": "Johnson",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Service ace (Johnson, Samaya).",
+            "Context": "",
+            "Id": "99+29D2F894",
+            "Type": "SERVICE ACE",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Cana",
+                "LastName": "Smith",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Williams",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Williams, Jordan] Kill by Smith, Cana.",
+            "Context": "",
+            "Id": "100+C270F87E",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Williams",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Williams, Jordan] Service error.",
+            "Context": "",
+            "Id": "101+E452C739",
+            "Type": "SERVICE ERROR",
+            "Action": "Morris",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jordan",
+                "LastName": "Gilbert",
+                "UniformNumber": "19",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tamiya",
+                    "LastName": "Tyler",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Tyler, Tamiya] Kill by Gilbert, Jordan (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "102+8E92E800",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jordan",
+                    "LastName": "Gilbert",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Gilbert, Jordan] Service error.",
+            "Context": "",
+            "Id": "103+C0D58CF6",
+            "Type": "SERVICE ERROR",
+            "Action": "Morris",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Cana",
+                "LastName": "Smith",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jada",
+                    "LastName": "Teasley",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jadyn",
+                    "LastName": "Murry",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Teasley, Jada] Kill by Smith, Cana (from Murry, Jadyn).",
+            "Context": "",
+            "Id": "104+CC82556D",
+            "Type": "KILL",
+            "Action": "BEN",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 25
+            }
+        }
+    ]
+}

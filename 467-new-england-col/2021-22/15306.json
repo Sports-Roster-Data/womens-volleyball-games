@@ -1,0 +1,5216 @@
+{
+    "Game": {
+        "Type": "VolleyballGame",
+        "HasStarted": true,
+        "IsComplete": true,
+        "Source": "genius",
+        "Date": "11/4/2021",
+        "DateUTC": "2021-11-04T14:00:00Z",
+        "StartTime": "2:00 PM",
+        "EndTime": "",
+        "UseLiveStatsAutomation": null,
+        "NcaaGameId": "",
+        "SidearmGameId": null,
+        "ClientId": null,
+        "ClientAbbrev": null,
+        "ClientLiveStatsUrl": null,
+        "Notes": [],
+        "Location": "Henniker",
+        "GlobalSportShortname": null,
+        "BannerMessage": null,
+        "StadiumImage": null,
+        "SiteImage": null,
+        "ClientHostname": null,
+        "Officials": "1st Referee: Brian Acheson, 1st Referee: Ted Wilcox, 1st Referee: Michael Hamilton, 1st Referee: Satoshi Asari",
+        "Attendance": 253,
+        "PeriodsRegulation": 5,
+        "Period": 3,
+        "ClockSeconds": -1,
+        "Context": "",
+        "Rules": {
+            "PeriodMinutes": -1,
+            "PeriodName": "Set",
+            "OTMinutes": -1,
+            "ShowExtraPeriodsAsOT": true,
+            "ClockDirection": "None",
+            "ClockSegmentation": "Periods"
+        },
+        "HomeTeam": {
+            "Id": "NEC",
+            "Name": "New England Col.",
+            "Score": 3,
+            "SetScore": 25,
+            "CurrentRecord": "18-6,3-0",
+            "PostgameRecord": "",
+            "NcaaSchoolCode": "",
+            "Color": "#001638",
+            "TextColor": "#B11422",
+            "Logo": "https://athletics.nec.edu/images/logos/site/site.png",
+            "Url": "https://athletics.nec.edu",
+            "PeriodScores": [
+                25,
+                25,
+                25
+            ],
+            "PeriodTimeouts": []
+        },
+        "VisitingTeam": {
+            "Id": "Lesley",
+            "Name": "Lesley",
+            "Score": 0,
+            "SetScore": 11,
+            "CurrentRecord": "0-17,0-3",
+            "PostgameRecord": "",
+            "NcaaSchoolCode": "",
+            "Color": "#EEEEEE",
+            "TextColor": "#232323",
+            "Logo": "https://athletics.nec.edu/images/logos/Lesley-University.png",
+            "Url": null,
+            "PeriodScores": [
+                3,
+                9,
+                11
+            ],
+            "PeriodTimeouts": []
+        },
+        "LastPlays": [
+            {
+                "Player": null,
+                "InvolvedPlayers": [
+                    {
+                        "Team": "HomeTeam",
+                        "FirstName": "Amaya",
+                        "LastName": "Avaloz",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sydney",
+                        "LastName": "Hart",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Tallin",
+                        "LastName": "Goldberg",
+                        "UniformNumber": "18",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "HomeTeam",
+                "Narrative": "[Avaloz, Amaya] Attack error by Hart, Sydney (from Goldberg, Tallin).",
+                "Context": "",
+                "Id": "107+82B2EEDB",
+                "Type": "ATTACK ERROR",
+                "Action": "NEC",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 25,
+                    "VisitingTeam": 11
+                }
+            },
+            {
+                "Player": {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samantha",
+                    "LastName": "Vargas",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [],
+                "Team": "HomeTeam",
+                "Narrative": "[Avaloz Amaya] Kill by Vargas, Samantha",
+                "Context": "",
+                "Id": "106+5F8D7CBF",
+                "Type": "KILL",
+                "Action": "NEC",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 24,
+                    "VisitingTeam": 11
+                }
+            },
+            {
+                "Player": {
+                    "Team": "HomeTeam",
+                    "FirstName": "Laura",
+                    "LastName": "Jacques",
+                    "UniformNumber": "24",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [],
+                "Team": "HomeTeam",
+                "Narrative": "[Goldberg Tallin] Kill by Jacques, Laura",
+                "Context": "",
+                "Id": "105+F0AD499C",
+                "Type": "KILL",
+                "Action": "NEC",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 23,
+                    "VisitingTeam": 11
+                }
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [
+                    {
+                        "Team": "HomeTeam",
+                        "FirstName": "Sophie",
+                        "LastName": "Palmer",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "VisitingTeam",
+                "Narrative": "[Palmer, Sophie] Service error.",
+                "Context": "",
+                "Id": "104+6667336D",
+                "Type": "SERVICE ERROR",
+                "Action": "Lesley",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 22,
+                    "VisitingTeam": 11
+                }
+            },
+            {
+                "Player": {
+                    "Team": "HomeTeam",
+                    "FirstName": "Sophie",
+                    "LastName": "Palmer",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [],
+                "Team": "HomeTeam",
+                "Narrative": "[Palmer, Sophie] Service ace (TEAM)",
+                "Context": "",
+                "Id": "103+2F09CC61",
+                "Type": "SERVICE ACE",
+                "Action": "NEC",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 22,
+                    "VisitingTeam": 10
+                }
+            }
+        ]
+    },
+    "Leaders": {
+        "VisitingTeam": {
+            "Kills": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sydney",
+                        "LastName": "Hart",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "5"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Tallin",
+                        "LastName": "Goldberg",
+                        "UniformNumber": "18",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Megan",
+                        "LastName": "Lorenze",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Hitting %": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Tallin",
+                        "LastName": "Goldberg",
+                        "UniformNumber": "18",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".222"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sydney",
+                        "LastName": "Hart",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "-.077"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Megan",
+                        "LastName": "Lorenze",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "-.118"
+                }
+            ],
+            "Assists": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Tallin",
+                        "LastName": "Goldberg",
+                        "UniformNumber": "18",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sydney",
+                        "LastName": "Hart",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Megan",
+                        "LastName": "Lorenze",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Service Aces": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Annie",
+                        "LastName": "Dai",
+                        "UniformNumber": "15",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Total Blocks": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Morgan",
+                        "LastName": "Anderson",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Molly",
+                        "LastName": "Main",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sydney",
+                        "LastName": "Hart",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Megan",
+                        "LastName": "Lorenze",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                }
+            ],
+            "Digs": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sydney",
+                        "LastName": "Hart",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "10"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Megan",
+                        "LastName": "Lorenze",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Tallin",
+                        "LastName": "Goldberg",
+                        "UniformNumber": "18",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Molly",
+                        "LastName": "Main",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Points": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sydney",
+                        "LastName": "Hart",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "5"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Tallin",
+                        "LastName": "Goldberg",
+                        "UniformNumber": "18",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Megan",
+                        "LastName": "Lorenze",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Annie",
+                        "LastName": "Dai",
+                        "UniformNumber": "15",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ]
+        },
+        "HomeTeam": {
+            "Kills": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Tatiana",
+                        "LastName": "Sampson",
+                        "UniformNumber": "13",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "7"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Shirita",
+                        "LastName": "Wimberly",
+                        "UniformNumber": "9",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Samantha",
+                        "LastName": "Vargas",
+                        "UniformNumber": "11",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Savannah",
+                        "LastName": "Pilialoha",
+                        "UniformNumber": "25",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                }
+            ],
+            "Hitting %": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kenzie",
+                        "LastName": "Barron",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1.000"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Amber",
+                        "LastName": "Thi",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1.000"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Livia",
+                        "LastName": "Elfering",
+                        "UniformNumber": "12",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1.000"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Arianna",
+                        "LastName": "Blaize-Llamas",
+                        "UniformNumber": "18",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1.000"
+                }
+            ],
+            "Assists": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kenzie",
+                        "LastName": "Barron",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "9"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Tihani",
+                        "LastName": "Ehia",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Arianna",
+                        "LastName": "Blaize-Llamas",
+                        "UniformNumber": "18",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "5"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Laura",
+                        "LastName": "Jacques",
+                        "UniformNumber": "24",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                }
+            ],
+            "Service Aces": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kenzie",
+                        "LastName": "Barron",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "5"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jaycie",
+                        "LastName": "Kodama",
+                        "UniformNumber": "17",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "5"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Sophie",
+                        "LastName": "Palmer",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Amber",
+                        "LastName": "Thi",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                }
+            ],
+            "Total Blocks": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Tatiana",
+                        "LastName": "Sampson",
+                        "UniformNumber": "13",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "McKenzie",
+                        "LastName": "DeBaca",
+                        "UniformNumber": "21",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Samantha",
+                        "LastName": "Vargas",
+                        "UniformNumber": "11",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Livia",
+                        "LastName": "Elfering",
+                        "UniformNumber": "12",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                }
+            ],
+            "Digs": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jaycie",
+                        "LastName": "Kodama",
+                        "UniformNumber": "17",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "9"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Amaya",
+                        "LastName": "Avaloz",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Amber",
+                        "LastName": "Thi",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kenzie",
+                        "LastName": "Barron",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                }
+            ],
+            "Points": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Tatiana",
+                        "LastName": "Sampson",
+                        "UniformNumber": "13",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "11.5"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kenzie",
+                        "LastName": "Barron",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Amber",
+                        "LastName": "Thi",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Shirita",
+                        "LastName": "Wimberly",
+                        "UniformNumber": "9",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                }
+            ]
+        }
+    },
+    "Stats": {
+        "HomeTeam": {
+            "TopPerformer": {
+                "Team": "HomeTeam",
+                "FirstName": "Tatiana",
+                "LastName": "Sampson",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "Players": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Amaya",
+                    "LastName": "Avaloz",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Sophie",
+                    "LastName": "Palmer",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kenzie",
+                    "LastName": "Barron",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Amber",
+                    "LastName": "Thi",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Shirita",
+                    "LastName": "Wimberly",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tihani",
+                    "LastName": "Ehia",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samantha",
+                    "LastName": "Vargas",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Livia",
+                    "LastName": "Elfering",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tatiana",
+                    "LastName": "Sampson",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nyah",
+                    "LastName": "Piper",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jaycie",
+                    "LastName": "Kodama",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Arianna",
+                    "LastName": "Blaize-Llamas",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "McKenzie",
+                    "LastName": "DeBaca",
+                    "UniformNumber": "21",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Laura",
+                    "LastName": "Jacques",
+                    "UniformNumber": "24",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Savannah",
+                    "LastName": "Pilialoha",
+                    "UniformNumber": "25",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "PlayerGroups": {
+                "Players": {
+                    "Title": "Players",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "GamesPlayed": "GP",
+                        "Kills": "K",
+                        "AttackErrors": "E",
+                        "TotalAttackAttempts": "TA",
+                        "HittingPercentage": "H%",
+                        "Assists": "Ast",
+                        "ServiceAces": "Ace",
+                        "ServiceErrors": "SE",
+                        "BlockSolos": "BS",
+                        "BlockAssists": "BA",
+                        "BlockErrors": "BE",
+                        "TotalBlocks": "TB",
+                        "Digs": "Dig",
+                        "ReceptionAttempts": "Rec",
+                        "ReceptionErrors": "RE",
+                        "BallHandlingErrors": "BHE",
+                        "Points": "Pts",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "GamesPlayed": "GamesPlayed",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "TotalAttackAttempts": "Total Attacks",
+                        "HittingPercentage": "Hitting %",
+                        "Assists": "Assists",
+                        "ServiceAces": "Service Aces",
+                        "ServiceErrors": "Service Errors",
+                        "BlockSolos": "Block Solo",
+                        "BlockAssists": "Block Assist",
+                        "BlockErrors": "Block Errors",
+                        "TotalBlocks": "Total Blocks",
+                        "Digs": "Digs",
+                        "ReceptionAttempts": "Reception Attempts",
+                        "ReceptionErrors": "Reception Errors",
+                        "BallHandlingErrors": "Ball Handling Errors",
+                        "Points": "Points",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "2",
+                            "Name": "A. AVALOZ",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": ".000",
+                            "Assists": "3",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "2",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "6",
+                            "ReceptionAttempts": "2",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "4",
+                            "Name": "S. PALMER",
+                            "GamesPlayed": "2",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "4",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "3",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "4",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "5",
+                            "Name": "K. BARRON",
+                            "GamesPlayed": "2",
+                            "Kills": "1",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": "1.000",
+                            "Assists": "9",
+                            "ServiceAces": "5",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "3",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "6",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "6",
+                            "Name": "A. THI",
+                            "GamesPlayed": "2",
+                            "Kills": "2",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "2",
+                            "HittingPercentage": "1.000",
+                            "Assists": "1",
+                            "ServiceAces": "4",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "4",
+                            "ReceptionAttempts": "1",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "6",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "9",
+                            "Name": "S. WIMBERLY",
+                            "GamesPlayed": "2",
+                            "Kills": "6",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "7",
+                            "HittingPercentage": ".857",
+                            "Assists": "1",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "3",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "6",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "10",
+                            "Name": "T. EHIA",
+                            "GamesPlayed": "2",
+                            "Kills": "1",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "2",
+                            "HittingPercentage": ".500",
+                            "Assists": "6",
+                            "ServiceAces": "2",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "3",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "11",
+                            "Name": "S. VARGAS",
+                            "GamesPlayed": "3",
+                            "Kills": "4",
+                            "AttackErrors": "2",
+                            "TotalAttackAttempts": "9",
+                            "HittingPercentage": ".222",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "2",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "2",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "5",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "12",
+                            "Name": "L. ELFERING",
+                            "GamesPlayed": "2",
+                            "Kills": "2",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "2",
+                            "HittingPercentage": "1.000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "1",
+                            "BlockAssists": "1",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "2",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "3.5",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "13",
+                            "Name": "T. SAMPSON",
+                            "GamesPlayed": "3",
+                            "Kills": "7",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "11",
+                            "HittingPercentage": ".545",
+                            "Assists": "2",
+                            "ServiceAces": "2",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "2",
+                            "BlockAssists": "1",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "3",
+                            "Digs": "1",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "11.5",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "15",
+                            "Name": "N. PIPER",
+                            "GamesPlayed": "2",
+                            "Kills": "3",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "7",
+                            "HittingPercentage": ".429",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "3",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "3",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "17",
+                            "Name": "J. KODAMA",
+                            "GamesPlayed": "2",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": ".000",
+                            "Assists": "1",
+                            "ServiceAces": "5",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "9",
+                            "ReceptionAttempts": "4",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "0",
+                            "Points": "5",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "18",
+                            "Name": "A. BLAIZE-LLAMAS",
+                            "GamesPlayed": "1",
+                            "Kills": "2",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "2",
+                            "HittingPercentage": "1.000",
+                            "Assists": "5",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "3",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "2",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "21",
+                            "Name": "M. DEBACA",
+                            "GamesPlayed": "2",
+                            "Kills": "1",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "2",
+                            "HittingPercentage": ".500",
+                            "Assists": "0",
+                            "ServiceAces": "2",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "1",
+                            "BlockAssists": "2",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "3",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "5",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "24",
+                            "Name": "L. JACQUES",
+                            "GamesPlayed": "1",
+                            "Kills": "1",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": "1.000",
+                            "Assists": "4",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "25",
+                            "Name": "S. PILIALOHA",
+                            "GamesPlayed": "2",
+                            "Kills": "4",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "8",
+                            "HittingPercentage": ".375",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "3",
+                            "ReceptionAttempts": "2",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "4",
+                            "PersonId": ""
+                        }
+                    ]
+                }
+            },
+            "Totals": {
+                "Key": {
+                    "Points": "P",
+                    "Kills": "K",
+                    "AttackErrors": "E",
+                    "TotalAttackAttempts": "TA",
+                    "HittingPercentage": "H%",
+                    "Assists": "Ast",
+                    "ServiceAces": "Ace",
+                    "ServiceErrors": "SE",
+                    "BlockSolos": "BS",
+                    "BlockAssists": "BA",
+                    "BlockErrors": "BE",
+                    "Digs": "Dig",
+                    "TotalBlocks": "TB",
+                    "ReceptionErrors": "RE",
+                    "BallHandlingErrors": "BHE"
+                },
+                "FullKey": {
+                    "Points": "Points",
+                    "Kills": "Kills",
+                    "AttackErrors": "Attack Errors",
+                    "TotalAttackAttempts": "Total Attacks",
+                    "HittingPercentage": "Hitting %",
+                    "Assists": "Assists",
+                    "ServiceAces": "Service Aces",
+                    "ServiceErrors": "Service Errors",
+                    "BlockSolos": "Block Solo",
+                    "BlockAssists": "Block Assist",
+                    "BlockErrors": "Block Errors",
+                    "Digs": "Digs",
+                    "TotalBlocks": "Total Blocks",
+                    "ReceptionErrors": "Reception Errors",
+                    "BallHandlingErrors": "Ball Handling Errors"
+                },
+                "Values": {
+                    "Points": "65",
+                    "Kills": "34",
+                    "AttackErrors": "4",
+                    "TotalAttackAttempts": "56",
+                    "HittingPercentage": ".536",
+                    "Assists": "32",
+                    "ServiceAces": "24",
+                    "ServiceErrors": "9",
+                    "BlockSolos": "4",
+                    "BlockAssists": "6",
+                    "BlockErrors": "0",
+                    "Digs": "37",
+                    "TotalBlocks": "7.0",
+                    "ReceptionErrors": "1",
+                    "BallHandlingErrors": "0"
+                }
+            },
+            "PeriodStats": [
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "1",
+                        "Points": "25",
+                        "Kills": "7",
+                        "AttackErrors": "0",
+                        "AttackAttempts": "10",
+                        "HittingPercentage": ".700",
+                        "Aces": "12",
+                        "Blocks": "4",
+                        "ServiceErrors": "2",
+                        "BallHandlingErrors": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "2",
+                        "Points": "25",
+                        "Kills": "16",
+                        "AttackErrors": "1",
+                        "AttackAttempts": "25",
+                        "HittingPercentage": ".600",
+                        "Aces": "5",
+                        "Blocks": "1",
+                        "ServiceErrors": "2",
+                        "BallHandlingErrors": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "3",
+                        "Points": "25",
+                        "Kills": "11",
+                        "AttackErrors": "3",
+                        "AttackAttempts": "21",
+                        "HittingPercentage": ".381",
+                        "Aces": "7",
+                        "Blocks": "2",
+                        "ServiceErrors": "2",
+                        "BallHandlingErrors": "1"
+                    }
+                }
+            ]
+        },
+        "VisitingTeam": {
+            "TopPerformer": {
+                "Team": "VisitingTeam",
+                "FirstName": "Tallin",
+                "LastName": "Goldberg",
+                "UniformNumber": "18",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "Players": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Morgan",
+                    "LastName": "Anderson",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Molly",
+                    "LastName": "Main",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Megan",
+                    "LastName": "Lorenze",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Annie",
+                    "LastName": "Dai",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Tallin",
+                    "LastName": "Goldberg",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Norah",
+                    "LastName": "Ciano",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "PlayerGroups": {
+                "Players": {
+                    "Title": "Players",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "GamesPlayed": "GP",
+                        "Kills": "K",
+                        "AttackErrors": "E",
+                        "TotalAttackAttempts": "TA",
+                        "HittingPercentage": "H%",
+                        "Assists": "Ast",
+                        "ServiceAces": "Ace",
+                        "ServiceErrors": "SE",
+                        "BlockSolos": "BS",
+                        "BlockAssists": "BA",
+                        "BlockErrors": "BE",
+                        "TotalBlocks": "TB",
+                        "Digs": "Dig",
+                        "ReceptionAttempts": "Rec",
+                        "ReceptionErrors": "RE",
+                        "BallHandlingErrors": "BHE",
+                        "Points": "Pts",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "GamesPlayed": "GamesPlayed",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "TotalAttackAttempts": "Total Attacks",
+                        "HittingPercentage": "Hitting %",
+                        "Assists": "Assists",
+                        "ServiceAces": "Service Aces",
+                        "ServiceErrors": "Service Errors",
+                        "BlockSolos": "Block Solo",
+                        "BlockAssists": "Block Assist",
+                        "BlockErrors": "Block Errors",
+                        "TotalBlocks": "Total Blocks",
+                        "Digs": "Digs",
+                        "ReceptionAttempts": "Reception Attempts",
+                        "ReceptionErrors": "Reception Errors",
+                        "BallHandlingErrors": "Ball Handling Errors",
+                        "Points": "Points",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "2",
+                            "Name": "M. ANDERSON",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "5",
+                            "Name": "M. MAIN",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "2",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "5",
+                            "ReceptionErrors": "3",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "6",
+                            "Name": "S. HART",
+                            "GamesPlayed": "3",
+                            "Kills": "5",
+                            "AttackErrors": "7",
+                            "TotalAttackAttempts": "26",
+                            "HittingPercentage": "-.077",
+                            "Assists": "1",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "10",
+                            "ReceptionAttempts": "18",
+                            "ReceptionErrors": "7",
+                            "BallHandlingErrors": "0",
+                            "Points": "5",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "7",
+                            "Name": "M. LORENZE",
+                            "GamesPlayed": "3",
+                            "Kills": "1",
+                            "AttackErrors": "3",
+                            "TotalAttackAttempts": "17",
+                            "HittingPercentage": "-.118",
+                            "Assists": "1",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "21",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "15",
+                            "Name": "A. DAI",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "4",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "2",
+                            "ReceptionErrors": "2",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "18",
+                            "Name": "T. GOLDBERG",
+                            "GamesPlayed": "3",
+                            "Kills": "2",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "9",
+                            "HittingPercentage": ".222",
+                            "Assists": "6",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "8",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "1",
+                            "Points": "2",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "19",
+                            "Name": "N. CIANO",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "3",
+                            "ReceptionErrors": "2",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        }
+                    ]
+                }
+            },
+            "Totals": {
+                "Key": {
+                    "Points": "P",
+                    "Kills": "K",
+                    "AttackErrors": "E",
+                    "TotalAttackAttempts": "TA",
+                    "HittingPercentage": "H%",
+                    "Assists": "Ast",
+                    "ServiceAces": "Ace",
+                    "ServiceErrors": "SE",
+                    "BlockSolos": "BS",
+                    "BlockAssists": "BA",
+                    "BlockErrors": "BE",
+                    "Digs": "Dig",
+                    "TotalBlocks": "TB",
+                    "ReceptionErrors": "RE",
+                    "BallHandlingErrors": "BHE"
+                },
+                "FullKey": {
+                    "Points": "Points",
+                    "Kills": "Kills",
+                    "AttackErrors": "Attack Errors",
+                    "TotalAttackAttempts": "Total Attacks",
+                    "HittingPercentage": "Hitting %",
+                    "Assists": "Assists",
+                    "ServiceAces": "Service Aces",
+                    "ServiceErrors": "Service Errors",
+                    "BlockSolos": "Block Solo",
+                    "BlockAssists": "Block Assist",
+                    "BlockErrors": "Block Errors",
+                    "Digs": "Digs",
+                    "TotalBlocks": "Total Blocks",
+                    "ReceptionErrors": "Reception Errors",
+                    "BallHandlingErrors": "Ball Handling Errors"
+                },
+                "Values": {
+                    "Points": "9",
+                    "Kills": "8",
+                    "AttackErrors": "10",
+                    "TotalAttackAttempts": "55",
+                    "HittingPercentage": "-.036",
+                    "Assists": "8",
+                    "ServiceAces": "1",
+                    "ServiceErrors": "6",
+                    "BlockSolos": "0",
+                    "BlockAssists": "0",
+                    "BlockErrors": "0",
+                    "Digs": "17",
+                    "TotalBlocks": "0.0",
+                    "ReceptionErrors": "24",
+                    "BallHandlingErrors": "1"
+                }
+            },
+            "PeriodStats": [
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "1",
+                        "Points": "3",
+                        "Kills": "2",
+                        "AttackErrors": "4",
+                        "AttackAttempts": "13",
+                        "HittingPercentage": "-.154",
+                        "Aces": "0",
+                        "Blocks": "0",
+                        "ServiceErrors": "1",
+                        "BallHandlingErrors": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "2",
+                        "Points": "9",
+                        "Kills": "3",
+                        "AttackErrors": "2",
+                        "AttackAttempts": "23",
+                        "HittingPercentage": ".043",
+                        "Aces": "1",
+                        "Blocks": "0",
+                        "ServiceErrors": "4",
+                        "BallHandlingErrors": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "3",
+                        "Points": "11",
+                        "Kills": "3",
+                        "AttackErrors": "4",
+                        "AttackAttempts": "19",
+                        "HittingPercentage": "-.053",
+                        "Aces": "0",
+                        "Blocks": "0",
+                        "ServiceErrors": "4",
+                        "BallHandlingErrors": "1"
+                    }
+                }
+            ]
+        }
+    },
+    "SeasonStats": {
+        "HomeTeam": null,
+        "VisitingTeam": null
+    },
+    "Plays": [
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Molly",
+                    "LastName": "Main",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Megan",
+                    "LastName": "Lorenze",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Annie",
+                    "LastName": "Dai",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Tallin",
+                    "LastName": "Goldberg",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Norah",
+                    "LastName": "Ciano",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "Lesley starters: Main, Molly; Hart, Sydney; Lorenze, Megan; Dai, Annie; Goldberg, Tallin; Ciano, Norah.",
+            "Context": "",
+            "Id": "0+77D73A7D",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kenzie",
+                    "LastName": "Barron",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Amber",
+                    "LastName": "Thi",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Shirita",
+                    "LastName": "Wimberly",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samantha",
+                    "LastName": "Vargas",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tatiana",
+                    "LastName": "Sampson",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "McKenzie",
+                    "LastName": "DeBaca",
+                    "UniformNumber": "21",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jaycie",
+                    "LastName": "Kodama",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "NEC starters: Barron, Kenzie; Thi, Amber; Wimberly, Shirita; Vargas, Samantha; Sampson, Tatiana; DeBaca, McKenzie; libero Kodama, Jaycie.",
+            "Context": "",
+            "Id": "1+B5C24404",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Kenzie",
+                "LastName": "Barron",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Molly",
+                    "LastName": "Main",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Barron, Kenzie] Service ace (Main, Molly)",
+            "Context": "",
+            "Id": "2+257D01A0",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Kenzie",
+                "LastName": "Barron",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Norah",
+                    "LastName": "Ciano",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Barron, Kenzie] Service ace (Ciano, Norah)",
+            "Context": "",
+            "Id": "3+1C997E79",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Shirita",
+                "LastName": "Wimberly",
+                "UniformNumber": "9",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Barron Kenzie] Kill by Wimberly, Shirita",
+            "Context": "",
+            "Id": "4+7802FDA9",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Kenzie",
+                "LastName": "Barron",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Barron, Kenzie] Service ace (Hart, Sydney)",
+            "Context": "",
+            "Id": "5+764B7C1A",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "Timeout Lesley",
+            "Context": "",
+            "Id": "6+54EAF2C4",
+            "Type": "TIMEOUT",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kenzie",
+                    "LastName": "Barron",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Megan",
+                    "LastName": "Lorenze",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "McKenzie",
+                    "LastName": "DeBaca",
+                    "UniformNumber": "21",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tatiana",
+                    "LastName": "Sampson",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Barron, Kenzie] Attack error by Lorenze, Megan (block by DeBaca, McKenzie; Sampson, Tatiana).",
+            "Context": "",
+            "Id": "7+EEC6C9A1",
+            "Type": "ATTACK ERROR",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Kenzie",
+                "LastName": "Barron",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Molly",
+                    "LastName": "Main",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Barron, Kenzie] Service ace (Main, Molly)",
+            "Context": "",
+            "Id": "8+5FA19F72",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sydney",
+                "LastName": "Hart",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Barron Kenzie] Kill by Hart, Sydney",
+            "Context": "",
+            "Id": "9+83B0B6A2",
+            "Type": "KILL",
+            "Action": "Lesley",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Tatiana",
+                "LastName": "Sampson",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Lorenze Megan] Kill by Sampson, Tatiana",
+            "Context": "",
+            "Id": "10+7D69840",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Tatiana",
+                "LastName": "Sampson",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Thi Amber] Kill by Sampson, Tatiana",
+            "Context": "",
+            "Id": "11+1CC0E4A8",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Amber",
+                "LastName": "Thi",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Thi, Amber] Service ace (TEAM)",
+            "Context": "",
+            "Id": "12+4DE69AF7",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 9,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Kenzie",
+                "LastName": "Barron",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Thi Amber] Kill by Barron, Kenzie",
+            "Context": "",
+            "Id": "13+719CC065",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 10,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "McKenzie",
+                "LastName": "DeBaca",
+                "UniformNumber": "21",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Thi Amber] Kill by DeBaca, McKenzie",
+            "Context": "",
+            "Id": "14+3E5A83EA",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 11,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Amber",
+                    "LastName": "Thi",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tatiana",
+                    "LastName": "Sampson",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Thi, Amber] Attack error by Hart, Sydney (block by Sampson, Tatiana).",
+            "Context": "",
+            "Id": "15+5B8AD5CA",
+            "Type": "ATTACK ERROR",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Amber",
+                "LastName": "Thi",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Norah",
+                    "LastName": "Ciano",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Thi, Amber] Service ace (Ciano, Norah)",
+            "Context": "",
+            "Id": "16+ED40B512",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 13,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Amber",
+                "LastName": "Thi",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Thi, Amber] Service ace (Hart, Sydney)",
+            "Context": "",
+            "Id": "17+35332496",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 14,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Amber",
+                "LastName": "Thi",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Thi, Amber] Service ace (TEAM)",
+            "Context": "",
+            "Id": "18+DDF93B61",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "Timeout Lesley",
+            "Context": "",
+            "Id": "19+9DC60A6D",
+            "Type": "TIMEOUT",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Amber",
+                    "LastName": "Thi",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Thi, Amber] Service error.",
+            "Context": "",
+            "Id": "20+AEF7E8F6",
+            "Type": "SERVICE ERROR",
+            "Action": "Lesley",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Annie",
+                    "LastName": "Dai",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Dai, Annie] Service error.",
+            "Context": "",
+            "Id": "21+18C81F4E",
+            "Type": "SERVICE ERROR",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jaycie",
+                    "LastName": "Kodama",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "McKenzie",
+                    "LastName": "DeBaca",
+                    "UniformNumber": "21",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samantha",
+                    "LastName": "Vargas",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Kodama, Jaycie] Attack error by Hart, Sydney (block by DeBaca, McKenzie; Vargas, Samantha).",
+            "Context": "",
+            "Id": "22+5662ED90",
+            "Type": "ATTACK ERROR",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 17,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Shirita",
+                "LastName": "Wimberly",
+                "UniformNumber": "9",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Kodama Jaycie] Kill by Wimberly, Shirita",
+            "Context": "",
+            "Id": "23+8A8862DA",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jaycie",
+                "LastName": "Kodama",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Kodama, Jaycie] Service ace (TEAM)",
+            "Context": "",
+            "Id": "24+3C56FEB9",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 19,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jaycie",
+                "LastName": "Kodama",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Annie",
+                    "LastName": "Dai",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Kodama, Jaycie] Service ace (Dai, Annie)",
+            "Context": "",
+            "Id": "25+5C0F2A3E",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 20,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jaycie",
+                "LastName": "Kodama",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Kodama, Jaycie] Service ace (TEAM)",
+            "Context": "",
+            "Id": "26+37C87C93",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 21,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Shirita",
+                "LastName": "Wimberly",
+                "UniformNumber": "9",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Kodama Jaycie] Kill by Wimberly, Shirita",
+            "Context": "",
+            "Id": "27+99A3668E",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 22,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jaycie",
+                    "LastName": "Kodama",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "McKenzie",
+                    "LastName": "DeBaca",
+                    "UniformNumber": "21",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Kodama, Jaycie] Attack error by Hart, Sydney (block by DeBaca, McKenzie).",
+            "Context": "",
+            "Id": "28+F5317B98",
+            "Type": "ATTACK ERROR",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 23,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sydney",
+                "LastName": "Hart",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Kodama Jaycie] Kill by Hart, Sydney",
+            "Context": "",
+            "Id": "29+398014C2",
+            "Type": "KILL",
+            "Action": "Lesley",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 23,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Tallin",
+                    "LastName": "Goldberg",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Goldberg, Tallin] Service error.",
+            "Context": "",
+            "Id": "30+13FB3270",
+            "Type": "SERVICE ERROR",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 24,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Tihani",
+                "LastName": "Ehia",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Ehia, Tihani] Service ace (TEAM)",
+            "Context": "",
+            "Id": "31+A99C3418",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 25,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Molly",
+                    "LastName": "Main",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Megan",
+                    "LastName": "Lorenze",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Annie",
+                    "LastName": "Dai",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Tallin",
+                    "LastName": "Goldberg",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Norah",
+                    "LastName": "Ciano",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "Lesley starters: Main, Molly; Hart, Sydney; Lorenze, Megan; Dai, Annie; Goldberg, Tallin; Ciano, Norah.",
+            "Context": "",
+            "Id": "32+80BF1322",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Amber",
+                    "LastName": "Thi",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Shirita",
+                    "LastName": "Wimberly",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tihani",
+                    "LastName": "Ehia",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samantha",
+                    "LastName": "Vargas",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tatiana",
+                    "LastName": "Sampson",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nyah",
+                    "LastName": "Piper",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jaycie",
+                    "LastName": "Kodama",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "NEC starters: Thi, Amber; Wimberly, Shirita; Ehia, Tihani; Vargas, Samantha; Sampson, Tatiana; Piper, Nyah; libero Kodama, Jaycie.",
+            "Context": "",
+            "Id": "33+5BE52CD3",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Tatiana",
+                "LastName": "Sampson",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Lorenze Megan] Kill by Sampson, Tatiana",
+            "Context": "",
+            "Id": "34+F284A387",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Amaya",
+                    "LastName": "Avaloz",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tatiana",
+                    "LastName": "Sampson",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tihani",
+                    "LastName": "Ehia",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Avaloz, Amaya] Attack error by Sampson, Tatiana (from Ehia, Tihani).",
+            "Context": "",
+            "Id": "35+519FAF64",
+            "Type": "ATTACK ERROR",
+            "Action": "Lesley",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Annie",
+                "LastName": "Dai",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jaycie",
+                    "LastName": "Kodama",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Dai, Annie] Service ace (Kodama, Jaycie)",
+            "Context": "",
+            "Id": "36+1D22CDDE",
+            "Type": "SERVICE ACE",
+            "Action": "Lesley",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Annie",
+                    "LastName": "Dai",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Dai, Annie] Service error.",
+            "Context": "",
+            "Id": "37+C43C0869",
+            "Type": "SERVICE ERROR",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Shirita",
+                "LastName": "Wimberly",
+                "UniformNumber": "9",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Sampson Tatiana] Kill by Wimberly, Shirita",
+            "Context": "",
+            "Id": "38+B55F6299",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tatiana",
+                    "LastName": "Sampson",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Megan",
+                    "LastName": "Lorenze",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Sampson, Tatiana] Attack error by Lorenze, Megan (from Hart, Sydney).",
+            "Context": "",
+            "Id": "39+3C91739E",
+            "Type": "ATTACK ERROR",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sydney",
+                "LastName": "Hart",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Sampson Tatiana] Kill by Hart, Sydney",
+            "Context": "",
+            "Id": "40+912D8697",
+            "Type": "KILL",
+            "Action": "Lesley",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Samantha",
+                "LastName": "Vargas",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Goldberg Tallin] Kill by Vargas, Samantha",
+            "Context": "",
+            "Id": "41+5417951F",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sydney",
+                "LastName": "Hart",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Blaize-Llamas Arianna] Kill by Hart, Sydney",
+            "Context": "",
+            "Id": "42+3DCE1F9E",
+            "Type": "KILL",
+            "Action": "Lesley",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Savannah",
+                "LastName": "Pilialoha",
+                "UniformNumber": "25",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Hart Sydney] Kill by Pilialoha, Savannah",
+            "Context": "",
+            "Id": "43+601133A0",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Amber",
+                "LastName": "Thi",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Wimberly Shirita] Kill by Thi, Amber",
+            "Context": "",
+            "Id": "44+EA27116C",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Savannah",
+                "LastName": "Pilialoha",
+                "UniformNumber": "25",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Wimberly Shirita] Kill by Pilialoha, Savannah",
+            "Context": "",
+            "Id": "45+83516672",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Arianna",
+                "LastName": "Blaize-Llamas",
+                "UniformNumber": "18",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Wimberly Shirita] Kill by Blaize-Llamas, Arianna",
+            "Context": "",
+            "Id": "46+9EE456DE",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 9,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Shirita",
+                    "LastName": "Wimberly",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Wimberly, Shirita] Service error.",
+            "Context": "",
+            "Id": "47+2F9D767B",
+            "Type": "SERVICE ERROR",
+            "Action": "Lesley",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 9,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Norah",
+                    "LastName": "Ciano",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Ciano, Norah] Service error.",
+            "Context": "",
+            "Id": "48+64047BD",
+            "Type": "SERVICE ERROR",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 10,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Arianna",
+                "LastName": "Blaize-Llamas",
+                "UniformNumber": "18",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Kodama Jaycie] Kill by Blaize-Llamas, Arianna",
+            "Context": "",
+            "Id": "49+76F46D62",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 11,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "Timeout Lesley",
+            "Context": "",
+            "Id": "50+16D92B7F",
+            "Type": "TIMEOUT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Tatiana",
+                "LastName": "Sampson",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Kodama Jaycie] Kill by Sampson, Tatiana",
+            "Context": "",
+            "Id": "51+6B3758CD",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jaycie",
+                "LastName": "Kodama",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Kodama, Jaycie] Service ace (Hart, Sydney)",
+            "Context": "",
+            "Id": "52+DCFD9BC6",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 13,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Savannah",
+                "LastName": "Pilialoha",
+                "UniformNumber": "25",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Kodama Jaycie] Kill by Pilialoha, Savannah",
+            "Context": "",
+            "Id": "53+D0737E13",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 14,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jaycie",
+                "LastName": "Kodama",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Kodama, Jaycie] Service ace (Hart, Sydney)",
+            "Context": "",
+            "Id": "54+C46A1FCC",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jaycie",
+                    "LastName": "Kodama",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Kodama, Jaycie] Service error.",
+            "Context": "",
+            "Id": "55+7D27E306",
+            "Type": "SERVICE ERROR",
+            "Action": "Lesley",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Molly",
+                    "LastName": "Main",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Megan",
+                    "LastName": "Lorenze",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tatiana",
+                    "LastName": "Sampson",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Main, Molly] Attack error by Lorenze, Megan (block by Sampson, Tatiana).",
+            "Context": "",
+            "Id": "56+DB062AD6",
+            "Type": "ATTACK ERROR",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Amber",
+                "LastName": "Thi",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Ehia Tihani] Kill by Thi, Amber",
+            "Context": "",
+            "Id": "57+42C8C94C",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 17,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Tihani",
+                "LastName": "Ehia",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Ehia, Tihani] Service ace (Hart, Sydney)",
+            "Context": "",
+            "Id": "58+3D007396",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tihani",
+                    "LastName": "Ehia",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Ehia, Tihani] Service error.",
+            "Context": "",
+            "Id": "59+B59896DC",
+            "Type": "SERVICE ERROR",
+            "Action": "Lesley",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Nyah",
+                "LastName": "Piper",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Lorenze Megan] Kill by Piper, Nyah",
+            "Context": "",
+            "Id": "60+A7DCA0E",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 19,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Tihani",
+                "LastName": "Ehia",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Avaloz Amaya] Kill by Ehia, Tihani",
+            "Context": "",
+            "Id": "61+B7C675B6",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 20,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Amaya",
+                    "LastName": "Avaloz",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Avaloz, Amaya] Service error.",
+            "Context": "",
+            "Id": "62+37F4B0D1",
+            "Type": "SERVICE ERROR",
+            "Action": "Lesley",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 20,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Shirita",
+                "LastName": "Wimberly",
+                "UniformNumber": "9",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Dai Annie] Kill by Wimberly, Shirita",
+            "Context": "",
+            "Id": "63+8AE525DA",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 21,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Tatiana",
+                "LastName": "Sampson",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Sampson, Tatiana] Service ace (Hart, Sydney)",
+            "Context": "",
+            "Id": "64+2232C699",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 22,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Tatiana",
+                "LastName": "Sampson",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Annie",
+                    "LastName": "Dai",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Sampson, Tatiana] Service ace (Dai, Annie)",
+            "Context": "",
+            "Id": "65+74B83C2",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 23,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "Timeout Lesley",
+            "Context": "",
+            "Id": "66+2B053ACF",
+            "Type": "TIMEOUT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sydney",
+                "LastName": "Hart",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Sampson Tatiana] Kill by Hart, Sydney",
+            "Context": "",
+            "Id": "67+806ACA8",
+            "Type": "KILL",
+            "Action": "Lesley",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 23,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Samantha",
+                "LastName": "Vargas",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Goldberg Tallin] Kill by Vargas, Samantha",
+            "Context": "",
+            "Id": "68+E215BD16",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 24,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Shirita",
+                "LastName": "Wimberly",
+                "UniformNumber": "9",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Blaize-Llamas Arianna] Kill by Wimberly, Shirita",
+            "Context": "",
+            "Id": "69+EC7B2AD7",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 25,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Molly",
+                    "LastName": "Main",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Megan",
+                    "LastName": "Lorenze",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Annie",
+                    "LastName": "Dai",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Tallin",
+                    "LastName": "Goldberg",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Norah",
+                    "LastName": "Ciano",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "Lesley starters: Main, Molly; Hart, Sydney; Lorenze, Megan; Dai, Annie; Goldberg, Tallin; Ciano, Norah.",
+            "Context": "",
+            "Id": "70+10927A79",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samantha",
+                    "LastName": "Vargas",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Livia",
+                    "LastName": "Elfering",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nyah",
+                    "LastName": "Piper",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "McKenzie",
+                    "LastName": "DeBaca",
+                    "UniformNumber": "21",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Laura",
+                    "LastName": "Jacques",
+                    "UniformNumber": "24",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Savannah",
+                    "LastName": "Pilialoha",
+                    "UniformNumber": "25",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Amaya",
+                    "LastName": "Avaloz",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "NEC starters: Vargas, Samantha; Elfering, Livia; Piper, Nyah; DeBaca, McKenzie; Jacques, Laura; Pilialoha, Savannah; libero Avaloz, Amaya.",
+            "Context": "",
+            "Id": "71+3D237743",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Laura",
+                    "LastName": "Jacques",
+                    "UniformNumber": "24",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Jacques, Laura] Service error.",
+            "Context": "",
+            "Id": "72+1A0D57B9",
+            "Type": "SERVICE ERROR",
+            "Action": "Lesley",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Annie",
+                    "LastName": "Dai",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Dai, Annie] Service error.",
+            "Context": "",
+            "Id": "73+7CD16880",
+            "Type": "SERVICE ERROR",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Savannah",
+                "LastName": "Pilialoha",
+                "UniformNumber": "25",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Palmer Sophie] Kill by Pilialoha, Savannah",
+            "Context": "",
+            "Id": "74+10067F88",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sophie",
+                "LastName": "Palmer",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Megan",
+                    "LastName": "Lorenze",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Palmer, Sophie] Service ace (Lorenze, Megan)",
+            "Context": "",
+            "Id": "75+CFD61D79",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sophie",
+                "LastName": "Palmer",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Palmer, Sophie] Service ace (Hart, Sydney)",
+            "Context": "",
+            "Id": "76+B85BF58",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sophie",
+                "LastName": "Palmer",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Palmer, Sophie] Service ace (TEAM)",
+            "Context": "",
+            "Id": "77+8AAA6523",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Tallin",
+                "LastName": "Goldberg",
+                "UniformNumber": "18",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Palmer Sophie] Kill by Goldberg, Tallin",
+            "Context": "",
+            "Id": "78+C8DE1C11",
+            "Type": "KILL",
+            "Action": "Lesley",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Livia",
+                "LastName": "Elfering",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Goldberg Tallin] Kill by Elfering, Livia",
+            "Context": "",
+            "Id": "79+3B0DB944",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Samantha",
+                "LastName": "Vargas",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Avaloz Amaya] Kill by Vargas, Samantha",
+            "Context": "",
+            "Id": "80+B536E01D",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Amaya",
+                    "LastName": "Avaloz",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Avaloz, Amaya] Service error.",
+            "Context": "",
+            "Id": "81+8EEDA4B7",
+            "Type": "SERVICE ERROR",
+            "Action": "Lesley",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Savannah",
+                    "LastName": "Pilialoha",
+                    "UniformNumber": "25",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Laura",
+                    "LastName": "Jacques",
+                    "UniformNumber": "24",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Hart, Sydney] Attack error by Pilialoha, Savannah (from Jacques, Laura).",
+            "Context": "",
+            "Id": "82+278074C6",
+            "Type": "ATTACK ERROR",
+            "Action": "Lesley",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Tallin",
+                    "LastName": "Goldberg",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Hart, Sydney] Ball Handling Error by Goldberg, Tallin.",
+            "Context": "",
+            "Id": "83+353F0E2A",
+            "Type": "BALL HANDLING ERROR",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Nyah",
+                "LastName": "Piper",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Barron Kenzie] Kill by Piper, Nyah",
+            "Context": "",
+            "Id": "84+656942EA",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 9,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Tatiana",
+                "LastName": "Sampson",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Barron Kenzie] Kill by Sampson, Tatiana",
+            "Context": "",
+            "Id": "85+2F3A630A",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 10,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Kenzie",
+                "LastName": "Barron",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Barron, Kenzie] Service ace (TEAM)",
+            "Context": "",
+            "Id": "86+5DED8DBB",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 11,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kenzie",
+                    "LastName": "Barron",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Barron, Kenzie] Service error.",
+            "Context": "",
+            "Id": "87+938DB9A7",
+            "Type": "SERVICE ERROR",
+            "Action": "Lesley",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 11,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Tatiana",
+                "LastName": "Sampson",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Ciano Norah] Kill by Sampson, Tatiana",
+            "Context": "",
+            "Id": "88+2D8F424F",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Megan",
+                "LastName": "Lorenze",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Pilialoha Savannah] Kill by Lorenze, Megan",
+            "Context": "",
+            "Id": "89+68A87D85",
+            "Type": "KILL",
+            "Action": "Lesley",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Molly",
+                    "LastName": "Main",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kenzie",
+                    "LastName": "Barron",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Main, Molly] Bad set by Barron, Kenzie.",
+            "Context": "",
+            "Id": "90+412551B3",
+            "Type": "BAD SET",
+            "Action": "Lesley",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Tatiana",
+                "LastName": "Sampson",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Main Molly] Kill by Sampson, Tatiana",
+            "Context": "",
+            "Id": "91+C41F1446",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 13,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "McKenzie",
+                "LastName": "DeBaca",
+                "UniformNumber": "21",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Molly",
+                    "LastName": "Main",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[DeBaca, McKenzie] Service ace (Main, Molly)",
+            "Context": "",
+            "Id": "92+25F66BE0",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 14,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "McKenzie",
+                "LastName": "DeBaca",
+                "UniformNumber": "21",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Tallin",
+                    "LastName": "Goldberg",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[DeBaca, McKenzie] Service ace (Goldberg, Tallin)",
+            "Context": "",
+            "Id": "93+5571CAA5",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Tallin",
+                "LastName": "Goldberg",
+                "UniformNumber": "18",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[DeBaca McKenzie] Kill by Goldberg, Tallin",
+            "Context": "",
+            "Id": "94+CAA012AC",
+            "Type": "KILL",
+            "Action": "Lesley",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Livia",
+                "LastName": "Elfering",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Lorenze Megan] Kill by Elfering, Livia",
+            "Context": "",
+            "Id": "95+72F52EF",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Nyah",
+                "LastName": "Piper",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Jacques Laura] Kill by Piper, Nyah",
+            "Context": "",
+            "Id": "96+D18B0963",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 17,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Laura",
+                    "LastName": "Jacques",
+                    "UniformNumber": "24",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Livia",
+                    "LastName": "Elfering",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Jacques, Laura] Attack error by Hart, Sydney (block by Elfering, Livia).",
+            "Context": "",
+            "Id": "97+A87B2649",
+            "Type": "ATTACK ERROR",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Laura",
+                    "LastName": "Jacques",
+                    "UniformNumber": "24",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samantha",
+                    "LastName": "Vargas",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Jacques, Laura] Attack error by Vargas, Samantha (from Jacques, Laura).",
+            "Context": "",
+            "Id": "98+CE90226A",
+            "Type": "ATTACK ERROR",
+            "Action": "Lesley",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Annie",
+                    "LastName": "Dai",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samantha",
+                    "LastName": "Vargas",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Amaya",
+                    "LastName": "Avaloz",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Dai, Annie] Attack error by Vargas, Samantha (from Avaloz, Amaya).",
+            "Context": "",
+            "Id": "99+D411B8EA",
+            "Type": "ATTACK ERROR",
+            "Action": "Lesley",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Annie",
+                    "LastName": "Dai",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Dai, Annie] Service error.",
+            "Context": "",
+            "Id": "100+F6D307B1",
+            "Type": "SERVICE ERROR",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 19,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Sophie",
+                    "LastName": "Palmer",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Tallin",
+                    "LastName": "Goldberg",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Palmer, Sophie] Attack error by Hart, Sydney (from Goldberg, Tallin).",
+            "Context": "",
+            "Id": "101+AC8F65AC",
+            "Type": "ATTACK ERROR",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 20,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Sophie",
+                    "LastName": "Palmer",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Livia",
+                    "LastName": "Elfering",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Samantha",
+                    "LastName": "Vargas",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Palmer, Sophie] Attack error by Hart, Sydney (block by Elfering, Livia; Vargas, Samantha).",
+            "Context": "",
+            "Id": "102+74978D7A",
+            "Type": "ATTACK ERROR",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 21,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sophie",
+                "LastName": "Palmer",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Palmer, Sophie] Service ace (TEAM)",
+            "Context": "",
+            "Id": "103+2F09CC61",
+            "Type": "SERVICE ACE",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 22,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Sophie",
+                    "LastName": "Palmer",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Palmer, Sophie] Service error.",
+            "Context": "",
+            "Id": "104+6667336D",
+            "Type": "SERVICE ERROR",
+            "Action": "Lesley",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 22,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Laura",
+                "LastName": "Jacques",
+                "UniformNumber": "24",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Goldberg Tallin] Kill by Jacques, Laura",
+            "Context": "",
+            "Id": "105+F0AD499C",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 23,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Samantha",
+                "LastName": "Vargas",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Avaloz Amaya] Kill by Vargas, Samantha",
+            "Context": "",
+            "Id": "106+5F8D7CBF",
+            "Type": "KILL",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 24,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Amaya",
+                    "LastName": "Avaloz",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Hart",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Tallin",
+                    "LastName": "Goldberg",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Avaloz, Amaya] Attack error by Hart, Sydney (from Goldberg, Tallin).",
+            "Context": "",
+            "Id": "107+82B2EEDB",
+            "Type": "ATTACK ERROR",
+            "Action": "NEC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 25,
+                "VisitingTeam": 11
+            }
+        }
+    ]
+}

@@ -1,0 +1,5543 @@
+{
+    "Game": {
+        "Type": "VolleyballGame",
+        "HasStarted": true,
+        "IsComplete": true,
+        "Source": "statcrew",
+        "Date": "9/13/2022",
+        "DateUTC": null,
+        "StartTime": "6:00 PM",
+        "EndTime": "6:54 PM",
+        "UseLiveStatsAutomation": null,
+        "NcaaGameId": "",
+        "SidearmGameId": null,
+        "ClientId": null,
+        "ClientAbbrev": null,
+        "ClientLiveStatsUrl": null,
+        "Notes": [],
+        "Location": "Bowie, MD",
+        "GlobalSportShortname": null,
+        "BannerMessage": null,
+        "StadiumImage": null,
+        "SiteImage": null,
+        "ClientHostname": null,
+        "Officials": "1st Referee: Larry Carr, 2nd Referee: Monique Lewis",
+        "Attendance": 115,
+        "PeriodsRegulation": 5,
+        "Period": 3,
+        "ClockSeconds": -1,
+        "Context": "",
+        "Rules": {
+            "PeriodMinutes": -1,
+            "PeriodName": "Set",
+            "OTMinutes": -1,
+            "ShowExtraPeriodsAsOT": true,
+            "ClockDirection": "None",
+            "ClockSegmentation": "Periods"
+        },
+        "HomeTeam": {
+            "Id": "BSU",
+            "Name": "Bowie State",
+            "Score": 3,
+            "SetScore": 25,
+            "CurrentRecord": "2-1",
+            "PostgameRecord": "",
+            "NcaaSchoolCode": "",
+            "Color": "#000000",
+            "TextColor": "#FCCF29",
+            "Logo": "https://bsubulldogs.com/images/logos/site/site.png",
+            "Url": "https://bsubulldogs.com",
+            "PeriodScores": [
+                25,
+                25,
+                25
+            ],
+            "PeriodTimeouts": []
+        },
+        "VisitingTeam": {
+            "Id": "TRINITY",
+            "Name": "Trinity (DC)",
+            "Score": 0,
+            "SetScore": 9,
+            "CurrentRecord": "0-1",
+            "PostgameRecord": "",
+            "NcaaSchoolCode": "",
+            "Color": "#EEEEEE",
+            "TextColor": "#232323",
+            "Logo": "https://bsubulldogs.com/images/logos/Trinity-washington_logo_from_NCAA.png",
+            "Url": null,
+            "PeriodScores": [
+                3,
+                6,
+                9
+            ],
+            "PeriodTimeouts": []
+        },
+        "LastPlays": [
+            {
+                "Player": {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kyla",
+                        "LastName": "Sutton",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    {
+                        "Team": "HomeTeam",
+                        "FirstName": "Lindsey",
+                        "LastName": "Grossman",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "HomeTeam",
+                "Narrative": "[Kyla Sutton] Kill by Noel Snow (from Lindsey Grossman).",
+                "Context": "",
+                "Id": "105+D779E17",
+                "Type": "KILL",
+                "Action": "BSU",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 25,
+                    "VisitingTeam": 9
+                }
+            },
+            {
+                "Player": {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [
+                    {
+                        "Team": "HomeTeam",
+                        "FirstName": "Lindsey",
+                        "LastName": "Grossman",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "VisitingTeam",
+                "Narrative": "[Lindsey Grossman] Kill by Kyla Sutton.",
+                "Context": "",
+                "Id": "104+383B1798",
+                "Type": "KILL",
+                "Action": "TRINITY",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 24,
+                    "VisitingTeam": 9
+                }
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Joselin",
+                        "LastName": "Soriano",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "HomeTeam",
+                "Narrative": "[Joselin Soriano] Service error.",
+                "Context": "",
+                "Id": "103+B766C008",
+                "Type": "SERVICE ERROR",
+                "Action": "BSU",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 24,
+                    "VisitingTeam": 8
+                }
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Joselin",
+                        "LastName": "Soriano",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Belen",
+                        "LastName": "Guitierrez",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "VisitingTeam",
+                "Narrative": "TRINITY subs: Joselin Soriano; Belen Guitierrez.",
+                "Context": "",
+                "Id": "102+8A946283",
+                "Type": "SUBS",
+                "Action": null,
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": null
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [
+                    {
+                        "Team": "HomeTeam",
+                        "FirstName": "Charity",
+                        "LastName": "Harris",
+                        "UniformNumber": "13",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    {
+                        "Team": "HomeTeam",
+                        "FirstName": "Noel",
+                        "LastName": "Snow",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "VisitingTeam",
+                "Narrative": "[Charity Harris] Attack error by Noel Snow.",
+                "Context": "",
+                "Id": "101+73B2C57D",
+                "Type": "ATTACK ERROR",
+                "Action": "TRINITY",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 23,
+                    "VisitingTeam": 8
+                }
+            }
+        ]
+    },
+    "Leaders": {
+        "VisitingTeam": {
+            "Kills": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "JaKiyah",
+                        "LastName": "Young",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kyla",
+                        "LastName": "Sutton",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Hitting %": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "JaKiyah",
+                        "LastName": "Young",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1.000"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kyla",
+                        "LastName": "Sutton",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "-.400"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Danet",
+                        "LastName": "Harris",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "-.429"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Mey'Soine",
+                        "LastName": "Thomas",
+                        "UniformNumber": "14",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "-.500"
+                }
+            ],
+            "Assists": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kyla",
+                        "LastName": "Sutton",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Service Aces": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Mey'Soine",
+                        "LastName": "Thomas",
+                        "UniformNumber": "14",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Leilani",
+                        "LastName": "Hernandez",
+                        "UniformNumber": "16",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Total Blocks": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Danet",
+                        "LastName": "Harris",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "JaKiyah",
+                        "LastName": "Young",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kyla",
+                        "LastName": "Sutton",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Joselin",
+                        "LastName": "Soriano",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                }
+            ],
+            "Digs": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Leilani",
+                        "LastName": "Hernandez",
+                        "UniformNumber": "16",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kyla",
+                        "LastName": "Sutton",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Belen",
+                        "LastName": "Guitierrez",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Points": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "JaKiyah",
+                        "LastName": "Young",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kyla",
+                        "LastName": "Sutton",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Mey'Soine",
+                        "LastName": "Thomas",
+                        "UniformNumber": "14",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Leilani",
+                        "LastName": "Hernandez",
+                        "UniformNumber": "16",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ]
+        },
+        "HomeTeam": {
+            "Kills": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Lindsey",
+                        "LastName": "Grossman",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Noel",
+                        "LastName": "Snow",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "5"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Neysha",
+                        "LastName": "Washington",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Rachel",
+                        "LastName": "Sefton",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                }
+            ],
+            "Hitting %": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Lindsey",
+                        "LastName": "Grossman",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".857"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Noel",
+                        "LastName": "Snow",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".500"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Nadira",
+                        "LastName": "Avery",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".400"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Rachel",
+                        "LastName": "Sefton",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".375"
+                }
+            ],
+            "Assists": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Lindsey",
+                        "LastName": "Grossman",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "13"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Rachel",
+                        "LastName": "Sefton",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Noel",
+                        "LastName": "Snow",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Service Aces": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Charity",
+                        "LastName": "Harris",
+                        "UniformNumber": "13",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "12"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Nadira",
+                        "LastName": "Avery",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Neysha",
+                        "LastName": "Washington",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Lindsey",
+                        "LastName": "Grossman",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "5"
+                }
+            ],
+            "Total Blocks": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Nadira",
+                        "LastName": "Avery",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Neysha",
+                        "LastName": "Washington",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Rachel",
+                        "LastName": "Sefton",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Noel",
+                        "LastName": "Snow",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                }
+            ],
+            "Digs": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Lindsey",
+                        "LastName": "Grossman",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Nadira",
+                        "LastName": "Avery",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Neysha",
+                        "LastName": "Washington",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Rachel",
+                        "LastName": "Sefton",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Points": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Charity",
+                        "LastName": "Harris",
+                        "UniformNumber": "13",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "16"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Lindsey",
+                        "LastName": "Grossman",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "11"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Neysha",
+                        "LastName": "Washington",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "10"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Nadira",
+                        "LastName": "Avery",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "8"
+                }
+            ]
+        }
+    },
+    "Stats": {
+        "HomeTeam": {
+            "TopPerformer": {
+                "Team": "HomeTeam",
+                "FirstName": "Lindsey",
+                "LastName": "Grossman",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "Players": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadira",
+                    "LastName": "Avery",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Neysha",
+                    "LastName": "Washington",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Dayanna",
+                    "LastName": "Robb",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kendal",
+                    "LastName": "Hoges",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "PlayerGroups": {
+                "Players": {
+                    "Title": "Players",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "GamesPlayed": "GP",
+                        "Kills": "K",
+                        "AttackErrors": "E",
+                        "TotalAttackAttempts": "TA",
+                        "HittingPercentage": "H%",
+                        "Assists": "Ast",
+                        "ServiceAces": "Ace",
+                        "ServiceErrors": "SE",
+                        "BlockSolos": "BS",
+                        "BlockAssists": "BA",
+                        "BlockErrors": "BE",
+                        "TotalBlocks": "TB",
+                        "Digs": "Dig",
+                        "ReceptionAttempts": "Rec",
+                        "ReceptionErrors": "RE",
+                        "BallHandlingErrors": "BHE",
+                        "Points": "Pts",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "GamesPlayed": "GamesPlayed",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "TotalAttackAttempts": "Total Attacks",
+                        "HittingPercentage": "Hitting %",
+                        "Assists": "Assists",
+                        "ServiceAces": "Service Aces",
+                        "ServiceErrors": "Service Errors",
+                        "BlockSolos": "Block Solo",
+                        "BlockAssists": "Block Assist",
+                        "BlockErrors": "Block Errors",
+                        "TotalBlocks": "Total Blocks",
+                        "Digs": "Digs",
+                        "ReceptionAttempts": "Reception Attempts",
+                        "ReceptionErrors": "Reception Errors",
+                        "BallHandlingErrors": "Ball Handling Errors",
+                        "Points": "Points",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "2",
+                            "Name": "N. AVERY",
+                            "GamesPlayed": "3",
+                            "Kills": "2",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "5",
+                            "HittingPercentage": ".400",
+                            "Assists": "0",
+                            "ServiceAces": "6",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "8",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "3",
+                            "Name": "N. WASHINGTON",
+                            "GamesPlayed": "3",
+                            "Kills": "4",
+                            "AttackErrors": "2",
+                            "TotalAttackAttempts": "8",
+                            "HittingPercentage": ".250",
+                            "Assists": "0",
+                            "ServiceAces": "6",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "10",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "5",
+                            "Name": "R. SEFTON",
+                            "GamesPlayed": "3",
+                            "Kills": "4",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "8",
+                            "HittingPercentage": ".375",
+                            "Assists": "2",
+                            "ServiceAces": "2",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "6",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "8",
+                            "Name": "N. SNOW",
+                            "GamesPlayed": "3",
+                            "Kills": "5",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "8",
+                            "HittingPercentage": ".500",
+                            "Assists": "1",
+                            "ServiceAces": "2",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "1",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "0",
+                            "Points": "7",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "10",
+                            "Name": "L. GROSSMAN",
+                            "GamesPlayed": "3",
+                            "Kills": "6",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "7",
+                            "HittingPercentage": ".857",
+                            "Assists": "13",
+                            "ServiceAces": "5",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "11",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "13",
+                            "Name": "C. HARRIS",
+                            "GamesPlayed": "3",
+                            "Kills": "4",
+                            "AttackErrors": "3",
+                            "TotalAttackAttempts": "9",
+                            "HittingPercentage": ".111",
+                            "Assists": "0",
+                            "ServiceAces": "12",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "16",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "9",
+                            "Name": "D. ROBB",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "1",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "14",
+                            "Name": "K. HOGES",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        }
+                    ]
+                }
+            },
+            "Totals": {
+                "Key": {
+                    "Points": "P",
+                    "Kills": "K",
+                    "AttackErrors": "E",
+                    "TotalAttackAttempts": "TA",
+                    "HittingPercentage": "H%",
+                    "Assists": "Ast",
+                    "ServiceAces": "Ace",
+                    "ServiceErrors": "SE",
+                    "BlockSolos": "BS",
+                    "BlockAssists": "BA",
+                    "BlockErrors": "BE",
+                    "Digs": "Dig",
+                    "TotalBlocks": "TB",
+                    "ReceptionErrors": "RE",
+                    "BallHandlingErrors": "BHE"
+                },
+                "FullKey": {
+                    "Points": "Points",
+                    "Kills": "Kills",
+                    "AttackErrors": "Attack Errors",
+                    "TotalAttackAttempts": "Total Attacks",
+                    "HittingPercentage": "Hitting %",
+                    "Assists": "Assists",
+                    "ServiceAces": "Service Aces",
+                    "ServiceErrors": "Service Errors",
+                    "BlockSolos": "Block Solo",
+                    "BlockAssists": "Block Assist",
+                    "BlockErrors": "Block Errors",
+                    "Digs": "Digs",
+                    "TotalBlocks": "Total Blocks",
+                    "ReceptionErrors": "Reception Errors",
+                    "BallHandlingErrors": "Ball Handling Errors"
+                },
+                "Values": {
+                    "Points": "58",
+                    "Kills": "25",
+                    "AttackErrors": "7",
+                    "TotalAttackAttempts": "45",
+                    "HittingPercentage": ".400",
+                    "Assists": "16",
+                    "ServiceAces": "33",
+                    "ServiceErrors": "4",
+                    "BlockSolos": "0",
+                    "BlockAssists": "0",
+                    "BlockErrors": "0",
+                    "Digs": "6",
+                    "TotalBlocks": "0.0",
+                    "ReceptionErrors": "2",
+                    "BallHandlingErrors": "0"
+                }
+            },
+            "PeriodStats": [
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "1",
+                        "Points": "25",
+                        "Kills": "10",
+                        "AttackErrors": "1",
+                        "AttackAttempts": "18",
+                        "HittingPercentage": ".500",
+                        "Aces": "9",
+                        "Blocks": "0",
+                        "ServiceErrors": "1",
+                        "BallHandlingErrors": "1"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "2",
+                        "Points": "25",
+                        "Kills": "8",
+                        "AttackErrors": "3",
+                        "AttackAttempts": "16",
+                        "HittingPercentage": ".312",
+                        "Aces": "12",
+                        "Blocks": "0",
+                        "ServiceErrors": "2",
+                        "BallHandlingErrors": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "3",
+                        "Points": "25",
+                        "Kills": "7",
+                        "AttackErrors": "3",
+                        "AttackAttempts": "11",
+                        "HittingPercentage": ".364",
+                        "Aces": "12",
+                        "Blocks": "0",
+                        "ServiceErrors": "2",
+                        "BallHandlingErrors": "1"
+                    }
+                }
+            ]
+        },
+        "VisitingTeam": {
+            "TopPerformer": {
+                "Team": "VisitingTeam",
+                "FirstName": "JaKiyah",
+                "LastName": "Young",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "Players": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "JaKiyah",
+                    "LastName": "Young",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mistura",
+                    "LastName": "Muritala",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mey'Soine",
+                    "LastName": "Thomas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Belen",
+                    "LastName": "Guitierrez",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Nicole",
+                    "LastName": "Lopez",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Aaliyah",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Shakayla",
+                    "LastName": "White",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "PlayerGroups": {
+                "Players": {
+                    "Title": "Players",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "GamesPlayed": "GP",
+                        "Kills": "K",
+                        "AttackErrors": "E",
+                        "TotalAttackAttempts": "TA",
+                        "HittingPercentage": "H%",
+                        "Assists": "Ast",
+                        "ServiceAces": "Ace",
+                        "ServiceErrors": "SE",
+                        "BlockSolos": "BS",
+                        "BlockAssists": "BA",
+                        "BlockErrors": "BE",
+                        "TotalBlocks": "TB",
+                        "Digs": "Dig",
+                        "ReceptionAttempts": "Rec",
+                        "ReceptionErrors": "RE",
+                        "BallHandlingErrors": "BHE",
+                        "Points": "Pts",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "GamesPlayed": "GamesPlayed",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "TotalAttackAttempts": "Total Attacks",
+                        "HittingPercentage": "Hitting %",
+                        "Assists": "Assists",
+                        "ServiceAces": "Service Aces",
+                        "ServiceErrors": "Service Errors",
+                        "BlockSolos": "Block Solo",
+                        "BlockAssists": "Block Assist",
+                        "BlockErrors": "Block Errors",
+                        "TotalBlocks": "Total Blocks",
+                        "Digs": "Digs",
+                        "ReceptionAttempts": "Reception Attempts",
+                        "ReceptionErrors": "Reception Errors",
+                        "BallHandlingErrors": "Ball Handling Errors",
+                        "Points": "Points",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "2",
+                            "Name": "D. HARRIS",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "3",
+                            "TotalAttackAttempts": "7",
+                            "HittingPercentage": "-.429",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "1",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "3",
+                            "ReceptionErrors": "3",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "4",
+                            "Name": "J. YOUNG",
+                            "GamesPlayed": "3",
+                            "Kills": "1",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": "1.000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "1",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "1",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "5",
+                            "Name": "K. SUTTON",
+                            "GamesPlayed": "3",
+                            "Kills": "1",
+                            "AttackErrors": "3",
+                            "TotalAttackAttempts": "5",
+                            "HittingPercentage": "-.400",
+                            "Assists": "1",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "3",
+                            "ReceptionAttempts": "6",
+                            "ReceptionErrors": "6",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "7",
+                            "Name": "J. SORIANO",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": "-1.000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "2",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "6",
+                            "ReceptionErrors": "6",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "13",
+                            "Name": "M. MURITALA",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "2",
+                            "ReceptionErrors": "2",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "14",
+                            "Name": "M. THOMAS",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "2",
+                            "TotalAttackAttempts": "4",
+                            "HittingPercentage": "-.500",
+                            "Assists": "0",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "1",
+                            "Name": "B. GUITIERREZ",
+                            "GamesPlayed": "2",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "1",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "3",
+                            "Name": "N. LOPEZ",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "12",
+                            "Name": "A. CABRERA",
+                            "GamesPlayed": "1",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "15",
+                            "Name": "S. WHITE",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "16",
+                            "Name": "L. HERNANDEZ",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": "-1.000",
+                            "Assists": "0",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "4",
+                            "ReceptionAttempts": "12",
+                            "ReceptionErrors": "11",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        }
+                    ]
+                }
+            },
+            "Totals": {
+                "Key": {
+                    "Points": "P",
+                    "Kills": "K",
+                    "AttackErrors": "E",
+                    "TotalAttackAttempts": "TA",
+                    "HittingPercentage": "H%",
+                    "Assists": "Ast",
+                    "ServiceAces": "Ace",
+                    "ServiceErrors": "SE",
+                    "BlockSolos": "BS",
+                    "BlockAssists": "BA",
+                    "BlockErrors": "BE",
+                    "Digs": "Dig",
+                    "TotalBlocks": "TB",
+                    "ReceptionErrors": "RE",
+                    "BallHandlingErrors": "BHE"
+                },
+                "FullKey": {
+                    "Points": "Points",
+                    "Kills": "Kills",
+                    "AttackErrors": "Attack Errors",
+                    "TotalAttackAttempts": "Total Attacks",
+                    "HittingPercentage": "Hitting %",
+                    "Assists": "Assists",
+                    "ServiceAces": "Service Aces",
+                    "ServiceErrors": "Service Errors",
+                    "BlockSolos": "Block Solo",
+                    "BlockAssists": "Block Assist",
+                    "BlockErrors": "Block Errors",
+                    "Digs": "Digs",
+                    "TotalBlocks": "Total Blocks",
+                    "ReceptionErrors": "Reception Errors",
+                    "BallHandlingErrors": "Ball Handling Errors"
+                },
+                "Values": {
+                    "Points": "4",
+                    "Kills": "2",
+                    "AttackErrors": "10",
+                    "TotalAttackAttempts": "19",
+                    "HittingPercentage": "-.421",
+                    "Assists": "1",
+                    "ServiceAces": "2",
+                    "ServiceErrors": "5",
+                    "BlockSolos": "0",
+                    "BlockAssists": "0",
+                    "BlockErrors": "1",
+                    "Digs": "8",
+                    "TotalBlocks": "0.0",
+                    "ReceptionErrors": "33",
+                    "BallHandlingErrors": "1"
+                }
+            },
+            "PeriodStats": [
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "1",
+                        "Points": "3",
+                        "Kills": "1",
+                        "AttackErrors": "4",
+                        "AttackAttempts": "7",
+                        "HittingPercentage": "-.429",
+                        "Aces": "0",
+                        "Blocks": "0",
+                        "ServiceErrors": "1",
+                        "BallHandlingErrors": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "2",
+                        "Points": "6",
+                        "Kills": "0",
+                        "AttackErrors": "3",
+                        "AttackAttempts": "4",
+                        "HittingPercentage": "-.750",
+                        "Aces": "1",
+                        "Blocks": "0",
+                        "ServiceErrors": "2",
+                        "BallHandlingErrors": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "3",
+                        "Points": "9",
+                        "Kills": "1",
+                        "AttackErrors": "3",
+                        "AttackAttempts": "8",
+                        "HittingPercentage": "-.250",
+                        "Aces": "1",
+                        "Blocks": "0",
+                        "ServiceErrors": "1",
+                        "BallHandlingErrors": "3"
+                    }
+                }
+            ]
+        }
+    },
+    "SeasonStats": {
+        "HomeTeam": null,
+        "VisitingTeam": null
+    },
+    "Plays": [
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mey'Soine",
+                    "LastName": "Thomas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "JaKiyah",
+                    "LastName": "Young",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mistura",
+                    "LastName": "Muritala",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "TRINITY starters: Mey'Soine Thomas; JaKiyah Young; Kyla Sutton; Danet Harris; Mistura Muritala; Joselin Soriano; libero Leilani Hernandez.",
+            "Context": "",
+            "Id": "0+E96400FB",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadira",
+                    "LastName": "Avery",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Neysha",
+                    "LastName": "Washington",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Dayanna",
+                    "LastName": "Robb",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "BSU starters: Rachel Sefton; Nadira Avery; Noel Snow; Neysha Washington; Charity Harris; Lindsey Grossman; libero Dayanna Robb.",
+            "Context": "",
+            "Id": "1+EEC1AB66",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Lindsey",
+                "LastName": "Grossman",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Lindsey Grossman] Service ace (Joselin Soriano).",
+            "Context": "",
+            "Id": "2+24510BE3",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Lindsey",
+                "LastName": "Grossman",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Lindsey Grossman] Service ace (Joselin Soriano).",
+            "Context": "",
+            "Id": "3+381EC9EE",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Nadira",
+                "LastName": "Avery",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Lindsey Grossman] Kill by Nadira Avery (from Lindsey Grossman).",
+            "Context": "",
+            "Id": "4+2DAEBE43",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Lindsey",
+                "LastName": "Grossman",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Lindsey Grossman] Service ace (Leilani Hernandez).",
+            "Context": "",
+            "Id": "5+BCE02178",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Noel",
+                "LastName": "Snow",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Lindsey Grossman] Kill by Noel Snow (from Lindsey Grossman).",
+            "Context": "",
+            "Id": "6+E6A36DCE",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "JaKiyah",
+                "LastName": "Young",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Lindsey Grossman] Kill by JaKiyah Young (from Kyla Sutton).",
+            "Context": "",
+            "Id": "7+C357E8B9",
+            "Type": "KILL",
+            "Action": "TRINITY",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Kyla Sutton] Service error.",
+            "Context": "",
+            "Id": "8+7E15D5FA",
+            "Type": "SERVICE ERROR",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mey'Soine",
+                    "LastName": "Thomas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Noel Snow] Attack error by Mey'Soine Thomas.",
+            "Context": "",
+            "Id": "9+7E87E2E",
+            "Type": "ATTACK ERROR",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Lindsey",
+                "LastName": "Grossman",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Noel Snow] Kill by Lindsey Grossman.",
+            "Context": "",
+            "Id": "10+82E68E51",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Neysha",
+                "LastName": "Washington",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Noel Snow] Kill by Neysha Washington.",
+            "Context": "",
+            "Id": "11+3AE49890",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 9,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Rachel",
+                "LastName": "Sefton",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Noel Snow] Kill by Rachel Sefton (from Lindsey Grossman).",
+            "Context": "",
+            "Id": "12+A5954C80",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 10,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Timeout Trinity (DC).",
+            "Context": "",
+            "Id": "13+1F3CB466",
+            "Type": "TIMEOUT TRINITY",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Noel",
+                "LastName": "Snow",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Noel Snow] Service ace (Joselin Soriano).",
+            "Context": "",
+            "Id": "14+993AAD50",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 11,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mey'Soine",
+                    "LastName": "Thomas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Noel Snow] Attack error by Mey'Soine Thomas.",
+            "Context": "",
+            "Id": "15+3F7EF9F8",
+            "Type": "ATTACK ERROR",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Noel",
+                "LastName": "Snow",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Noel Snow] Service ace (Danet Harris).",
+            "Context": "",
+            "Id": "16+2189B4",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 13,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Noel Snow] Attack error by Kyla Sutton.",
+            "Context": "",
+            "Id": "17+D1A8ABC8",
+            "Type": "ATTACK ERROR",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 14,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Noel Snow] Service error.",
+            "Context": "",
+            "Id": "18+9190CAC1",
+            "Type": "SERVICE ERROR",
+            "Action": "TRINITY",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 14,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "JaKiyah",
+                    "LastName": "Young",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[JaKiyah Young] Attack error by Rachel Sefton.",
+            "Context": "",
+            "Id": "19+275A2C74",
+            "Type": "ATTACK ERROR",
+            "Action": "TRINITY",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 14,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Neysha",
+                "LastName": "Washington",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "JaKiyah",
+                    "LastName": "Young",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[JaKiyah Young] Kill by Neysha Washington (from Lindsey Grossman).",
+            "Context": "",
+            "Id": "20+A0D4EB0E",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Nadira",
+                "LastName": "Avery",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mistura",
+                    "LastName": "Muritala",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Nadira Avery] Service ace (Mistura Muritala).",
+            "Context": "",
+            "Id": "21+B942F767",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Neysha",
+                "LastName": "Washington",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadira",
+                    "LastName": "Avery",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Nadira Avery] Kill by Neysha Washington (from Noel Snow).",
+            "Context": "",
+            "Id": "22+4FA14312",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 17,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadira",
+                    "LastName": "Avery",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Nadira Avery] Kill by Charity Harris (from Lindsey Grossman).",
+            "Context": "",
+            "Id": "23+FBDD4275",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Nadira",
+                "LastName": "Avery",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Nadira Avery] Service ace (Joselin Soriano).",
+            "Context": "",
+            "Id": "24+4229B7ED",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 19,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Nadira",
+                "LastName": "Avery",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Nadira Avery] Service ace (Leilani Hernandez).",
+            "Context": "",
+            "Id": "25+6E07B250",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 20,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadira",
+                    "LastName": "Avery",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mey'Soine",
+                    "LastName": "Thomas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Nadira Avery] Bad set by Mey'Soine Thomas.",
+            "Context": "",
+            "Id": "26+F67464E3",
+            "Type": "BAD SET",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 21,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadira",
+                    "LastName": "Avery",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Nadira Avery] Kill by Charity Harris (from Lindsey Grossman), block error by Danet Harris.",
+            "Context": "",
+            "Id": "27+59B31F00",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 22,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadira",
+                    "LastName": "Avery",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Nadira Avery] Attack error by Danet Harris.",
+            "Context": "",
+            "Id": "28+68B5F7BF",
+            "Type": "ATTACK ERROR",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 23,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadira",
+                    "LastName": "Avery",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Nadira Avery] Kill by Charity Harris (from Lindsey Grossman).",
+            "Context": "",
+            "Id": "29+D116FCA7",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 24,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Nadira",
+                "LastName": "Avery",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Nadira Avery] Service ace (Kyla Sutton).",
+            "Context": "",
+            "Id": "30+92D48C1E",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 25,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Neysha",
+                    "LastName": "Washington",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadira",
+                    "LastName": "Avery",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Dayanna",
+                    "LastName": "Robb",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "BSU starters: Lindsey Grossman; Rachel Sefton; Noel Snow; Neysha Washington; Nadira Avery; Charity Harris; libero Dayanna Robb.",
+            "Context": "",
+            "Id": "31+189DD1D5",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Belen",
+                    "LastName": "Guitierrez",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "JaKiyah",
+                    "LastName": "Young",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mistura",
+                    "LastName": "Muritala",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "TRINITY starters: Belen Guitierrez; Kyla Sutton; JaKiyah Young; Danet Harris; Joselin Soriano; Mistura Muritala; libero Leilani Hernandez.",
+            "Context": "",
+            "Id": "32+2DECCAB6",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Joselin Soriano] Attack error by Charity Harris.",
+            "Context": "",
+            "Id": "33+62B5CB72",
+            "Type": "ATTACK ERROR",
+            "Action": "TRINITY",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Joselin Soriano] Service error.",
+            "Context": "",
+            "Id": "34+D37C4EAC",
+            "Type": "SERVICE ERROR",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Rachel Sefton] Attack error by Charity Harris.",
+            "Context": "",
+            "Id": "35+227479F5",
+            "Type": "ATTACK ERROR",
+            "Action": "TRINITY",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Neysha",
+                    "LastName": "Washington",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Kyla Sutton] Attack error by Neysha Washington.",
+            "Context": "",
+            "Id": "36+317322CB",
+            "Type": "ATTACK ERROR",
+            "Action": "TRINITY",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Kyla Sutton] Kill by Charity Harris.",
+            "Context": "",
+            "Id": "37+8556A103",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Lindsey",
+                "LastName": "Grossman",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Neysha",
+                    "LastName": "Washington",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Neysha Washington] Kill by Lindsey Grossman.",
+            "Context": "",
+            "Id": "38+6C7ADD8F",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Neysha",
+                "LastName": "Washington",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Neysha Washington] Service ace (TEAM).",
+            "Context": "",
+            "Id": "39+65065581",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Neysha",
+                    "LastName": "Washington",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Neysha Washington] Service error.",
+            "Context": "",
+            "Id": "40+91F2BAF9",
+            "Type": "SERVICE ERROR",
+            "Action": "TRINITY",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Lindsey",
+                "LastName": "Grossman",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "JaKiyah",
+                    "LastName": "Young",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[JaKiyah Young] Kill by Lindsey Grossman.",
+            "Context": "",
+            "Id": "41+B22C8261",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Belen",
+                    "LastName": "Guitierrez",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Service ace (Belen Guitierrez).",
+            "Context": "",
+            "Id": "42+D1D93DE2",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Service ace (Kyla Sutton).",
+            "Context": "",
+            "Id": "43+963B9DD9",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Service ace (Leilani Hernandez).",
+            "Context": "",
+            "Id": "44+D82F55B",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Timeout Trinity (DC).",
+            "Context": "",
+            "Id": "45+88649031",
+            "Type": "TIMEOUT TRINITY",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Service ace (Kyla Sutton).",
+            "Context": "",
+            "Id": "46+A94B5918",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 9,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Service ace (Joselin Soriano).",
+            "Context": "",
+            "Id": "47+E3E8EBC",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 10,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Service ace (Leilani Hernandez).",
+            "Context": "",
+            "Id": "48+651014EF",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 11,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Service ace (Joselin Soriano).",
+            "Context": "",
+            "Id": "49+6F266D4A",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Attack error by Joselin Soriano.",
+            "Context": "",
+            "Id": "50+4DB13541",
+            "Type": "ATTACK ERROR",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 13,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Rachel",
+                "LastName": "Sefton",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Kill by Rachel Sefton.",
+            "Context": "",
+            "Id": "51+3532E439",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 14,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Lindsey",
+                "LastName": "Grossman",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Kill by Lindsey Grossman (from Rachel Sefton).",
+            "Context": "",
+            "Id": "52+2FD22BD1",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Service ace (Leilani Hernandez).",
+            "Context": "",
+            "Id": "53+764A5E76",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Service ace (Kyla Sutton).",
+            "Context": "",
+            "Id": "54+C7C9B310",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 17,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Attack error by Danet Harris.",
+            "Context": "",
+            "Id": "55+F11D233A",
+            "Type": "ATTACK ERROR",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Attack error by Danet Harris.",
+            "Context": "",
+            "Id": "56+DCA0E271",
+            "Type": "ATTACK ERROR",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 19,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Charity Harris] Service error.",
+            "Context": "",
+            "Id": "57+82EB6891",
+            "Type": "SERVICE ERROR",
+            "Action": "TRINITY",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 19,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mey'Soine",
+                    "LastName": "Thomas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Belen",
+                    "LastName": "Guitierrez",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "TRINITY subs: Mey'Soine Thomas; Belen Guitierrez.",
+            "Context": "",
+            "Id": "58+F72289DF",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Mey'Soine",
+                "LastName": "Thomas",
+                "UniformNumber": "14",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Dayanna",
+                    "LastName": "Robb",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mey'Soine Thomas] Service ace (Dayanna Robb).",
+            "Context": "",
+            "Id": "59+D69D748F",
+            "Type": "SERVICE ACE",
+            "Action": "TRINITY",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 19,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Aaliyah",
+                    "LastName": "Cabrera",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "TRINITY subs: Aaliyah Cabrera; Joselin Soriano.",
+            "Context": "",
+            "Id": "60+D2026583",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mey'Soine",
+                    "LastName": "Thomas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Mey'Soine Thomas] Service error.",
+            "Context": "",
+            "Id": "61+22573A0",
+            "Type": "SERVICE ERROR",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 20,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Noel",
+                "LastName": "Snow",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Lindsey Grossman] Kill by Noel Snow (from Lindsey Grossman).",
+            "Context": "",
+            "Id": "62+71D14771",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 21,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Lindsey",
+                "LastName": "Grossman",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Lindsey Grossman] Service ace (Leilani Hernandez).",
+            "Context": "",
+            "Id": "63+5B878A0D",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 22,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Lindsey",
+                "LastName": "Grossman",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Lindsey Grossman] Service ace (Leilani Hernandez).",
+            "Context": "",
+            "Id": "64+BE4A2DB6",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 23,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Noel",
+                "LastName": "Snow",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Lindsey Grossman] Kill by Noel Snow.",
+            "Context": "",
+            "Id": "65+4B49B3C1",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 24,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Rachel",
+                "LastName": "Sefton",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Lindsey Grossman] Kill by Rachel Sefton (from Lindsey Grossman).",
+            "Context": "",
+            "Id": "66+646B7A96",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 25,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mey'Soine",
+                    "LastName": "Thomas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mistura",
+                    "LastName": "Muritala",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "JaKiyah",
+                    "LastName": "Young",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "TRINITY starters: Mey'Soine Thomas; Mistura Muritala; Danet Harris; Kyla Sutton; JaKiyah Young; Joselin Soriano; libero Leilani Hernandez.",
+            "Context": "",
+            "Id": "67+17248404",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadira",
+                    "LastName": "Avery",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Neysha",
+                    "LastName": "Washington",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Dayanna",
+                    "LastName": "Robb",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "BSU starters: Lindsey Grossman; Noel Snow; Rachel Sefton; Charity Harris; Nadira Avery; Neysha Washington; libero Dayanna Robb.",
+            "Context": "",
+            "Id": "68+FC8B7D73",
+            "Type": "STARTERS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "JaKiyah",
+                    "LastName": "Young",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Lindsey Grossman] Ball handling error by JaKiyah Young.",
+            "Context": "",
+            "Id": "69+F49072A0",
+            "Type": "BALL HANDLING ERROR",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Lindsey Grossman] Service error.",
+            "Context": "",
+            "Id": "70+6A734136",
+            "Type": "SERVICE ERROR",
+            "Action": "TRINITY",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Nadira",
+                "LastName": "Avery",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Kyla Sutton] Kill by Nadira Avery (from Lindsey Grossman).",
+            "Context": "",
+            "Id": "71+5BBFC384",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Noel Snow] Bad set by Lindsey Grossman.",
+            "Context": "",
+            "Id": "72+1EEAB862",
+            "Type": "BAD SET",
+            "Action": "TRINITY",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Neysha",
+                "LastName": "Washington",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mey'Soine",
+                    "LastName": "Thomas",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Mey'Soine Thomas] Kill by Neysha Washington (from Lindsey Grossman).",
+            "Context": "",
+            "Id": "73+905D40CC",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Nadira",
+                "LastName": "Avery",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Mistura",
+                    "LastName": "Muritala",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Nadira Avery] Service ace (Mistura Muritala).",
+            "Context": "",
+            "Id": "74+E80B5A9E",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Nadira",
+                "LastName": "Avery",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Nadira Avery] Service ace (Kyla Sutton).",
+            "Context": "",
+            "Id": "75+D0E0076D",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Nadira",
+                    "LastName": "Avery",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Neysha",
+                    "LastName": "Washington",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Nadira Avery] Attack error by Neysha Washington.",
+            "Context": "",
+            "Id": "76+4CF0C306",
+            "Type": "ATTACK ERROR",
+            "Action": "TRINITY",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Belen",
+                    "LastName": "Guitierrez",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "TRINITY subs: Belen Guitierrez; Joselin Soriano.",
+            "Context": "",
+            "Id": "77+BDAE6076",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "JaKiyah",
+                    "LastName": "Young",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[JaKiyah Young] Service error.",
+            "Context": "",
+            "Id": "78+6F373A4B",
+            "Type": "SERVICE ERROR",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Rachel",
+                "LastName": "Sefton",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Rachel Sefton] Service ace (Kyla Sutton).",
+            "Context": "",
+            "Id": "79+B4041711",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Lindsey",
+                "LastName": "Grossman",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Rachel Sefton] Kill by Lindsey Grossman (from Danet Harris).",
+            "Context": "",
+            "Id": "80+E3309E4A",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Rachel Sefton] Attack error by Kyla Sutton.",
+            "Context": "",
+            "Id": "81+9139BF57",
+            "Type": "ATTACK ERROR",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 9,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Rachel Sefton] Attack error by Kyla Sutton.",
+            "Context": "",
+            "Id": "82+84097940",
+            "Type": "ATTACK ERROR",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 10,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Rachel",
+                "LastName": "Sefton",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Rachel Sefton] Service ace (TEAM).",
+            "Context": "",
+            "Id": "83+98CB77AE",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 11,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Rachel Sefton] Bad set by Rachel Sefton.",
+            "Context": "",
+            "Id": "84+3F1E1D1B",
+            "Type": "BAD SET",
+            "Action": "TRINITY",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 11,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Lindsey",
+                "LastName": "Grossman",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Danet Harris] Kill by Lindsey Grossman (from Rachel Sefton).",
+            "Context": "",
+            "Id": "85+44C3355B",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Neysha",
+                    "LastName": "Washington",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Neysha Washington] Attack error by Leilani Hernandez.",
+            "Context": "",
+            "Id": "86+6C1B3099",
+            "Type": "ATTACK ERROR",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 13,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Neysha",
+                "LastName": "Washington",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Neysha Washington] Service ace (Leilani Hernandez).",
+            "Context": "",
+            "Id": "87+85328C7A",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 14,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Timeout Trinity (DC).",
+            "Context": "",
+            "Id": "88+523E987D",
+            "Type": "TIMEOUT TRINITY",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Neysha",
+                "LastName": "Washington",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Neysha Washington] Service ace (Leilani Hernandez).",
+            "Context": "",
+            "Id": "89+B3920C34",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Neysha",
+                "LastName": "Washington",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Neysha Washington] Service ace (TEAM).",
+            "Context": "",
+            "Id": "90+8D5A44A5",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Neysha",
+                "LastName": "Washington",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "JaKiyah",
+                    "LastName": "Young",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Neysha Washington] Service ace (JaKiyah Young).",
+            "Context": "",
+            "Id": "91+7BBC3920",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 17,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Neysha",
+                "LastName": "Washington",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Neysha Washington] Service ace (Leilani Hernandez).",
+            "Context": "",
+            "Id": "92+A4C24ADD",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Neysha",
+                    "LastName": "Washington",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Sefton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Neysha Washington] Bad set by Rachel Sefton.",
+            "Context": "",
+            "Id": "93+4FEA0638",
+            "Type": "BAD SET",
+            "Action": "TRINITY",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Leilani Hernandez] Attack error by Charity Harris.",
+            "Context": "",
+            "Id": "94+BD4535B4",
+            "Type": "ATTACK ERROR",
+            "Action": "TRINITY",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Leilani",
+                "LastName": "Hernandez",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Leilani Hernandez] Service ace (Noel Snow).",
+            "Context": "",
+            "Id": "95+13505717",
+            "Type": "SERVICE ACE",
+            "Action": "TRINITY",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Noel",
+                "LastName": "Snow",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Leilani Hernandez] Kill by Noel Snow (from Lindsey Grossman).",
+            "Context": "",
+            "Id": "96+222BEE65",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 19,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leilani",
+                    "LastName": "Hernandez",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Service ace (Leilani Hernandez).",
+            "Context": "",
+            "Id": "97+34599807",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 20,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Service ace (Danet Harris).",
+            "Context": "",
+            "Id": "98+646B6E42",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 21,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Charity",
+                "LastName": "Harris",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Danet",
+                    "LastName": "Harris",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Service ace (Danet Harris).",
+            "Context": "",
+            "Id": "99+6014287F",
+            "Type": "SERVICE ACE",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 22,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Rachel",
+                "LastName": "Sefton",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Charity Harris] Kill by Rachel Sefton.",
+            "Context": "",
+            "Id": "100+55D1194F",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 23,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Charity",
+                    "LastName": "Harris",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Noel",
+                    "LastName": "Snow",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Charity Harris] Attack error by Noel Snow.",
+            "Context": "",
+            "Id": "101+73B2C57D",
+            "Type": "ATTACK ERROR",
+            "Action": "TRINITY",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 23,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Belen",
+                    "LastName": "Guitierrez",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "TRINITY subs: Joselin Soriano; Belen Guitierrez.",
+            "Context": "",
+            "Id": "102+8A946283",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Joselin",
+                    "LastName": "Soriano",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Joselin Soriano] Service error.",
+            "Context": "",
+            "Id": "103+B766C008",
+            "Type": "SERVICE ERROR",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 24,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Kyla",
+                "LastName": "Sutton",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "[Lindsey Grossman] Kill by Kyla Sutton.",
+            "Context": "",
+            "Id": "104+383B1798",
+            "Type": "KILL",
+            "Action": "TRINITY",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 24,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Noel",
+                "LastName": "Snow",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kyla",
+                    "LastName": "Sutton",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lindsey",
+                    "LastName": "Grossman",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "[Kyla Sutton] Kill by Noel Snow (from Lindsey Grossman).",
+            "Context": "",
+            "Id": "105+D779E17",
+            "Type": "KILL",
+            "Action": "BSU",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 25,
+                "VisitingTeam": 9
+            }
+        }
+    ]
+}

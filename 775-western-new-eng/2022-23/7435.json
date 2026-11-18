@@ -1,0 +1,5317 @@
+{
+    "Game": {
+        "Type": "VolleyballGame",
+        "HasStarted": true,
+        "IsComplete": true,
+        "Source": "",
+        "Date": "9/20/2022",
+        "DateUTC": null,
+        "StartTime": "7:03 PM",
+        "EndTime": "8:22 PM",
+        "UseLiveStatsAutomation": null,
+        "NcaaGameId": "",
+        "SidearmGameId": null,
+        "ClientId": null,
+        "ClientAbbrev": null,
+        "ClientLiveStatsUrl": null,
+        "Notes": [],
+        "Location": "Dudley, MA",
+        "GlobalSportShortname": null,
+        "BannerMessage": null,
+        "StadiumImage": null,
+        "SiteImage": null,
+        "ClientHostname": null,
+        "Officials": "",
+        "Attendance": 144,
+        "PeriodsRegulation": 5,
+        "Period": 3,
+        "ClockSeconds": -1,
+        "Context": "",
+        "Rules": {
+            "PeriodMinutes": -1,
+            "PeriodName": "Set",
+            "OTMinutes": -1,
+            "ShowExtraPeriodsAsOT": true,
+            "ClockDirection": "None",
+            "ClockSegmentation": "Periods"
+        },
+        "HomeTeam": {
+            "Id": "NC",
+            "Name": "Nichols",
+            "Score": 0,
+            "SetScore": 22,
+            "CurrentRecord": "9-3,0-1 CCC",
+            "PostgameRecord": "",
+            "NcaaSchoolCode": "",
+            "Color": "#EEEEEE",
+            "TextColor": "#232323",
+            "Logo": "https://wnegoldenbears.com/images/logos/Nichols.png",
+            "Url": null,
+            "PeriodScores": [
+                22,
+                18,
+                22
+            ],
+            "PeriodTimeouts": []
+        },
+        "VisitingTeam": {
+            "Id": "WNE",
+            "Name": "Western New Eng.",
+            "Score": 3,
+            "SetScore": 25,
+            "CurrentRecord": "9-4,1-0 CCC",
+            "PostgameRecord": "",
+            "NcaaSchoolCode": "",
+            "Color": "#004B8D",
+            "TextColor": "#F5A700",
+            "Logo": "https://wnegoldenbears.com/images/logos/site/site.png",
+            "Url": "https://wnegoldenbears.com",
+            "PeriodScores": [
+                25,
+                25,
+                25
+            ],
+            "PeriodTimeouts": []
+        },
+        "LastPlays": [
+            {
+                "Player": {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sarah",
+                    "LastName": "Scott",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [],
+                "Team": "VisitingTeam",
+                "Narrative": "[Mayer, Becca] Kill by Scott, Sarah.",
+                "Context": "",
+                "Id": "162+A0C26F60",
+                "Type": "KILL",
+                "Action": "WNE",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 22,
+                    "VisitingTeam": 25
+                }
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [],
+                "Team": "VisitingTeam",
+                "Narrative": "[Diorio, Liz] Service error.",
+                "Context": "",
+                "Id": "161+B3A26EF8",
+                "Type": "SERVICE ERROR",
+                "Action": "WNE",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 22,
+                    "VisitingTeam": 24
+                }
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [],
+                "Team": "HomeTeam",
+                "Narrative": "[Diorio, Liz] Attack error by Molina, Yemayma (block by Plourde, Ryley; Fegan, Jayleen).",
+                "Context": "",
+                "Id": "160+4732D743",
+                "Type": "ATTACK ERROR",
+                "Action": "NC",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 22,
+                    "VisitingTeam": 23
+                }
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [],
+                "Team": "HomeTeam",
+                "Narrative": "[Lange, Kate] Service error.",
+                "Context": "",
+                "Id": "159+20FE415D",
+                "Type": "SERVICE ERROR",
+                "Action": "NC",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 21,
+                    "VisitingTeam": 23
+                }
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [],
+                "Team": "VisitingTeam",
+                "Narrative": "[Ball, Sydney] Service error.",
+                "Context": "",
+                "Id": "158+BB9D891",
+                "Type": "SERVICE ERROR",
+                "Action": "WNE",
+                "Period": 3,
+                "ClockSeconds": -1,
+                "Coordinate": null,
+                "Score": {
+                    "HomeTeam": 20,
+                    "VisitingTeam": 23
+                }
+            }
+        ]
+    },
+    "Leaders": {
+        "VisitingTeam": {
+            "Kills": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sarah",
+                        "LastName": "Scott",
+                        "UniformNumber": "17",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "10"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Alissa",
+                        "LastName": "Hawes",
+                        "UniformNumber": "12",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "8"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Yemayma",
+                        "LastName": "Molina",
+                        "UniformNumber": "11",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "7"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Rachel",
+                        "LastName": "Critz",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "7"
+                }
+            ],
+            "Hitting %": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Yemayma",
+                        "LastName": "Molina",
+                        "UniformNumber": "11",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".353"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Rachel",
+                        "LastName": "Critz",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".222"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sarah",
+                        "LastName": "Scott",
+                        "UniformNumber": "17",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".200"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Liz",
+                        "LastName": "Long",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".167"
+                }
+            ],
+            "Assists": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Hailey",
+                        "LastName": "Sell",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "30"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sarah",
+                        "LastName": "Scott",
+                        "UniformNumber": "17",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Service Aces": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sarah",
+                        "LastName": "Scott",
+                        "UniformNumber": "17",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Hailey",
+                        "LastName": "Sell",
+                        "UniformNumber": "4",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Becca",
+                        "LastName": "Mayer",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Zoe",
+                        "LastName": "Bozzay",
+                        "UniformNumber": "9",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Total Blocks": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Yemayma",
+                        "LastName": "Molina",
+                        "UniformNumber": "11",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Liz",
+                        "LastName": "Long",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Alissa",
+                        "LastName": "Hawes",
+                        "UniformNumber": "12",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sarah",
+                        "LastName": "Scott",
+                        "UniformNumber": "17",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "0"
+                }
+            ],
+            "Digs": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Becca",
+                        "LastName": "Mayer",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "11"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Alissa",
+                        "LastName": "Hawes",
+                        "UniformNumber": "12",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "8"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Liz",
+                        "LastName": "Long",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "7"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sarah",
+                        "LastName": "Scott",
+                        "UniformNumber": "17",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                }
+            ],
+            "Points": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Sarah",
+                        "LastName": "Scott",
+                        "UniformNumber": "17",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "14"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Yemayma",
+                        "LastName": "Molina",
+                        "UniformNumber": "11",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "9"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Alissa",
+                        "LastName": "Hawes",
+                        "UniformNumber": "12",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "8.5"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Rachel",
+                        "LastName": "Critz",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "7"
+                }
+            ]
+        },
+        "HomeTeam": {
+            "Kills": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jayleen",
+                        "LastName": "Fegan",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "8"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Sydney",
+                        "LastName": "Ball",
+                        "UniformNumber": "15",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Haylee",
+                        "LastName": "Granato",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Ryley",
+                        "LastName": "Plourde",
+                        "UniformNumber": "11",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                }
+            ],
+            "Hitting %": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Haylee",
+                        "LastName": "Granato",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".500"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Ryley",
+                        "LastName": "Plourde",
+                        "UniformNumber": "11",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".200"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jayleen",
+                        "LastName": "Fegan",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".190"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Sydney",
+                        "LastName": "Ball",
+                        "UniformNumber": "15",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": ".125"
+                }
+            ],
+            "Assists": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kya",
+                        "LastName": "Burdier",
+                        "UniformNumber": "14",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "17"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Ruby",
+                        "LastName": "St. onge",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Liz",
+                        "LastName": "Diorio",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jenna",
+                        "LastName": "Savoie",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Service Aces": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jayleen",
+                        "LastName": "Fegan",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Abigail",
+                        "LastName": "Mayuri",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Liz",
+                        "LastName": "Diorio",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Sydney",
+                        "LastName": "Ball",
+                        "UniformNumber": "15",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Total Blocks": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Ryley",
+                        "LastName": "Plourde",
+                        "UniformNumber": "11",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jayleen",
+                        "LastName": "Fegan",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Kya",
+                        "LastName": "Burdier",
+                        "UniformNumber": "14",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Luna",
+                        "LastName": "Colozzo",
+                        "UniformNumber": "9",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Digs": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Liz",
+                        "LastName": "Diorio",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "11"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jayleen",
+                        "LastName": "Fegan",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "9"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Sydney",
+                        "LastName": "Ball",
+                        "UniformNumber": "15",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "6"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jenna",
+                        "LastName": "Savoie",
+                        "UniformNumber": "7",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "5"
+                }
+            ],
+            "Points": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Jayleen",
+                        "LastName": "Fegan",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "9.5"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Sydney",
+                        "LastName": "Ball",
+                        "UniformNumber": "15",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "7"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Haylee",
+                        "LastName": "Granato",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Ryley",
+                        "LastName": "Plourde",
+                        "UniformNumber": "11",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                }
+            ]
+        }
+    },
+    "Stats": {
+        "HomeTeam": {
+            "TopPerformer": {
+                "Team": "HomeTeam",
+                "FirstName": "Jayleen",
+                "LastName": "Fegan",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "Players": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jayleen",
+                    "LastName": "Fegan",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Abigail",
+                    "LastName": "Mayuri",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Liz",
+                    "LastName": "Diorio",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Megan",
+                    "LastName": "Hendrickson",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Haylee",
+                    "LastName": "Granato",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Audrey",
+                    "LastName": "Luginbuhl",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Heather",
+                    "LastName": "Gauvin",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ryley",
+                    "LastName": "Plourde",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Jenna",
+                    "LastName": "Savoie",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Sydney",
+                    "LastName": "Ball",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Melina",
+                    "LastName": "Bezati",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Kya",
+                    "LastName": "Burdier",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Mairead",
+                    "LastName": "Frost",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ruby",
+                    "LastName": "St. onge",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Luna",
+                    "LastName": "Colozzo",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "PlayerGroups": {
+                "Players": {
+                    "Title": "Players",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "GamesPlayed": "GP",
+                        "Kills": "K",
+                        "AttackErrors": "E",
+                        "TotalAttackAttempts": "TA",
+                        "HittingPercentage": "H%",
+                        "Assists": "Ast",
+                        "ServiceAces": "Ace",
+                        "ServiceErrors": "SE",
+                        "BlockSolos": "BS",
+                        "BlockAssists": "BA",
+                        "BlockErrors": "BE",
+                        "TotalBlocks": "TB",
+                        "Digs": "Dig",
+                        "ReceptionAttempts": "Rec",
+                        "ReceptionErrors": "RE",
+                        "BallHandlingErrors": "BHE",
+                        "Points": "Pts",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "GamesPlayed": "GamesPlayed",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "TotalAttackAttempts": "Total Attacks",
+                        "HittingPercentage": "Hitting %",
+                        "Assists": "Assists",
+                        "ServiceAces": "Service Aces",
+                        "ServiceErrors": "Service Errors",
+                        "BlockSolos": "Block Solo",
+                        "BlockAssists": "Block Assist",
+                        "BlockErrors": "Block Errors",
+                        "TotalBlocks": "Total Blocks",
+                        "Digs": "Digs",
+                        "ReceptionAttempts": "Reception Attempts",
+                        "ReceptionErrors": "Reception Errors",
+                        "BallHandlingErrors": "Ball Handling Errors",
+                        "Points": "Points",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "2",
+                            "Name": "J. FEGAN",
+                            "GamesPlayed": "3",
+                            "Kills": "8",
+                            "AttackErrors": "4",
+                            "TotalAttackAttempts": "21",
+                            "HittingPercentage": ".190",
+                            "Assists": "0",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "1",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "1",
+                            "Digs": "9",
+                            "ReceptionAttempts": "9",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "0",
+                            "Points": "9.5",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "10",
+                            "Name": "A. MAYURI",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "1",
+                            "Name": "L. DIORIO",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": ".000",
+                            "Assists": "1",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "2",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "11",
+                            "ReceptionAttempts": "27",
+                            "ReceptionErrors": "3",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "3",
+                            "Name": "M. HENDRICKSON",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "6",
+                            "Name": "H. GRANATO",
+                            "GamesPlayed": "3",
+                            "Kills": "4",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "6",
+                            "HittingPercentage": ".500",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "4",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "13",
+                            "Name": "A. LUGINBUHL",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "16",
+                            "Name": "H. GAUVIN",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "11",
+                            "Name": "R. PLOURDE",
+                            "GamesPlayed": "3",
+                            "Kills": "3",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "10",
+                            "HittingPercentage": ".200",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "2",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "2",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "4",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "7",
+                            "Name": "J. SAVOIE",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": "-1.000",
+                            "Assists": "1",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "5",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "15",
+                            "Name": "S. BALL",
+                            "GamesPlayed": "3",
+                            "Kills": "6",
+                            "AttackErrors": "4",
+                            "TotalAttackAttempts": "16",
+                            "HittingPercentage": ".125",
+                            "Assists": "0",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "6",
+                            "ReceptionAttempts": "6",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "0",
+                            "Points": "7",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "17",
+                            "Name": "M. BEZATI",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "14",
+                            "Name": "K. BURDIER",
+                            "GamesPlayed": "3",
+                            "Kills": "1",
+                            "AttackErrors": "2",
+                            "TotalAttackAttempts": "9",
+                            "HittingPercentage": "-.111",
+                            "Assists": "17",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "1",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "1",
+                            "Digs": "5",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "2",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "4",
+                            "Name": "M. FROST",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "8",
+                            "Name": "R. ST. ONGE",
+                            "GamesPlayed": "2",
+                            "Kills": "1",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "4",
+                            "HittingPercentage": ".000",
+                            "Assists": "6",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "5",
+                            "ReceptionAttempts": "1",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "2",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "9",
+                            "Name": "L. COLOZZO",
+                            "GamesPlayed": "3",
+                            "Kills": "2",
+                            "AttackErrors": "4",
+                            "TotalAttackAttempts": "18",
+                            "HittingPercentage": "-.111",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "1",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "1",
+                            "Digs": "3",
+                            "ReceptionAttempts": "14",
+                            "ReceptionErrors": "2",
+                            "BallHandlingErrors": "0",
+                            "Points": "2.5",
+                            "PersonId": ""
+                        }
+                    ]
+                }
+            },
+            "Totals": {
+                "Key": {
+                    "Points": "P",
+                    "Kills": "K",
+                    "AttackErrors": "E",
+                    "TotalAttackAttempts": "TA",
+                    "HittingPercentage": "H%",
+                    "Assists": "Ast",
+                    "ServiceAces": "Ace",
+                    "ServiceErrors": "SE",
+                    "BlockSolos": "BS",
+                    "BlockAssists": "BA",
+                    "BlockErrors": "BE",
+                    "Digs": "Dig",
+                    "TotalBlocks": "TB",
+                    "ReceptionErrors": "RE",
+                    "BallHandlingErrors": "BHE"
+                },
+                "FullKey": {
+                    "Points": "Points",
+                    "Kills": "Kills",
+                    "AttackErrors": "Attack Errors",
+                    "TotalAttackAttempts": "Total Attacks",
+                    "HittingPercentage": "Hitting %",
+                    "Assists": "Assists",
+                    "ServiceAces": "Service Aces",
+                    "ServiceErrors": "Service Errors",
+                    "BlockSolos": "Block Solo",
+                    "BlockAssists": "Block Assist",
+                    "BlockErrors": "Block Errors",
+                    "Digs": "Digs",
+                    "TotalBlocks": "Total Blocks",
+                    "ReceptionErrors": "Reception Errors",
+                    "BallHandlingErrors": "Ball Handling Errors"
+                },
+                "Values": {
+                    "Points": "33",
+                    "Kills": "25",
+                    "AttackErrors": "18",
+                    "TotalAttackAttempts": "86",
+                    "HittingPercentage": ".081",
+                    "Assists": "25",
+                    "ServiceAces": "5",
+                    "ServiceErrors": "6",
+                    "BlockSolos": "1",
+                    "BlockAssists": "4",
+                    "BlockErrors": "0",
+                    "Digs": "46",
+                    "TotalBlocks": "3.0",
+                    "ReceptionErrors": "9",
+                    "BallHandlingErrors": "0"
+                }
+            },
+            "PeriodStats": [
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "1",
+                        "Points": "22",
+                        "Kills": "9",
+                        "AttackErrors": "3",
+                        "AttackAttempts": "29",
+                        "HittingPercentage": ".207",
+                        "Aces": "2",
+                        "Blocks": "0",
+                        "ServiceErrors": "4",
+                        "BallHandlingErrors": "1"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "2",
+                        "Points": "18",
+                        "Kills": "6",
+                        "AttackErrors": "9",
+                        "AttackAttempts": "26",
+                        "HittingPercentage": "-.115",
+                        "Aces": "1",
+                        "Blocks": "0",
+                        "ServiceErrors": "6",
+                        "BallHandlingErrors": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "3",
+                        "Points": "22",
+                        "Kills": "10",
+                        "AttackErrors": "6",
+                        "AttackAttempts": "31",
+                        "HittingPercentage": ".129",
+                        "Aces": "2",
+                        "Blocks": "3",
+                        "ServiceErrors": "4",
+                        "BallHandlingErrors": "0"
+                    }
+                }
+            ]
+        },
+        "VisitingTeam": {
+            "TopPerformer": {
+                "Team": "VisitingTeam",
+                "FirstName": "Yemayma",
+                "LastName": "Molina",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "Players": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sarah",
+                    "LastName": "Scott",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Liz",
+                    "LastName": "Long",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Becca",
+                    "LastName": "Mayer",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Hailey",
+                    "LastName": "Sell",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Isabella",
+                    "LastName": "Procida",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Taylor",
+                    "LastName": "Geist",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Zoe",
+                    "LastName": "Bozzay",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Yemayma",
+                    "LastName": "Molina",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alissa",
+                    "LastName": "Hawes",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ava",
+                    "LastName": "Cariddi",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Critz",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ari",
+                    "LastName": "Barbosa",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Leah",
+                    "LastName": "Warren",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kate",
+                    "LastName": "Lange",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "PlayerGroups": {
+                "Players": {
+                    "Title": "Players",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "GamesPlayed": "GP",
+                        "Kills": "K",
+                        "AttackErrors": "E",
+                        "TotalAttackAttempts": "TA",
+                        "HittingPercentage": "H%",
+                        "Assists": "Ast",
+                        "ServiceAces": "Ace",
+                        "ServiceErrors": "SE",
+                        "BlockSolos": "BS",
+                        "BlockAssists": "BA",
+                        "BlockErrors": "BE",
+                        "TotalBlocks": "TB",
+                        "Digs": "Dig",
+                        "ReceptionAttempts": "Rec",
+                        "ReceptionErrors": "RE",
+                        "BallHandlingErrors": "BHE",
+                        "Points": "Pts",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "GamesPlayed": "GamesPlayed",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "TotalAttackAttempts": "Total Attacks",
+                        "HittingPercentage": "Hitting %",
+                        "Assists": "Assists",
+                        "ServiceAces": "Service Aces",
+                        "ServiceErrors": "Service Errors",
+                        "BlockSolos": "Block Solo",
+                        "BlockAssists": "Block Assist",
+                        "BlockErrors": "Block Errors",
+                        "TotalBlocks": "Total Blocks",
+                        "Digs": "Digs",
+                        "ReceptionAttempts": "Reception Attempts",
+                        "ReceptionErrors": "Reception Errors",
+                        "BallHandlingErrors": "Ball Handling Errors",
+                        "Points": "Points",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "17",
+                            "Name": "S. SCOTT",
+                            "GamesPlayed": "3",
+                            "Kills": "10",
+                            "AttackErrors": "5",
+                            "TotalAttackAttempts": "25",
+                            "HittingPercentage": ".200",
+                            "Assists": "1",
+                            "ServiceAces": "4",
+                            "ServiceErrors": "1",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "6",
+                            "ReceptionAttempts": "7",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "14",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "2",
+                            "Name": "L. LONG",
+                            "GamesPlayed": "3",
+                            "Kills": "5",
+                            "AttackErrors": "2",
+                            "TotalAttackAttempts": "18",
+                            "HittingPercentage": ".167",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "1",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "1",
+                            "Digs": "7",
+                            "ReceptionAttempts": "35",
+                            "ReceptionErrors": "2",
+                            "BallHandlingErrors": "0",
+                            "Points": "5.5",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "1",
+                            "Name": "B. MAYER",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "1",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "11",
+                            "ReceptionAttempts": "14",
+                            "ReceptionErrors": "1",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "4",
+                            "Name": "H. SELL",
+                            "GamesPlayed": "3",
+                            "Kills": "2",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "8",
+                            "HittingPercentage": ".125",
+                            "Assists": "30",
+                            "ServiceAces": "2",
+                            "ServiceErrors": "3",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "2",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "4",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "5",
+                            "Name": "I. PROCIDA",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "8",
+                            "Name": "T. GEIST",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "9",
+                            "Name": "Z. BOZZAY",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "2",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "11",
+                            "Name": "Y. MOLINA",
+                            "GamesPlayed": "3",
+                            "Kills": "7",
+                            "AttackErrors": "1",
+                            "TotalAttackAttempts": "17",
+                            "HittingPercentage": ".353",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "1",
+                            "BlockAssists": "2",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "3",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "9",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "12",
+                            "Name": "A. HAWES",
+                            "GamesPlayed": "3",
+                            "Kills": "8",
+                            "AttackErrors": "5",
+                            "TotalAttackAttempts": "18",
+                            "HittingPercentage": ".167",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "4",
+                            "BlockSolos": "0",
+                            "BlockAssists": "1",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "1",
+                            "Digs": "8",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "8.5",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "3",
+                            "Name": "A. CARIDDI",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "7",
+                            "Name": "R. CRITZ",
+                            "GamesPlayed": "3",
+                            "Kills": "7",
+                            "AttackErrors": "3",
+                            "TotalAttackAttempts": "18",
+                            "HittingPercentage": ".222",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "7",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "10",
+                            "Name": "A. BARBOSA",
+                            "GamesPlayed": "0",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "0",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "0",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "16",
+                            "Name": "L. WARREN",
+                            "GamesPlayed": "1",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "0",
+                            "ServiceErrors": "2",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "0",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "18",
+                            "Name": "K. LANGE",
+                            "GamesPlayed": "3",
+                            "Kills": "0",
+                            "AttackErrors": "0",
+                            "TotalAttackAttempts": "0",
+                            "HittingPercentage": ".000",
+                            "Assists": "0",
+                            "ServiceAces": "1",
+                            "ServiceErrors": "2",
+                            "BlockSolos": "0",
+                            "BlockAssists": "0",
+                            "BlockErrors": "0",
+                            "TotalBlocks": "0",
+                            "Digs": "1",
+                            "ReceptionAttempts": "0",
+                            "ReceptionErrors": "0",
+                            "BallHandlingErrors": "0",
+                            "Points": "1",
+                            "PersonId": ""
+                        }
+                    ]
+                }
+            },
+            "Totals": {
+                "Key": {
+                    "Points": "P",
+                    "Kills": "K",
+                    "AttackErrors": "E",
+                    "TotalAttackAttempts": "TA",
+                    "HittingPercentage": "H%",
+                    "Assists": "Ast",
+                    "ServiceAces": "Ace",
+                    "ServiceErrors": "SE",
+                    "BlockSolos": "BS",
+                    "BlockAssists": "BA",
+                    "BlockErrors": "BE",
+                    "Digs": "Dig",
+                    "TotalBlocks": "TB",
+                    "ReceptionErrors": "RE",
+                    "BallHandlingErrors": "BHE"
+                },
+                "FullKey": {
+                    "Points": "Points",
+                    "Kills": "Kills",
+                    "AttackErrors": "Attack Errors",
+                    "TotalAttackAttempts": "Total Attacks",
+                    "HittingPercentage": "Hitting %",
+                    "Assists": "Assists",
+                    "ServiceAces": "Service Aces",
+                    "ServiceErrors": "Service Errors",
+                    "BlockSolos": "Block Solo",
+                    "BlockAssists": "Block Assist",
+                    "BlockErrors": "Block Errors",
+                    "Digs": "Digs",
+                    "TotalBlocks": "Total Blocks",
+                    "ReceptionErrors": "Reception Errors",
+                    "BallHandlingErrors": "Ball Handling Errors"
+                },
+                "Values": {
+                    "Points": "51",
+                    "Kills": "39",
+                    "AttackErrors": "17",
+                    "TotalAttackAttempts": "105",
+                    "HittingPercentage": ".210",
+                    "Assists": "31",
+                    "ServiceAces": "9",
+                    "ServiceErrors": "14",
+                    "BlockSolos": "1",
+                    "BlockAssists": "4",
+                    "BlockErrors": "0",
+                    "Digs": "36",
+                    "TotalBlocks": "3.0",
+                    "ReceptionErrors": "5",
+                    "BallHandlingErrors": "0"
+                }
+            },
+            "PeriodStats": [
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "1",
+                        "Points": "25",
+                        "Kills": "13",
+                        "AttackErrors": "6",
+                        "AttackAttempts": "40",
+                        "HittingPercentage": ".175",
+                        "Aces": "4",
+                        "Blocks": "1",
+                        "ServiceErrors": "3",
+                        "BallHandlingErrors": "2"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "2",
+                        "Points": "25",
+                        "Kills": "13",
+                        "AttackErrors": "5",
+                        "AttackAttempts": "28",
+                        "HittingPercentage": ".286",
+                        "Aces": "1",
+                        "Blocks": "2",
+                        "ServiceErrors": "1",
+                        "BallHandlingErrors": "1"
+                    }
+                },
+                {
+                    "Key": {
+                        "Game": "G",
+                        "Points": "P",
+                        "Kills": "K",
+                        "AttackErrors": "AE",
+                        "AttackAttempts": "AA",
+                        "HittingPercentage": "H%",
+                        "Aces": "Ace",
+                        "Blocks": "B",
+                        "ServiceErrors": "SE",
+                        "BallHandlingErrors": "BHE"
+                    },
+                    "FullKey": {
+                        "Game": "Game",
+                        "Points": "Points",
+                        "Kills": "Kills",
+                        "AttackErrors": "Attack Errors",
+                        "AttackAttempts": "Attack Attempts",
+                        "HittingPercentage": "Hitting %",
+                        "Aces": "Service Aces",
+                        "Blocks": "Blocks",
+                        "ServiceErrors": "Service Errors",
+                        "BallHandlingErrors": "Ball Handling Errors"
+                    },
+                    "Values": {
+                        "Game": "3",
+                        "Points": "25",
+                        "Kills": "13",
+                        "AttackErrors": "6",
+                        "AttackAttempts": "37",
+                        "HittingPercentage": ".189",
+                        "Aces": "4",
+                        "Blocks": "0",
+                        "ServiceErrors": "2",
+                        "BallHandlingErrors": "0"
+                    }
+                }
+            ]
+        }
+    },
+    "SeasonStats": {
+        "HomeTeam": null,
+        "VisitingTeam": null
+    },
+    "Plays": [
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "F-484 starters: Jayleen, Fegan; Haylee, Granato; Luna, Colozzo; Ryley, Plourde; Kya, Burdier; Sydney, Ball.",
+            "Context": "",
+            "Id": "0+671CEAE9",
+            "Type": "F-484 STARTERS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "F-775 starters: Liz, Long; Hailey, Sell; Rache, Critz; Yemayma, Molina; Alissa, Hawes; Sarah, Scott.",
+            "Context": "",
+            "Id": "1+42CD3E9D",
+            "Type": "F-775 STARTERS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Burdier, Kya] Attack error by Sell, Hailey.",
+            "Context": "",
+            "Id": "2+B3203E44",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Burdier, Kya] Kill by Scott, Sarah (from Sell, Hailey).",
+            "Context": "",
+            "Id": "3+4A027E4A",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Sell, Hailey] Attack error by Plourde, Ryley (from Burdier, Kya).",
+            "Context": "",
+            "Id": "4+A794BC2B",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Sell, Hailey] Service error.",
+            "Context": "",
+            "Id": "5+ED3E88C1",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Colozzo, Luna] Service error.",
+            "Context": "",
+            "Id": "6+60C4861A",
+            "Type": "SERVICE ERROR",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Scott, Sarah] Service ace (Colozzo, Luna).",
+            "Context": "",
+            "Id": "7+37C5F623",
+            "Type": "SERVICE ACE",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Scott, Sarah] Attack error by Hawes, Alissa (from Mayer, Becca).",
+            "Context": "",
+            "Id": "8+F65B0CD4",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "NC subs: Savoie, Jenna.",
+            "Context": "",
+            "Id": "9+328CA47D",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Savoie, Jenna] Attack error by Critz, Rache (from Sell, Hailey).",
+            "Context": "",
+            "Id": "10+4D49ED29",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liz",
+                "LastName": "Long",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Savoie, Jenna] Kill by Long, Liz (from Sell, Hailey).",
+            "Context": "",
+            "Id": "11+D62DC114",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "WNE subs: Bozzay, Zoe.",
+            "Context": "",
+            "Id": "12+9D0CB139",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jayleen",
+                "LastName": "Fegan",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Bozzay, Zoe] Kill by Fegan, Jayleen (from Burdier, Kya).",
+            "Context": "",
+            "Id": "13+A7520C5A",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "NC subs: St. Onge, Ruby.",
+            "Context": "",
+            "Id": "14+6F64F115",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[St. Onge, Ruby] Bad set by Molina, Yemayma.",
+            "Context": "",
+            "Id": "15+1FED9CF9",
+            "Type": "BAD SET",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[St. Onge, Ruby] Service error.",
+            "Context": "",
+            "Id": "16+A8BBDC8",
+            "Type": "SERVICE ERROR",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Hawes, Alissa] Attack error by Fegan, Jayleen (from Colozzo, Luna).",
+            "Context": "",
+            "Id": "17+6DC2A100",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Hawes, Alissa] Service error.",
+            "Context": "",
+            "Id": "18+523A73A5",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jayleen",
+                "LastName": "Fegan",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Fegan, Jayleen] Service ace (Mayer, Becca).",
+            "Context": "",
+            "Id": "19+AF3EBEB8",
+            "Type": "SERVICE ACE",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liz",
+                "LastName": "Long",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Fegan, Jayleen] Kill by Long, Liz (from Sell, Hailey).",
+            "Context": "",
+            "Id": "20+BD05DB55",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "WNE subs: Lange, Kate.",
+            "Context": "",
+            "Id": "21+B5A39DDF",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Hailey",
+                "LastName": "Sell",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Lange, Kate] Kill by Sell, Hailey (from Scott, Sarah).",
+            "Context": "",
+            "Id": "22+7F310D91",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Kate",
+                "LastName": "Lange",
+                "UniformNumber": "18",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Lange, Kate] Service ace (Diorio, Liz).",
+            "Context": "",
+            "Id": "23+7EDB897A",
+            "Type": "SERVICE ACE",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Lange, Kate] Service error.",
+            "Context": "",
+            "Id": "24+3B6E939C",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 9,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Diorio, Liz] Attack error by Hawes, Alissa (from Sell, Hailey).",
+            "Context": "",
+            "Id": "25+898B4B3E",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 10,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Luna",
+                "LastName": "Colozzo",
+                "UniformNumber": "9",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Diorio, Liz] Kill by Colozzo, Luna (from St. Onge, Ruby).",
+            "Context": "",
+            "Id": "26+7512293A",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 11,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Diorio, Liz] Attack error by Scott, Sarah (from Long, Liz).",
+            "Context": "",
+            "Id": "27+71DBBF04",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Diorio, Liz] Service error.",
+            "Context": "",
+            "Id": "28+3AF40613",
+            "Type": "SERVICE ERROR",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayer, Becca] Kill by Scott, Sarah (from Sell, Hailey).",
+            "Context": "",
+            "Id": "29+D67BDC54",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ryley",
+                "LastName": "Plourde",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Mayer, Becca] Kill by Plourde, Ryley (from St. Onge, Ruby).",
+            "Context": "",
+            "Id": "30+E8494C7B",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 13,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Burdier, Kya] Bad set by Fegan, Jayleen.",
+            "Context": "",
+            "Id": "31+5307D6A5",
+            "Type": "BAD SET",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 13,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sydney",
+                "LastName": "Ball",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Sell, Hailey] Kill by Ball, Sydney (from Burdier, Kya).",
+            "Context": "",
+            "Id": "32+7DFFC9BC",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 14,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "NC subs: Mayuri, Abigail.",
+            "Context": "",
+            "Id": "33+1836BC72",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Abigail",
+                "LastName": "Mayuri",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Mayuri, Abigail] Service ace (Long, Liz).",
+            "Context": "",
+            "Id": "34+CD21358F",
+            "Type": "SERVICE ACE",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Mayuri, Abigail] Attack error by Hawes, Alissa (from Sell, Hailey).",
+            "Context": "",
+            "Id": "35+7DBE35B9",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayuri, Abigail] Kill by Critz, Rache.",
+            "Context": "",
+            "Id": "36+A48E563D",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Scott, Sarah] Kill by Scott, Sarah (from Sell, Hailey).",
+            "Context": "",
+            "Id": "37+7006CD7E",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Scott, Sarah] Service ace (Team).",
+            "Context": "",
+            "Id": "38+EAE1190B",
+            "Type": "SERVICE ACE",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 16
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Scott, Sarah] Bad set by Burdier, Kya.",
+            "Context": "",
+            "Id": "39+861DAE4A",
+            "Type": "BAD SET",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 17
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jayleen",
+                "LastName": "Fegan",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Scott, Sarah] Kill by Fegan, Jayleen (from Burdier, Kya).",
+            "Context": "",
+            "Id": "40+25B45E38",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 17,
+                "VisitingTeam": 17
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liz",
+                "LastName": "Long",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Savoie, Jenna] Kill by Long, Liz (from Sell, Hailey).",
+            "Context": "",
+            "Id": "41+66CE618E",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 17,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alissa",
+                "LastName": "Hawes",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Bozzay, Zoe] Kill by Hawes, Alissa.",
+            "Context": "",
+            "Id": "42+779BADE4",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 17,
+                "VisitingTeam": 19
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Zoe",
+                "LastName": "Bozzay",
+                "UniformNumber": "9",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Bozzay, Zoe] Service ace (Diorio, Liz).",
+            "Context": "",
+            "Id": "43+57CC00AB",
+            "Type": "SERVICE ACE",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 17,
+                "VisitingTeam": 20
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jayleen",
+                "LastName": "Fegan",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Bozzay, Zoe] Kill by Fegan, Jayleen (from Burdier, Kya).",
+            "Context": "",
+            "Id": "44+2C40EDBF",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 20
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[St. Onge, Ruby] Attack error by Burdier, Kya (block by Molina, Yemayma).",
+            "Context": "",
+            "Id": "45+38321A79",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Hawes, Alissa] Service error.",
+            "Context": "",
+            "Id": "46+43577FF9",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 19,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Yemayma",
+                "LastName": "Molina",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Fegan, Jayleen] Kill by Molina, Yemayma (from Sell, Hailey).",
+            "Context": "",
+            "Id": "47+FF8CB620",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 19,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Kya",
+                "LastName": "Burdier",
+                "UniformNumber": "14",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Lange, Kate] Kill by Burdier, Kya (from St. Onge, Ruby).",
+            "Context": "",
+            "Id": "48+10D83701",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 20,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Yemayma",
+                "LastName": "Molina",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Diorio, Liz] Kill by Molina, Yemayma (from Sell, Hailey).",
+            "Context": "",
+            "Id": "49+C01DD412",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 20,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayer, Becca] Kill by Scott, Sarah (from Sell, Hailey).",
+            "Context": "",
+            "Id": "50+86B24F97",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 20,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ryley",
+                "LastName": "Plourde",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Mayer, Becca] Kill by Plourde, Ryley (from St. Onge, Ruby).",
+            "Context": "",
+            "Id": "51+4817DD9A",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 21,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sydney",
+                "LastName": "Ball",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Burdier, Kya] Kill by Ball, Sydney (from Burdier, Kya).",
+            "Context": "",
+            "Id": "52+9B1E956E",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 22,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Burdier, Kya] Kill by Critz, Rache (from Sell, Hailey).",
+            "Context": "",
+            "Id": "53+A859FDBD",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 1,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 22,
+                "VisitingTeam": 25
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "NC subs: Savoie, Jenna.",
+            "Context": "",
+            "Id": "54+E1AD2A91",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "F-484 starters: Jayleen, Fegan; Haylee, Granato; Luna, Colozzo; Ryley, Plourde; Kya, Burdier; Sydney, Ball; Liz, Diorio; Jenna, Savoie; Ruby, St., Onge; Abigail, Mayuri.",
+            "Context": "",
+            "Id": "55+C4C901A3",
+            "Type": "F-484 STARTERS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "F-775 starters: Liz, Long; Hailey, Sell; Rache, Critz; Yemayma, Molina; Alissa, Hawes; Sarah, Scott; Becca, Mayer; Zoe, Bozzay; Kate, Lange.",
+            "Context": "",
+            "Id": "56+A02369AF",
+            "Type": "F-775 STARTERS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "NC subs: St. Onge, Ruby; Mayuri, Abigail.",
+            "Context": "",
+            "Id": "57+D8BBFB28",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "WNE subs: Bozzay, Zoe; Lange, Kate.",
+            "Context": "",
+            "Id": "58+4422CA35",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Hailey",
+                "LastName": "Sell",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Sell, Hailey] Service ace (Colozzo, Luna).",
+            "Context": "",
+            "Id": "59+871C1F0C",
+            "Type": "SERVICE ACE",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Sell, Hailey] Attack error by Colozzo, Luna (from Ball, Sydney).",
+            "Context": "",
+            "Id": "60+FBC221E3",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 0,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Sell, Hailey] Service error.",
+            "Context": "",
+            "Id": "61+13ECA7AE",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "NC subs: Mayuri, Abigail.",
+            "Context": "",
+            "Id": "62+7253FF1E",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayuri, Abigail] Kill by Scott, Sarah (from Sell, Hailey).",
+            "Context": "",
+            "Id": "63+7B72595B",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Scott, Sarah] Attack error by Long, Liz (from Sell, Hailey).",
+            "Context": "",
+            "Id": "64+35D3C441",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "NC subs: Savoie, Jenna.",
+            "Context": "",
+            "Id": "65+2616F50A",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alissa",
+                "LastName": "Hawes",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Savoie, Jenna] Kill by Hawes, Alissa (from Sell, Hailey).",
+            "Context": "",
+            "Id": "66+385B1E9A",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "WNE subs: Bozzay, Zoe.",
+            "Context": "",
+            "Id": "67+BDD8AFFD",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Yemayma",
+                "LastName": "Molina",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Bozzay, Zoe] Kill by Molina, Yemayma.",
+            "Context": "",
+            "Id": "68+9E149C39",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Bozzay, Zoe] Service error.",
+            "Context": "",
+            "Id": "69+77FA3C91",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "NC subs: St. Onge, Ruby.",
+            "Context": "",
+            "Id": "70+63EA2CFA",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[St. Onge, Ruby] Service ace (Team).",
+            "Context": "",
+            "Id": "71+CCCA564F",
+            "Type": "SERVICE ACE",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Yemayma",
+                "LastName": "Molina",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[St. Onge, Ruby] Kill by Molina, Yemayma (from Sell, Hailey).",
+            "Context": "",
+            "Id": "72+6FCD34BF",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Hawes, Alissa] Service error.",
+            "Context": "",
+            "Id": "73+CC444755",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Fegan, Jayleen] Bad set by St. Onge, Ruby.",
+            "Context": "",
+            "Id": "74+D7050641",
+            "Type": "BAD SET",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "WNE subs: Lange, Kate.",
+            "Context": "",
+            "Id": "75+D93170BE",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Luna",
+                "LastName": "Colozzo",
+                "UniformNumber": "9",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Lange, Kate] Kill by Colozzo, Luna (from St. Onge, Ruby).",
+            "Context": "",
+            "Id": "76+1E1C0CBE",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Yemayma",
+                "LastName": "Molina",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Diorio, Liz] Kill by Molina, Yemayma (from Sell, Hailey).",
+            "Context": "",
+            "Id": "77+3120D231",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayer, Becca] Attack error by Colozzo, Luna (from Diorio, Liz).",
+            "Context": "",
+            "Id": "78+47131B2D",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayer, Becca] Kill by Critz, Rache (from Savoie, Jenna).",
+            "Context": "",
+            "Id": "79+B8E95669",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayer, Becca] Attack error by Burdier, Kya (from St. Onge, Ruby).",
+            "Context": "",
+            "Id": "80+C457719A",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayer, Becca] Attack error by St. Onge, Ruby.",
+            "Context": "",
+            "Id": "81+71220ACC",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Mayer, Becca] Attack error by Scott, Sarah (from Sell, Hailey).",
+            "Context": "",
+            "Id": "82+53460E8A",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Hailey",
+                "LastName": "Sell",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Burdier, Kya] Kill by Sell, Hailey.",
+            "Context": "",
+            "Id": "83+FB1FD62C",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alissa",
+                "LastName": "Hawes",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Sell, Hailey] Kill by Hawes, Alissa (from Sell, Hailey).",
+            "Context": "",
+            "Id": "84+A1ACA52F",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Sell, Hailey] Service error.",
+            "Context": "",
+            "Id": "85+B892F0E6",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayuri, Abigail] Kill by Critz, Rache (from Sell, Hailey).",
+            "Context": "",
+            "Id": "86+D95B140B",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jayleen",
+                "LastName": "Fegan",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Scott, Sarah] Kill by Fegan, Jayleen (from Burdier, Kya).",
+            "Context": "",
+            "Id": "87+E05E56EC",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 9,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sydney",
+                "LastName": "Ball",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Savoie, Jenna] Kill by Ball, Sydney (from Burdier, Kya).",
+            "Context": "",
+            "Id": "88+2AFC2844",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 10,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jayleen",
+                "LastName": "Fegan",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Savoie, Jenna] Kill by Fegan, Jayleen (from Savoie, Jenna).",
+            "Context": "",
+            "Id": "89+E435BAE8",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 11,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Savoie, Jenna] Attack error by Critz, Rache (from Sell, Hailey).",
+            "Context": "",
+            "Id": "90+23ED0236",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alissa",
+                "LastName": "Hawes",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Savoie, Jenna] Kill by Hawes, Alissa (from Sell, Hailey).",
+            "Context": "",
+            "Id": "91+5E7E660F",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 16
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Bozzay, Zoe] Attack error by Ball, Sydney (from Burdier, Kya).",
+            "Context": "",
+            "Id": "92+F6FF1CC",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 17
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Bozzay, Zoe] Attack error by Granato, Haylee (from Burdier, Kya).",
+            "Context": "",
+            "Id": "93+BB175D70",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Bozzay, Zoe] Attack error by Fegan, Jayleen (from Burdier, Kya).",
+            "Context": "",
+            "Id": "94+CF2CE210",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 19
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Bozzay, Zoe] Attack error by Ball, Sydney (block by Molina, Yemayma; Long, Liz).",
+            "Context": "",
+            "Id": "95+A44A256",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 20
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Bozzay, Zoe] Attack error by Fegan, Jayleen (block by Hawes, Alissa; Molina, Yemayma).",
+            "Context": "",
+            "Id": "96+9C489635",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Bozzay, Zoe] Service error.",
+            "Context": "",
+            "Id": "97+F9BD1BA5",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 13,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[St. Onge, Ruby] Attack error by Hawes, Alissa (from Sell, Hailey).",
+            "Context": "",
+            "Id": "98+C1766D43",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 14,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[St. Onge, Ruby] Attack error by Long, Liz (from Sell, Hailey).",
+            "Context": "",
+            "Id": "99+81A7C5A2",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alissa",
+                "LastName": "Hawes",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[St. Onge, Ruby] Kill by Hawes, Alissa (from Sell, Hailey).",
+            "Context": "",
+            "Id": "100+CF804E27",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Yemayma",
+                "LastName": "Molina",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Hawes, Alissa] Kill by Molina, Yemayma (from Sell, Hailey).",
+            "Context": "",
+            "Id": "101+B4722E69",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Hawes, Alissa] Service error.",
+            "Context": "",
+            "Id": "102+7EC9A356",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Fegan, Jayleen] Service error.",
+            "Context": "",
+            "Id": "103+89CB935F",
+            "Type": "SERVICE ERROR",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Haylee",
+                "LastName": "Granato",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Lange, Kate] Kill by Granato, Haylee (from St. Onge, Ruby).",
+            "Context": "",
+            "Id": "104+49A3606C",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 17,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Diorio, Liz] Kill by St. Onge, Ruby (from Diorio, Liz).",
+            "Context": "",
+            "Id": "105+E2B7BB95",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Diorio, Liz] Kill by Scott, Sarah (from Sell, Hailey).",
+            "Context": "",
+            "Id": "106+40AABCA9",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 2,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 25
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "NC subs: Savoie, Jenna; St. Onge, Ruby; Mayuri, Abigail.",
+            "Context": "",
+            "Id": "107+570927D9",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "WNE subs: Bozzay, Zoe; Lange, Kate.",
+            "Context": "",
+            "Id": "108+2086840E",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "F-484 starters: Jayleen, Fegan; Haylee, Granato; Luna, Colozzo; Ryley, Plourde; Kya, Burdier; Sydney, Ball; Liz, Diorio; Abigail, Mayuri; Jenna, Savoie; Ruby, St., Onge.",
+            "Context": "",
+            "Id": "109+1CF78DAE",
+            "Type": "F-484 STARTERS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": null,
+            "Narrative": "F-775 starters: Liz, Long; Hailey, Sell; Rache, Critz; Yemayma, Molina; Alissa, Hawes; Sarah, Scott; Becca, Mayer; Zoe, Bozzay; Kate, Lange.",
+            "Context": "",
+            "Id": "110+F4B1C794",
+            "Type": "F-775 STARTERS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Burdier, Kya] Attack error by Critz, Rache (from Sell, Hailey).",
+            "Context": "",
+            "Id": "111+AEB1B933",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jayleen",
+                "LastName": "Fegan",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Burdier, Kya] Kill by Fegan, Jayleen (from Burdier, Kya).",
+            "Context": "",
+            "Id": "112+FC5BAA1C",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 2,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Burdier, Kya] Attack error by Scott, Sarah (block by Colozzo, Luna; Plourde, Ryley).",
+            "Context": "",
+            "Id": "113+FCAD14C9",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Burdier, Kya] Kill by Scott, Sarah (from Sell, Hailey).",
+            "Context": "",
+            "Id": "114+F791227D",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 1
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Hailey",
+                "LastName": "Sell",
+                "UniformNumber": "4",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Sell, Hailey] Service ace (Ball, Sydney).",
+            "Context": "",
+            "Id": "115+ED271BB6",
+            "Type": "SERVICE ACE",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 2
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Sell, Hailey] Attack error by Colozzo, Luna (from Fegan, Jayleen).",
+            "Context": "",
+            "Id": "116+C4EE1196",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 3,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Sell, Hailey] Attack error by Scott, Sarah (from Sell, Hailey).",
+            "Context": "",
+            "Id": "117+AC32BA94",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 3
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alissa",
+                "LastName": "Hawes",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Fegan, Jayleen] Kill by Hawes, Alissa (from Sell, Hailey).",
+            "Context": "",
+            "Id": "118+F4AE55A5",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 4
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Scott, Sarah] Kill by Critz, Rache (from Sell, Hailey).",
+            "Context": "",
+            "Id": "119+8F46861F",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 5
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Yemayma",
+                "LastName": "Molina",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Scott, Sarah] Kill by Molina, Yemayma (from Burdier, Kya).",
+            "Context": "",
+            "Id": "120+AFEF0920",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 6
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Scott, Sarah] Attack error by Colozzo, Luna (from Burdier, Kya).",
+            "Context": "",
+            "Id": "121+F8CAAAD8",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 7
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Scott, Sarah] Service ace (Team).",
+            "Context": "",
+            "Id": "122+8190AE6D",
+            "Type": "SERVICE ACE",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 8
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alissa",
+                "LastName": "Hawes",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Scott, Sarah] Kill by Hawes, Alissa (from Sell, Hailey).",
+            "Context": "",
+            "Id": "123+1CF74ADD",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 9
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Scott, Sarah] Service ace (Diorio, Liz).",
+            "Context": "",
+            "Id": "124+AF0D0567",
+            "Type": "SERVICE ACE",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 4,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sydney",
+                "LastName": "Ball",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Scott, Sarah] Kill by Ball, Sydney (from Burdier, Kya).",
+            "Context": "",
+            "Id": "125+4A84725B",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 5,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "NC subs: Mayuri, Abigail.",
+            "Context": "",
+            "Id": "126+61033AD3",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sydney",
+                "LastName": "Ball",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Mayuri, Abigail] Kill by Ball, Sydney (from Burdier, Kya).",
+            "Context": "",
+            "Id": "127+2696D5B9",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 10
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liz",
+                "LastName": "Long",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayuri, Abigail] Kill by Long, Liz (from Sell, Hailey).",
+            "Context": "",
+            "Id": "128+BA8BAC52",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 6,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "WNE subs: Bozzay, Zoe.",
+            "Context": "",
+            "Id": "129+E156F9C2",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Haylee",
+                "LastName": "Granato",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Bozzay, Zoe] Kill by Granato, Haylee (from Burdier, Kya).",
+            "Context": "",
+            "Id": "130+334AEFD0",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 11
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "NC subs: Savoie, Jenna.",
+            "Context": "",
+            "Id": "131+7B79A335",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Savoie, Jenna] Attack error by Savoie, Jenna (from Ball, Sydney).",
+            "Context": "",
+            "Id": "132+D93AADA6",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 12
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "WNE subs: Warren, Leah.",
+            "Context": "",
+            "Id": "133+875B7A6C",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Liz",
+                "LastName": "Long",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Warren, Leah] Kill by Long, Liz (from Sell, Hailey).",
+            "Context": "",
+            "Id": "134+D0CFECF7",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 13
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Warren, Leah] Attack error by Ball, Sydney (from Burdier, Kya).",
+            "Context": "",
+            "Id": "135+BB87058C",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 7,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Warren, Leah] Service error.",
+            "Context": "",
+            "Id": "136+D6DD79E3",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 8,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jayleen",
+                "LastName": "Fegan",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Ball, Sydney] Kill by Fegan, Jayleen (from Burdier, Kya).",
+            "Context": "",
+            "Id": "137+89CE5CC6",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 9,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sydney",
+                "LastName": "Ball",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Ball, Sydney] Service ace (Team).",
+            "Context": "",
+            "Id": "138+E0CC80D6",
+            "Type": "SERVICE ACE",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 10,
+                "VisitingTeam": 14
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Ball, Sydney] Attack error by Fegan, Jayleen (from Burdier, Kya).",
+            "Context": "",
+            "Id": "139+18716406",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 10,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "WNE subs: Lange, Kate.",
+            "Context": "",
+            "Id": "140+FA7B8038",
+            "Type": "SUBS",
+            "Action": null,
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Lange, Kate] Attack error by Scott, Sarah (block by Burdier, Kya).",
+            "Context": "",
+            "Id": "141+F40F3D2C",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 11,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Liz",
+                "LastName": "Diorio",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Diorio, Liz] Service ace (Long, Liz).",
+            "Context": "",
+            "Id": "142+6716D910",
+            "Type": "SERVICE ACE",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 15
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Diorio, Liz] Kill by Scott, Sarah (from Sell, Hailey).",
+            "Context": "",
+            "Id": "143+9AD5F26D",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 16
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Becca",
+                "LastName": "Mayer",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayer, Becca] Service ace (Fegan, Jayleen).",
+            "Context": "",
+            "Id": "144+7A378867",
+            "Type": "SERVICE ACE",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 17
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayer, Becca] Kill by Critz, Rache.",
+            "Context": "",
+            "Id": "145+3413D880",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 12,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ryley",
+                "LastName": "Plourde",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Mayer, Becca] Kill by Plourde, Ryley (from Burdier, Kya).",
+            "Context": "",
+            "Id": "146+56EE60DD",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 13,
+                "VisitingTeam": 18
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Burdier, Kya] Kill by Critz, Rache (from Sell, Hailey).",
+            "Context": "",
+            "Id": "147+EA01A361",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 13,
+                "VisitingTeam": 19
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Jayleen",
+                "LastName": "Fegan",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Sell, Hailey] Kill by Fegan, Jayleen (from Burdier, Kya).",
+            "Context": "",
+            "Id": "148+F48B111A",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 14,
+                "VisitingTeam": 19
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Fegan, Jayleen] Attack error by Hawes, Alissa (from Sell, Hailey).",
+            "Context": "",
+            "Id": "149+965AE594",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 19
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Fegan, Jayleen] Kill by Scott, Sarah (from Sell, Hailey).",
+            "Context": "",
+            "Id": "150+1D480D96",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 15,
+                "VisitingTeam": 20
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Scott, Sarah] Service error.",
+            "Context": "",
+            "Id": "151+D67B3225",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 20
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayuri, Abigail] Attack error by Ball, Sydney (from Mayuri, Abigail).",
+            "Context": "",
+            "Id": "152+BF4742AE",
+            "Type": "ATTACK ERROR",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 16,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Haylee",
+                "LastName": "Granato",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Bozzay, Zoe] Kill by Granato, Haylee (from Burdier, Kya).",
+            "Context": "",
+            "Id": "153+C4A4B11F",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 17,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sydney",
+                "LastName": "Ball",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Savoie, Jenna] Kill by Ball, Sydney (from Burdier, Kya).",
+            "Context": "",
+            "Id": "154+EF50DE9B",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 21
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alissa",
+                "LastName": "Hawes",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Savoie, Jenna] Kill by Hawes, Alissa (from Sell, Hailey).",
+            "Context": "",
+            "Id": "155+8A4E95FA",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 18,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Warren, Leah] Service error.",
+            "Context": "",
+            "Id": "156+E19E6AE7",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 19,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Haylee",
+                "LastName": "Granato",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Ball, Sydney] Kill by Granato, Haylee (from Burdier, Kya).",
+            "Context": "",
+            "Id": "157+20E61EC1",
+            "Type": "KILL",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 20,
+                "VisitingTeam": 22
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Ball, Sydney] Service error.",
+            "Context": "",
+            "Id": "158+BB9D891",
+            "Type": "SERVICE ERROR",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 20,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Lange, Kate] Service error.",
+            "Context": "",
+            "Id": "159+20FE415D",
+            "Type": "SERVICE ERROR",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 21,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "[Diorio, Liz] Attack error by Molina, Yemayma (block by Plourde, Ryley; Fegan, Jayleen).",
+            "Context": "",
+            "Id": "160+4732D743",
+            "Type": "ATTACK ERROR",
+            "Action": "NC",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 22,
+                "VisitingTeam": 23
+            }
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Diorio, Liz] Service error.",
+            "Context": "",
+            "Id": "161+B3A26EF8",
+            "Type": "SERVICE ERROR",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 22,
+                "VisitingTeam": 24
+            }
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Sarah",
+                "LastName": "Scott",
+                "UniformNumber": "17",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "[Mayer, Becca] Kill by Scott, Sarah.",
+            "Context": "",
+            "Id": "162+A0C26F60",
+            "Type": "KILL",
+            "Action": "WNE",
+            "Period": 3,
+            "ClockSeconds": -1,
+            "Coordinate": null,
+            "Score": {
+                "HomeTeam": 22,
+                "VisitingTeam": 25
+            }
+        }
+    ]
+}

@@ -1,0 +1,5191 @@
+{
+    "Game": {
+        "Type": "SoccerGame",
+        "HasStarted": true,
+        "IsComplete": true,
+        "Source": "genius",
+        "Date": "11/12/2026",
+        "DateUTC": "2026-11-12T04:00:00Z",
+        "StartTime": "4:00 AM",
+        "EndTime": "4:56 AM",
+        "UseLiveStatsAutomation": null,
+        "NcaaGameId": "",
+        "SidearmGameId": null,
+        "ClientId": null,
+        "ClientAbbrev": null,
+        "ClientLiveStatsUrl": null,
+        "Notes": [],
+        "Location": "St. Louis",
+        "GlobalSportShortname": null,
+        "BannerMessage": null,
+        "StadiumImage": null,
+        "SiteImage": null,
+        "ClientHostname": null,
+        "Officials": "Referee: Tim Wagner, Asst. Referee: Anna Wawrzyniak, Asst. Referee: Matthew Schab, Alt. Official: William Brooks",
+        "Attendance": 253,
+        "PeriodsRegulation": 2,
+        "Period": 2,
+        "ClockSeconds": 5400,
+        "Context": "",
+        "Rules": {
+            "PeriodMinutes": 45,
+            "PeriodName": "Half",
+            "OTMinutes": 10,
+            "ShowExtraPeriodsAsOT": true,
+            "ClockDirection": "Up",
+            "ClockSegmentation": "Continuous"
+        },
+        "HomeTeam": {
+            "Id": "UMSL",
+            "Name": "Mo.-St. Louis",
+            "Score": 1,
+            "CurrentRecord": "15-2-3, 12-0-2",
+            "PostgameRecord": "",
+            "NcaaSchoolCode": "",
+            "Color": "#EEEEEE",
+            "TextColor": "#232323",
+            "Logo": "https://www.svsucardinals.com/images/logos/UMSL.png",
+            "Url": null,
+            "PeriodScores": [
+                1,
+                0
+            ],
+            "PeriodTimeouts": []
+        },
+        "VisitingTeam": {
+            "Id": "SV",
+            "Name": "Saginaw Valley",
+            "Score": 0,
+            "CurrentRecord": "12-7-3, 8-4-2",
+            "PostgameRecord": "",
+            "NcaaSchoolCode": "",
+            "Color": "#002B4E",
+            "TextColor": "#CD001A",
+            "Logo": "https://www.svsucardinals.com/images/logos/site/site.png",
+            "Url": "https://www.svsucardinals.com",
+            "PeriodScores": [
+                0,
+                0
+            ],
+            "PeriodTimeouts": []
+        },
+        "LastPlays": [
+            {
+                "Player": null,
+                "InvolvedPlayers": [],
+                "Team": "HomeTeam",
+                "Narrative": "End of period.",
+                "Context": "",
+                "Id": "118+2DCEB10C",
+                "Type": "END-PRD",
+                "Action": null,
+                "Period": 2,
+                "ClockSeconds": 5400,
+                "Coordinate": null,
+                "Qualifiers": null,
+                "Score": null
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [],
+                "Team": "VisitingTeam",
+                "Narrative": "Corner kick.",
+                "Context": "",
+                "Id": "117+ECDB80CF",
+                "Type": "CORNER",
+                "Action": null,
+                "Period": 2,
+                "ClockSeconds": 5390,
+                "Coordinate": null,
+                "Qualifiers": null,
+                "Score": null
+            },
+            {
+                "Player": {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Grace",
+                    "LastName": "Battershell",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [
+                    {
+                        "Team": "HomeTeam",
+                        "FirstName": "Allysa",
+                        "LastName": "Wolf",
+                        "UniformNumber": "1",
+                        "Photo": null,
+                        "PersonId": ""
+                    }
+                ],
+                "Team": "VisitingTeam",
+                "Narrative": "Shot by SV Battershell, Grace, bottom left, saved by Wolf, Allysa.",
+                "Context": "",
+                "Id": "116+280DE407",
+                "Type": "SHOT",
+                "Action": null,
+                "Period": 2,
+                "ClockSeconds": 5384,
+                "Coordinate": null,
+                "Qualifiers": null,
+                "Score": null
+            },
+            {
+                "Player": {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kylie",
+                    "LastName": "Cesarek",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                "InvolvedPlayers": [],
+                "Team": "VisitingTeam",
+                "Narrative": "Shot by SV Cesarek, Kylie, out left.",
+                "Context": "",
+                "Id": "115+215F4D1D",
+                "Type": "SHOT",
+                "Action": null,
+                "Period": 2,
+                "ClockSeconds": 5354,
+                "Coordinate": null,
+                "Qualifiers": null,
+                "Score": null
+            },
+            {
+                "Player": null,
+                "InvolvedPlayers": [],
+                "Team": "VisitingTeam",
+                "Narrative": "Corner kick.",
+                "Context": "",
+                "Id": "114+CB97A999",
+                "Type": "CORNER",
+                "Action": null,
+                "Period": 2,
+                "ClockSeconds": 5331,
+                "Coordinate": null,
+                "Qualifiers": null,
+                "Score": null
+            }
+        ]
+    },
+    "Leaders": {
+        "VisitingTeam": {
+            "Goals": [],
+            "Assists": [],
+            "Shots": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Grace",
+                        "LastName": "Battershell",
+                        "UniformNumber": "15",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kylie",
+                        "LastName": "Cesarek",
+                        "UniformNumber": "19",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jaidyn",
+                        "LastName": "Veldhouse",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Abby",
+                        "LastName": "Ellis",
+                        "UniformNumber": "11",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Shots on Goal": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Grace",
+                        "LastName": "Battershell",
+                        "UniformNumber": "15",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jaidyn",
+                        "LastName": "Veldhouse",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kylie",
+                        "LastName": "Cesarek",
+                        "UniformNumber": "19",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Savanah",
+                        "LastName": "Thompson",
+                        "UniformNumber": "53",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Red Cards": [],
+            "Yellow Cards": [],
+            "Fouls": [
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Melanie",
+                        "LastName": "Kolnitys",
+                        "UniformNumber": "3",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Gracie",
+                        "LastName": "Cwik",
+                        "UniformNumber": "10",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Kylie",
+                        "LastName": "Cesarek",
+                        "UniformNumber": "19",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "VisitingTeam",
+                        "FirstName": "Jaidyn",
+                        "LastName": "Veldhouse",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ]
+        },
+        "HomeTeam": {
+            "Goals": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Taylor",
+                        "LastName": "Martin",
+                        "UniformNumber": "19",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Assists": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Maddie",
+                        "LastName": "Clark",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Shots": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Ella",
+                        "LastName": "Anselm",
+                        "UniformNumber": "13",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "4"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Maddie",
+                        "LastName": "Clark",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Rachel",
+                        "LastName": "Skyberg",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Taylor",
+                        "LastName": "Martin",
+                        "UniformNumber": "19",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "3"
+                }
+            ],
+            "Shots on Goal": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Ella",
+                        "LastName": "Anselm",
+                        "UniformNumber": "13",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Taylor",
+                        "LastName": "Martin",
+                        "UniformNumber": "19",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Avery",
+                        "LastName": "Hesseldenz",
+                        "UniformNumber": "14",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Rachel",
+                        "LastName": "Skyberg",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Red Cards": [],
+            "Yellow Cards": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Madi",
+                        "LastName": "Riege",
+                        "UniformNumber": "6",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ],
+            "Fouls": [
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Rachel",
+                        "LastName": "Skyberg",
+                        "UniformNumber": "8",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Avery",
+                        "LastName": "Hesseldenz",
+                        "UniformNumber": "14",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "2"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Maddie",
+                        "LastName": "Clark",
+                        "UniformNumber": "2",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                },
+                {
+                    "Player": {
+                        "Team": "HomeTeam",
+                        "FirstName": "Josie",
+                        "LastName": "Maddox",
+                        "UniformNumber": "5",
+                        "Photo": null,
+                        "PersonId": ""
+                    },
+                    "Value": "1"
+                }
+            ]
+        }
+    },
+    "Stats": {
+        "HomeTeam": {
+            "TopPerformer": null,
+            "Players": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Hannah",
+                    "LastName": "McFarlane",
+                    "UniformNumber": "0",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Tyler",
+                    "LastName": "Pritchett",
+                    "UniformNumber": "00",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Allysa",
+                    "LastName": "Wolf",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Grace",
+                    "LastName": "Hastert",
+                    "UniformNumber": "99",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Maddie",
+                    "LastName": "Clark",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Lautz",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Emmy",
+                    "LastName": "Crowley",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Josie",
+                    "LastName": "Maddox",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Madi",
+                    "LastName": "Riege",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Hayley",
+                    "LastName": "Smith",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Skyberg",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Julia",
+                    "LastName": "Lammert",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lexi",
+                    "LastName": "Whalen",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ella",
+                    "LastName": "Hickam",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Aubree",
+                    "LastName": "Wallace",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ella",
+                    "LastName": "Anselm",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Avery",
+                    "LastName": "Hesseldenz",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Devin",
+                    "LastName": "Ellis",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "AJ",
+                    "LastName": "Baldwin",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Karley",
+                    "LastName": "Kinzinger",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Gwen",
+                    "LastName": "Maggard",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Taylor",
+                    "LastName": "Martin",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Danni",
+                    "LastName": "Cotter",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Natalie",
+                    "LastName": "Heib",
+                    "UniformNumber": "21",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Lucy",
+                    "LastName": "Ledbetter",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Sophia",
+                    "LastName": "Beedle",
+                    "UniformNumber": "24",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Maddy",
+                    "LastName": "Kuhn",
+                    "UniformNumber": "25",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ashtyn",
+                    "LastName": "Fry",
+                    "UniformNumber": "27",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Aubrey",
+                    "LastName": "Rego",
+                    "UniformNumber": "28",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "PlayerGroups": {
+                "Starters": {
+                    "Title": "Starters",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "Position": "P",
+                        "Goals": "G",
+                        "Assists": "A",
+                        "Shots": "S",
+                        "OnGoal": "SOG",
+                        "RedCard": "RC",
+                        "YellowCard": "YC",
+                        "Fouls": "F",
+                        "Minutes": "Min",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "Position": "Position",
+                        "Goals": "Goals",
+                        "Assists": "Assists",
+                        "Shots": "Shots",
+                        "OnGoal": "Shots on Goal",
+                        "RedCard": "Red Cards",
+                        "YellowCard": "Yellow Cards",
+                        "Fouls": "Fouls",
+                        "Minutes": "Minutes",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "1",
+                            "Name": "A. WOLF",
+                            "Position": "GK",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "90",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "2",
+                            "Name": "M. CLARK",
+                            "Position": "FWD",
+                            "Goals": "0",
+                            "Assists": "1",
+                            "Shots": "3",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "1",
+                            "Minutes": "57",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "3",
+                            "Name": "O. LAUTZ",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "60",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "5",
+                            "Name": "J. MADDOX",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "1",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "1",
+                            "Minutes": "77",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "6",
+                            "Name": "M. RIEGE",
+                            "Position": "DEF",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "1",
+                            "Fouls": "1",
+                            "Minutes": "90",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "8",
+                            "Name": "R. SKYBERG",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "3",
+                            "OnGoal": "1",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "2",
+                            "Minutes": "82",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "13",
+                            "Name": "E. ANSELM",
+                            "Position": "FWD",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "4",
+                            "OnGoal": "2",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "62",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "17",
+                            "Name": "K. KINZINGER",
+                            "Position": "DEF",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "90",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "19",
+                            "Name": "T. MARTIN",
+                            "Position": "DEF",
+                            "Goals": "1",
+                            "Assists": "0",
+                            "Shots": "3",
+                            "OnGoal": "2",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "90",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "21",
+                            "Name": "N. HEIB",
+                            "Position": "DEF",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "71",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "25",
+                            "Name": "M. KUHN",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "1",
+                            "Minutes": "81",
+                            "PersonId": ""
+                        }
+                    ]
+                },
+                "Substitutes": {
+                    "Title": "Substitutes",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "Position": "P",
+                        "Goals": "G",
+                        "Assists": "A",
+                        "Shots": "S",
+                        "OnGoal": "SOG",
+                        "RedCard": "RC",
+                        "YellowCard": "YC",
+                        "Fouls": "F",
+                        "Minutes": "Min",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "Position": "Position",
+                        "Goals": "Goals",
+                        "Assists": "Assists",
+                        "Shots": "Shots",
+                        "OnGoal": "Shots on Goal",
+                        "RedCard": "Red Cards",
+                        "YellowCard": "Yellow Cards",
+                        "Fouls": "Fouls",
+                        "Minutes": "Minutes",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "11",
+                            "Name": "E. HICKAM",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "1",
+                            "OnGoal": "1",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "30",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "12",
+                            "Name": "A. WALLACE",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "9",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "14",
+                            "Name": "A. HESSELDENZ",
+                            "Position": "FWD",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "2",
+                            "OnGoal": "2",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "2",
+                            "Minutes": "28",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "16",
+                            "Name": "A. BALDWIN",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "19",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "20",
+                            "Name": "D. COTTER",
+                            "Position": "FWD",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "33",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "24",
+                            "Name": "S. BEEDLE",
+                            "Position": "FWD",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "1",
+                            "Minutes": "5",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "27",
+                            "Name": "A. FRY",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "8",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "28",
+                            "Name": "A. REGO",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "1",
+                            "Minutes": "8",
+                            "PersonId": ""
+                        }
+                    ]
+                },
+                "Goalkeepers": {
+                    "Title": "Goalkeepers",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "Position": "P",
+                        "Minutes": "Min",
+                        "GoalsAllowed": "GA",
+                        "Saves": "SV",
+                        "ShotsFaced": "SF",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "Position": "Position",
+                        "Minutes": "Minutes",
+                        "GoalsAllowed": "Goals Allowed",
+                        "Saves": "Saves",
+                        "ShotsFaced": "Shots Faced",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "1",
+                            "Name": "A. WOLF",
+                            "Position": "GK",
+                            "Minutes": "90",
+                            "GoalsAllowed": "0",
+                            "Saves": "5",
+                            "ShotsFaced": "12",
+                            "PersonId": ""
+                        }
+                    ]
+                }
+            },
+            "Totals": {
+                "Key": {
+                    "Goals": "G",
+                    "Assists": "A",
+                    "Shots": "S",
+                    "OnGoal": "SOG",
+                    "Corners": "CK",
+                    "RedCard": "RC",
+                    "YellowCard": "YC",
+                    "Fouls": "F",
+                    "Offsides": "O",
+                    "GoalsAllowed": "GA",
+                    "Saves": "SV",
+                    "ShotsFaced": "SF"
+                },
+                "FullKey": {
+                    "Goals": "Goals",
+                    "Assists": "Assists",
+                    "Shots": "Shots",
+                    "OnGoal": "Shots on Goal",
+                    "Corners": "Corners",
+                    "RedCard": "Red Cards",
+                    "YellowCard": "Yellow Cards",
+                    "Fouls": "Fouls",
+                    "Offsides": "Offsides",
+                    "GoalsAllowed": "Goals Allowed",
+                    "Saves": "Saves",
+                    "ShotsFaced": "Shots Faced"
+                },
+                "Values": {
+                    "Goals": "1",
+                    "Assists": "1",
+                    "Shots": "17",
+                    "OnGoal": "8",
+                    "Corners": "6",
+                    "RedCard": "0",
+                    "YellowCard": "1",
+                    "Fouls": "10",
+                    "Offsides": "2",
+                    "GoalsAllowed": "0",
+                    "Saves": "5",
+                    "ShotsFaced": "12"
+                }
+            },
+            "PeriodStats": [
+                {
+                    "Key": {
+                        "Period": "P",
+                        "Goals": "G",
+                        "Shots": "S",
+                        "Saves": "SV",
+                        "Fouls": "F",
+                        "Corners": "C",
+                        "Offsides": "O",
+                        "OnGoal": "O",
+                        "Assists": "A",
+                        "ShotsFaced": "S",
+                        "RedCard": "R",
+                        "YellowCard": "Y"
+                    },
+                    "FullKey": {
+                        "Period": "Period",
+                        "Goals": "Goals",
+                        "Shots": "Shots",
+                        "Saves": "Saves",
+                        "Fouls": "Fouls",
+                        "Corners": "Corners",
+                        "Offsides": "Offsides",
+                        "OnGoal": "OnGoal",
+                        "Assists": "Assists",
+                        "ShotsFaced": "ShotsFaced",
+                        "RedCard": "RedCard",
+                        "YellowCard": "YellowCard"
+                    },
+                    "Values": {
+                        "Period": "1",
+                        "Goals": "1",
+                        "Shots": "8",
+                        "Saves": "2",
+                        "Fouls": "4",
+                        "Corners": "3",
+                        "Offsides": "2",
+                        "OnGoal": "3",
+                        "Assists": "1",
+                        "ShotsFaced": "2",
+                        "RedCard": "0",
+                        "YellowCard": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Period": "P",
+                        "Goals": "G",
+                        "Shots": "S",
+                        "Saves": "SV",
+                        "Fouls": "F",
+                        "Corners": "C",
+                        "Offsides": "O",
+                        "OnGoal": "O",
+                        "Assists": "A",
+                        "ShotsFaced": "S",
+                        "RedCard": "R",
+                        "YellowCard": "Y"
+                    },
+                    "FullKey": {
+                        "Period": "Period",
+                        "Goals": "Goals",
+                        "Shots": "Shots",
+                        "Saves": "Saves",
+                        "Fouls": "Fouls",
+                        "Corners": "Corners",
+                        "Offsides": "Offsides",
+                        "OnGoal": "OnGoal",
+                        "Assists": "Assists",
+                        "ShotsFaced": "ShotsFaced",
+                        "RedCard": "RedCard",
+                        "YellowCard": "YellowCard"
+                    },
+                    "Values": {
+                        "Period": "2",
+                        "Goals": "0",
+                        "Shots": "9",
+                        "Saves": "3",
+                        "Fouls": "6",
+                        "Corners": "3",
+                        "Offsides": "0",
+                        "OnGoal": "5",
+                        "Assists": "0",
+                        "ShotsFaced": "10",
+                        "RedCard": "0",
+                        "YellowCard": "1"
+                    }
+                }
+            ]
+        },
+        "VisitingTeam": {
+            "TopPerformer": null,
+            "Players": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Delaney",
+                    "LastName": "Martin",
+                    "UniformNumber": "00",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ava",
+                    "LastName": "Wilberding",
+                    "UniformNumber": "0",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Monroe",
+                    "LastName": "Wilde",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jaidyn",
+                    "LastName": "Veldhouse",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Melanie",
+                    "LastName": "Kolnitys",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Cessaly",
+                    "LastName": "Fichtner",
+                    "UniformNumber": "4",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Emma",
+                    "LastName": "Bradley",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Cali",
+                    "LastName": "Schwartzenberger",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Morgan",
+                    "LastName": "Bogacki",
+                    "UniformNumber": "7",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alahna",
+                    "LastName": "Beckett",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Lauren",
+                    "LastName": "Schaffart",
+                    "UniformNumber": "9",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Gracie",
+                    "LastName": "Cwik",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Abby",
+                    "LastName": "Ellis",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Gabby",
+                    "LastName": "Martin",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Lauryn",
+                    "LastName": "Fracassi",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Romina",
+                    "LastName": "McGuire",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Grace",
+                    "LastName": "Battershell",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ruby",
+                    "LastName": "Grundner",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sophia",
+                    "LastName": "Miller",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Lydia",
+                    "LastName": "Zajchowski",
+                    "UniformNumber": "18",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kylie",
+                    "LastName": "Cesarek",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ava",
+                    "LastName": "Kelley",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Kolodin",
+                    "UniformNumber": "21",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Brianna",
+                    "LastName": "Clasen",
+                    "UniformNumber": "22",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ryleigh",
+                    "LastName": "Gray",
+                    "UniformNumber": "23",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Peyton",
+                    "LastName": "Kennedy",
+                    "UniformNumber": "25",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Dezarae",
+                    "LastName": "Mathis",
+                    "UniformNumber": "26",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Isla",
+                    "LastName": "MacGregor",
+                    "UniformNumber": "27",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Sophia",
+                    "LastName": "Swope",
+                    "UniformNumber": "28",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Avalee",
+                    "LastName": "Pomper",
+                    "UniformNumber": "33",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Savanah",
+                    "LastName": "Thompson",
+                    "UniformNumber": "53",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "PlayerGroups": {
+                "Starters": {
+                    "Title": "Starters",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "Position": "P",
+                        "Goals": "G",
+                        "Assists": "A",
+                        "Shots": "S",
+                        "OnGoal": "SOG",
+                        "RedCard": "RC",
+                        "YellowCard": "YC",
+                        "Fouls": "F",
+                        "Minutes": "Min",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "Position": "Position",
+                        "Goals": "Goals",
+                        "Assists": "Assists",
+                        "Shots": "Shots",
+                        "OnGoal": "Shots on Goal",
+                        "RedCard": "Red Cards",
+                        "YellowCard": "Yellow Cards",
+                        "Fouls": "Fouls",
+                        "Minutes": "Minutes",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "0",
+                            "Name": "A. WILBERDING",
+                            "Position": "GK",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "90",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "2",
+                            "Name": "J. VELDHOUSE",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "1",
+                            "OnGoal": "1",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "1",
+                            "Minutes": "58",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "3",
+                            "Name": "M. KOLNITYS",
+                            "Position": "FWD",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "2",
+                            "Minutes": "76",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "6",
+                            "Name": "C. SCHWARTZENBERGER",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "59",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "10",
+                            "Name": "G. CWIK",
+                            "Position": "",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "2",
+                            "Minutes": "86",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "11",
+                            "Name": "A. ELLIS",
+                            "Position": "FWD",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "1",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "81",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "15",
+                            "Name": "G. BATTERSHELL",
+                            "Position": "DEF",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "4",
+                            "OnGoal": "2",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "1",
+                            "Minutes": "75",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "19",
+                            "Name": "K. CESAREK",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "3",
+                            "OnGoal": "1",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "2",
+                            "Minutes": "90",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "21",
+                            "Name": "E. KOLODIN",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "77",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "23",
+                            "Name": "R. GRAY",
+                            "Position": "DEF",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "51",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "25",
+                            "Name": "P. KENNEDY",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "90",
+                            "PersonId": ""
+                        }
+                    ]
+                },
+                "Substitutes": {
+                    "Title": "Substitutes",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "Position": "P",
+                        "Goals": "G",
+                        "Assists": "A",
+                        "Shots": "S",
+                        "OnGoal": "SOG",
+                        "RedCard": "RC",
+                        "YellowCard": "YC",
+                        "Fouls": "F",
+                        "Minutes": "Min",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "Position": "Position",
+                        "Goals": "Goals",
+                        "Assists": "Assists",
+                        "Shots": "Shots",
+                        "OnGoal": "Shots on Goal",
+                        "RedCard": "Red Cards",
+                        "YellowCard": "Yellow Cards",
+                        "Fouls": "Fouls",
+                        "Minutes": "Minutes",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "5",
+                            "Name": "E. BRADLEY",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "7",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "7",
+                            "Name": "M. BOGACKI",
+                            "Position": "DEF",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "1",
+                            "Minutes": "9",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "8",
+                            "Name": "A. BECKETT",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "1",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "1",
+                            "Minutes": "55",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "14",
+                            "Name": "R. MCGUIRE",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "1",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "1",
+                            "Minutes": "15",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "20",
+                            "Name": "A. KELLEY",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "1",
+                            "Minutes": "17",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "27",
+                            "Name": "I. MACGREGOR",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "15",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "33",
+                            "Name": "A. POMPER",
+                            "Position": "MID",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "0",
+                            "OnGoal": "0",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "28",
+                            "PersonId": ""
+                        },
+                        {
+                            "Uni": "53",
+                            "Name": "S. THOMPSON",
+                            "Position": "FWD",
+                            "Goals": "0",
+                            "Assists": "0",
+                            "Shots": "1",
+                            "OnGoal": "1",
+                            "RedCard": "0",
+                            "YellowCard": "0",
+                            "Fouls": "0",
+                            "Minutes": "11",
+                            "PersonId": ""
+                        }
+                    ]
+                },
+                "Goalkeepers": {
+                    "Title": "Goalkeepers",
+                    "Key": {
+                        "Uni": "Uni",
+                        "Name": "Name",
+                        "Position": "P",
+                        "Minutes": "Min",
+                        "GoalsAllowed": "GA",
+                        "Saves": "SV",
+                        "ShotsFaced": "SF",
+                        "PersonId": "PersonId"
+                    },
+                    "Descriptions": {
+                        "Uni": "Uniform Number",
+                        "Name": "Name",
+                        "Position": "Position",
+                        "Minutes": "Minutes",
+                        "GoalsAllowed": "Goals Allowed",
+                        "Saves": "Saves",
+                        "ShotsFaced": "Shots Faced",
+                        "PersonId": "NCAA Person ID"
+                    },
+                    "Values": [
+                        {
+                            "Uni": "0",
+                            "Name": "A. WILBERDING",
+                            "Position": "GK",
+                            "Minutes": "90",
+                            "GoalsAllowed": "1",
+                            "Saves": "7",
+                            "ShotsFaced": "17",
+                            "PersonId": ""
+                        }
+                    ]
+                }
+            },
+            "Totals": {
+                "Key": {
+                    "Goals": "G",
+                    "Assists": "A",
+                    "Shots": "S",
+                    "OnGoal": "SOG",
+                    "Corners": "CK",
+                    "RedCard": "RC",
+                    "YellowCard": "YC",
+                    "Fouls": "F",
+                    "Offsides": "O",
+                    "GoalsAllowed": "GA",
+                    "Saves": "SV",
+                    "ShotsFaced": "SF"
+                },
+                "FullKey": {
+                    "Goals": "Goals",
+                    "Assists": "Assists",
+                    "Shots": "Shots",
+                    "OnGoal": "Shots on Goal",
+                    "Corners": "Corners",
+                    "RedCard": "Red Cards",
+                    "YellowCard": "Yellow Cards",
+                    "Fouls": "Fouls",
+                    "Offsides": "Offsides",
+                    "GoalsAllowed": "Goals Allowed",
+                    "Saves": "Saves",
+                    "ShotsFaced": "Shots Faced"
+                },
+                "Values": {
+                    "Goals": "0",
+                    "Assists": "0",
+                    "Shots": "12",
+                    "OnGoal": "5",
+                    "Corners": "6",
+                    "RedCard": "0",
+                    "YellowCard": "0",
+                    "Fouls": "12",
+                    "Offsides": "1",
+                    "GoalsAllowed": "1",
+                    "Saves": "7",
+                    "ShotsFaced": "17"
+                }
+            },
+            "PeriodStats": [
+                {
+                    "Key": {
+                        "Period": "P",
+                        "Goals": "G",
+                        "Shots": "S",
+                        "Saves": "SV",
+                        "Fouls": "F",
+                        "Corners": "C",
+                        "Offsides": "O",
+                        "OnGoal": "O",
+                        "Assists": "A",
+                        "ShotsFaced": "S",
+                        "RedCard": "R",
+                        "YellowCard": "Y"
+                    },
+                    "FullKey": {
+                        "Period": "Period",
+                        "Goals": "Goals",
+                        "Shots": "Shots",
+                        "Saves": "Saves",
+                        "Fouls": "Fouls",
+                        "Corners": "Corners",
+                        "Offsides": "Offsides",
+                        "OnGoal": "OnGoal",
+                        "Assists": "Assists",
+                        "ShotsFaced": "ShotsFaced",
+                        "RedCard": "RedCard",
+                        "YellowCard": "YellowCard"
+                    },
+                    "Values": {
+                        "Period": "1",
+                        "Goals": "0",
+                        "Shots": "2",
+                        "Saves": "2",
+                        "Fouls": "4",
+                        "Corners": "0",
+                        "Offsides": "1",
+                        "OnGoal": "2",
+                        "Assists": "0",
+                        "ShotsFaced": "8",
+                        "RedCard": "0",
+                        "YellowCard": "0"
+                    }
+                },
+                {
+                    "Key": {
+                        "Period": "P",
+                        "Goals": "G",
+                        "Shots": "S",
+                        "Saves": "SV",
+                        "Fouls": "F",
+                        "Corners": "C",
+                        "Offsides": "O",
+                        "OnGoal": "O",
+                        "Assists": "A",
+                        "ShotsFaced": "S",
+                        "RedCard": "R",
+                        "YellowCard": "Y"
+                    },
+                    "FullKey": {
+                        "Period": "Period",
+                        "Goals": "Goals",
+                        "Shots": "Shots",
+                        "Saves": "Saves",
+                        "Fouls": "Fouls",
+                        "Corners": "Corners",
+                        "Offsides": "Offsides",
+                        "OnGoal": "OnGoal",
+                        "Assists": "Assists",
+                        "ShotsFaced": "ShotsFaced",
+                        "RedCard": "RedCard",
+                        "YellowCard": "YellowCard"
+                    },
+                    "Values": {
+                        "Period": "2",
+                        "Goals": "0",
+                        "Shots": "10",
+                        "Saves": "5",
+                        "Fouls": "8",
+                        "Corners": "6",
+                        "Offsides": "0",
+                        "OnGoal": "3",
+                        "Assists": "0",
+                        "ShotsFaced": "9",
+                        "RedCard": "0",
+                        "YellowCard": "0"
+                    }
+                }
+            ]
+        }
+    },
+    "SeasonStats": {
+        "HomeTeam": null,
+        "VisitingTeam": null
+    },
+    "Plays": [
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Allysa",
+                "LastName": "Wolf",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Wolf, Allysa at goalie for Mo.-St. Louis",
+            "Context": "",
+            "Id": "0+6C2831E7",
+            "Type": "GOALIE",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 0,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Ava",
+                "LastName": "Wilberding",
+                "UniformNumber": "0",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Wilberding, Ava at goalie for Saginaw Valley",
+            "Context": "",
+            "Id": "1+3E56F974",
+            "Type": "GOALIE",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 0,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ella",
+                "LastName": "Anselm",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ava",
+                    "LastName": "Wilberding",
+                    "UniformNumber": "0",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Anselm, Ella, bottom right, saved by Wilberding, Ava.",
+            "Context": "",
+            "Id": "2+4D297DD3",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 61,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Rachel",
+                "LastName": "Skyberg",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Skyberg, Rachel.",
+            "Context": "",
+            "Id": "3+9F51FC33",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 182,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Josie",
+                "LastName": "Maddox",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Maddox, Josie.",
+            "Context": "",
+            "Id": "4+C65D0F0C",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 275,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jaidyn",
+                "LastName": "Veldhouse",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Foul on Veldhouse, Jaidyn.",
+            "Context": "",
+            "Id": "5+4C8B5826",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 422,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Offside against Saginaw Valley.",
+            "Context": "",
+            "Id": "6+DB689087",
+            "Type": "OFFSIDE",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 783,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Corner kick.",
+            "Context": "",
+            "Id": "7+2875B2E1",
+            "Type": "CORNER",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 821,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Taylor",
+                "LastName": "Martin",
+                "UniformNumber": "19",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Maddie",
+                    "LastName": "Clark",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "GOAL by UMSL Martin, Taylor Assist by Clark, Maddie.",
+            "Context": "",
+            "Id": "8+3C054FAF",
+            "Type": "GOAL",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 857,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": {
+                "HomeTeam": 1,
+                "VisitingTeam": 0
+            }
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Maddie",
+                "LastName": "Clark",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Clark, Maddie.",
+            "Context": "",
+            "Id": "9+82B2B08D",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1037,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alahna",
+                "LastName": "Beckett",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ryleigh",
+                    "LastName": "Gray",
+                    "UniformNumber": "23",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Beckett, Alahna for Gray, Ryleigh.",
+            "Context": "",
+            "Id": "10+2FC82BE",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1141,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Corner kick.",
+            "Context": "",
+            "Id": "11+3D795C8C",
+            "Type": "CORNER",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1180,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Offside against Mo.-St. Louis.",
+            "Context": "",
+            "Id": "12+2D853F7E",
+            "Type": "OFFSIDE",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1327,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Melanie",
+                "LastName": "Kolnitys",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Foul on Kolnitys, Melanie.",
+            "Context": "",
+            "Id": "13+4764317F",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1359,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Offside against Mo.-St. Louis.",
+            "Context": "",
+            "Id": "14+D25741F",
+            "Type": "OFFSIDE",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1428,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Rachel",
+                "LastName": "Skyberg",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Foul on Skyberg, Rachel.",
+            "Context": "",
+            "Id": "15+325E7879",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1519,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ella",
+                "LastName": "Anselm",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Anselm, Ella.",
+            "Context": "",
+            "Id": "16+B60F6A76",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1626,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Maddie",
+                "LastName": "Clark",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Clark, Maddie, out top right.",
+            "Context": "",
+            "Id": "17+7771002B",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1630,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ella",
+                "LastName": "Hickam",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Maddie",
+                    "LastName": "Clark",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Hickam, Ella for Clark, Maddie.",
+            "Context": "",
+            "Id": "18+D818E3D7",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1664,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Avery",
+                "LastName": "Hesseldenz",
+                "UniformNumber": "14",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Lautz",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Hesseldenz, Avery for Lautz, Olivia.",
+            "Context": "",
+            "Id": "19+60C5E29A",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1664,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Danni",
+                "LastName": "Cotter",
+                "UniformNumber": "20",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ella",
+                    "LastName": "Anselm",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Cotter, Danni for Anselm, Ella.",
+            "Context": "",
+            "Id": "20+7D0C92A4",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1664,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Ava",
+                "LastName": "Kelley",
+                "UniformNumber": "20",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jaidyn",
+                    "LastName": "Veldhouse",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Kelley, Ava for Veldhouse, Jaidyn.",
+            "Context": "",
+            "Id": "21+5B6E8672",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1664,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Avery",
+                "LastName": "Hesseldenz",
+                "UniformNumber": "14",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ava",
+                    "LastName": "Wilberding",
+                    "UniformNumber": "0",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Hesseldenz, Avery, bottom left, saved by Wilberding, Ava.",
+            "Context": "",
+            "Id": "22+C5A11F56",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1753,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Corner kick.",
+            "Context": "",
+            "Id": "23+62A7D4AC",
+            "Type": "CORNER",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1760,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Avery",
+                "LastName": "Hesseldenz",
+                "UniformNumber": "14",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Foul on Hesseldenz, Avery.",
+            "Context": "",
+            "Id": "24+C32075CF",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1800,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Avalee",
+                "LastName": "Pomper",
+                "UniformNumber": "33",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Kolodin",
+                    "UniformNumber": "21",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Pomper, Avalee for Kolodin, Emily.",
+            "Context": "",
+            "Id": "25+3D245632",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 1907,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Kylie",
+                "LastName": "Cesarek",
+                "UniformNumber": "19",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Foul on Cesarek, Kylie.",
+            "Context": "",
+            "Id": "26+B1BD6836",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 2101,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ashtyn",
+                "LastName": "Fry",
+                "UniformNumber": "27",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Josie",
+                    "LastName": "Maddox",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Fry, Ashtyn for Maddox, Josie.",
+            "Context": "",
+            "Id": "27+8D2458B0",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 2161,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Aubrey",
+                "LastName": "Rego",
+                "UniformNumber": "28",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Skyberg",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Rego, Aubrey for Skyberg, Rachel.",
+            "Context": "",
+            "Id": "28+758900B9",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 2161,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Savanah",
+                "LastName": "Thompson",
+                "UniformNumber": "53",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Melanie",
+                    "LastName": "Kolnitys",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Thompson, Savanah for Kolnitys, Melanie.",
+            "Context": "",
+            "Id": "29+452C0C37",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 2227,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Emma",
+                "LastName": "Bradley",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Abby",
+                    "LastName": "Ellis",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Bradley, Emma for Ellis, Abby.",
+            "Context": "",
+            "Id": "30+A460B3E2",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 2227,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Ava",
+                "LastName": "Kelley",
+                "UniformNumber": "20",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Foul on Kelley, Ava.",
+            "Context": "",
+            "Id": "31+97C3535",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 2249,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Aubree",
+                "LastName": "Wallace",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Maddy",
+                    "LastName": "Kuhn",
+                    "UniformNumber": "25",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Wallace, Aubree for Kuhn, Maddy.",
+            "Context": "",
+            "Id": "32+66268F3E",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 2413,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Aubrey",
+                "LastName": "Rego",
+                "UniformNumber": "28",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Foul on Rego, Aubrey.",
+            "Context": "",
+            "Id": "33+8EEE4346",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 2589,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Grace",
+                "LastName": "Battershell",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Allysa",
+                    "LastName": "Wolf",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "Shot by SV Battershell, Grace, top, saved by Wolf, Allysa.",
+            "Context": "",
+            "Id": "34+9444CF48",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 2627,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Savanah",
+                "LastName": "Thompson",
+                "UniformNumber": "53",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Allysa",
+                    "LastName": "Wolf",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "Shot by SV Thompson, Savanah, bottom right, saved by Wolf, Allysa.",
+            "Context": "",
+            "Id": "35+B2A53247",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 2687,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "End of period.",
+            "Context": "",
+            "Id": "36+255524DD",
+            "Type": "END-PRD",
+            "Action": null,
+            "Period": 1,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Start of 2nd period.",
+            "Context": "",
+            "Id": "37+47F9F3A4",
+            "Type": "PRD",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Ava",
+                "LastName": "Wilberding",
+                "UniformNumber": "0",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jaidyn",
+                    "LastName": "Veldhouse",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Melanie",
+                    "LastName": "Kolnitys",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Abby",
+                    "LastName": "Ellis",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Gracie",
+                    "LastName": "Cwik",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Emily",
+                    "LastName": "Kolodin",
+                    "UniformNumber": "21",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Grace",
+                    "LastName": "Battershell",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Kylie",
+                    "LastName": "Cesarek",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ryleigh",
+                    "LastName": "Gray",
+                    "UniformNumber": "23",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alahna",
+                    "LastName": "Beckett",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Peyton",
+                    "LastName": "Kennedy",
+                    "UniformNumber": "25",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "FOR SV: , #0 Wilberding, Ava, #2 Veldhouse, Jaidyn, #3 Kolnitys, Melanie, #11 Ellis, Abby, #10 Cwik, Gracie, #21 Kolodin, Emily, #15 Battershell, Grace, #19 Cesarek, Kylie, #23 Gray, Ryleigh, #8 Beckett, Alahna, #25 Kennedy, Peyton.",
+            "Context": "",
+            "Id": "38+BADC103",
+            "Type": "FOR",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Allysa",
+                "LastName": "Wolf",
+                "UniformNumber": "1",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Maddie",
+                    "LastName": "Clark",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Lautz",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Josie",
+                    "LastName": "Maddox",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Madi",
+                    "LastName": "Riege",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Rachel",
+                    "LastName": "Skyberg",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ella",
+                    "LastName": "Anselm",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Karley",
+                    "LastName": "Kinzinger",
+                    "UniformNumber": "17",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Taylor",
+                    "LastName": "Martin",
+                    "UniformNumber": "19",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Natalie",
+                    "LastName": "Heib",
+                    "UniformNumber": "21",
+                    "Photo": null,
+                    "PersonId": ""
+                },
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Maddy",
+                    "LastName": "Kuhn",
+                    "UniformNumber": "25",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "FOR UMSL: , #1 Wolf, Allysa, #2 Clark, Maddie, #3 Lautz, Olivia, #5 Maddox, Josie, #6 Riege, Madi, #8 Skyberg, Rachel, #13 Anselm, Ella, #17 Kinzinger, Karley, #19 Martin, Taylor, #21 Heib, Natalie, #25 Kuhn, Maddy.",
+            "Context": "",
+            "Id": "39+82CCDC67",
+            "Type": "FOR",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Maddie",
+                "LastName": "Clark",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ella",
+                    "LastName": "Hickam",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Clark, Maddie for Hickam, Ella.",
+            "Context": "",
+            "Id": "40+A17EEC06",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Olivia",
+                "LastName": "Lautz",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Avery",
+                    "LastName": "Hesseldenz",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Lautz, Olivia for Hesseldenz, Avery.",
+            "Context": "",
+            "Id": "41+DE3506AB",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Josie",
+                "LastName": "Maddox",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ashtyn",
+                    "LastName": "Fry",
+                    "UniformNumber": "27",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Maddox, Josie for Fry, Ashtyn.",
+            "Context": "",
+            "Id": "42+4F5FAD9F",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Rachel",
+                "LastName": "Skyberg",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Aubrey",
+                    "LastName": "Rego",
+                    "UniformNumber": "28",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Skyberg, Rachel for Rego, Aubrey.",
+            "Context": "",
+            "Id": "43+BFC0292A",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ella",
+                "LastName": "Anselm",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Danni",
+                    "LastName": "Cotter",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Anselm, Ella for Cotter, Danni.",
+            "Context": "",
+            "Id": "44+8B698887",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Maddy",
+                "LastName": "Kuhn",
+                "UniformNumber": "25",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Aubree",
+                    "LastName": "Wallace",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Kuhn, Maddy for Wallace, Aubree.",
+            "Context": "",
+            "Id": "45+9811C9",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jaidyn",
+                "LastName": "Veldhouse",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ava",
+                    "LastName": "Kelley",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Veldhouse, Jaidyn for Kelley, Ava.",
+            "Context": "",
+            "Id": "46+C876BE7E",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Melanie",
+                "LastName": "Kolnitys",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Savanah",
+                    "LastName": "Thompson",
+                    "UniformNumber": "53",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Kolnitys, Melanie for Thompson, Savanah.",
+            "Context": "",
+            "Id": "47+65985D75",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Abby",
+                "LastName": "Ellis",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Cali",
+                    "LastName": "Schwartzenberger",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Ellis, Abby for Schwartzenberger, Cali.",
+            "Context": "",
+            "Id": "48+9877912A",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Emily",
+                "LastName": "Kolodin",
+                "UniformNumber": "21",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Emma",
+                    "LastName": "Bradley",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Kolodin, Emily for Bradley, Emma.",
+            "Context": "",
+            "Id": "49+E3E45D68",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Ryleigh",
+                "LastName": "Gray",
+                "UniformNumber": "23",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Avalee",
+                    "LastName": "Pomper",
+                    "UniformNumber": "33",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Gray, Ryleigh for Pomper, Avalee.",
+            "Context": "",
+            "Id": "50+BA58AEA",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2700,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Rachel",
+                "LastName": "Skyberg",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Foul on Skyberg, Rachel.",
+            "Context": "",
+            "Id": "51+26923E7F",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2714,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ella",
+                "LastName": "Anselm",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Anselm, Ella, out top.",
+            "Context": "",
+            "Id": "52+670112FA",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 2862,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Maddie",
+                "LastName": "Clark",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Foul on Clark, Maddie.",
+            "Context": "",
+            "Id": "53+3546E744",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3036,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Corner kick.",
+            "Context": "",
+            "Id": "54+C9F34572",
+            "Type": "CORNER",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3084,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alahna",
+                "LastName": "Beckett",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Foul on Beckett, Alahna.",
+            "Context": "",
+            "Id": "55+B9E4F0F7",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3119,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Kylie",
+                "LastName": "Cesarek",
+                "UniformNumber": "19",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Shot by SV Cesarek, Kylie.",
+            "Context": "",
+            "Id": "56+48A813EA",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3247,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Corner kick.",
+            "Context": "",
+            "Id": "57+FA732B09",
+            "Type": "CORNER",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3252,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jaidyn",
+                "LastName": "Veldhouse",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Allysa",
+                    "LastName": "Wolf",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "Shot by SV Veldhouse, Jaidyn, bottom center, saved by Wolf, Allysa.",
+            "Context": "",
+            "Id": "58+DB8B397F",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3274,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Corner kick.",
+            "Context": "",
+            "Id": "59+F4A225AC",
+            "Type": "CORNER",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3539,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Abby",
+                "LastName": "Ellis",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Shot by SV Ellis, Abby, blocked.",
+            "Context": "",
+            "Id": "60+1EB2B42",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3586,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Grace",
+                "LastName": "Battershell",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Shot by SV Battershell, Grace, blocked.",
+            "Context": "",
+            "Id": "61+9E021714",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3596,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alahna",
+                "LastName": "Beckett",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Shot by SV Beckett, Alahna, out left.",
+            "Context": "",
+            "Id": "62+517F0CB6",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3599,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "AJ",
+                "LastName": "Baldwin",
+                "UniformNumber": "16",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Natalie",
+                    "LastName": "Heib",
+                    "UniformNumber": "21",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Baldwin, AJ for Heib, Natalie.",
+            "Context": "",
+            "Id": "63+C5A7F99",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3622,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Romina",
+                "LastName": "McGuire",
+                "UniformNumber": "14",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Jaidyn",
+                    "LastName": "Veldhouse",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: McGuire, Romina for Veldhouse, Jaidyn.",
+            "Context": "",
+            "Id": "64+AFF817E7",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3671,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Isla",
+                "LastName": "MacGregor",
+                "UniformNumber": "27",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Melanie",
+                    "LastName": "Kolnitys",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: MacGregor, Isla for Kolnitys, Melanie.",
+            "Context": "",
+            "Id": "65+267424FC",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3671,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Avalee",
+                "LastName": "Pomper",
+                "UniformNumber": "33",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Grace",
+                    "LastName": "Battershell",
+                    "UniformNumber": "15",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Pomper, Avalee for Battershell, Grace.",
+            "Context": "",
+            "Id": "66+368E703E",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3671,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Corner kick.",
+            "Context": "",
+            "Id": "67+3D88DACF",
+            "Type": "CORNER",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3808,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Taylor",
+                "LastName": "Martin",
+                "UniformNumber": "19",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ava",
+                    "LastName": "Wilberding",
+                    "UniformNumber": "0",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Martin, Taylor, bottom left, saved by Wilberding, Ava.",
+            "Context": "",
+            "Id": "68+8C29AB99",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3851,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Corner kick.",
+            "Context": "",
+            "Id": "69+24B5D298",
+            "Type": "CORNER",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3857,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Corner kick.",
+            "Context": "",
+            "Id": "70+2C672ED3",
+            "Type": "CORNER",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3893,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ella",
+                "LastName": "Anselm",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ava",
+                    "LastName": "Wilberding",
+                    "UniformNumber": "0",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Anselm, Ella, bottom left, saved by Wilberding, Ava.",
+            "Context": "",
+            "Id": "71+C0782FEE",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3935,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Danni",
+                "LastName": "Cotter",
+                "UniformNumber": "20",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Maddie",
+                    "LastName": "Clark",
+                    "UniformNumber": "2",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Cotter, Danni for Clark, Maddie.",
+            "Context": "",
+            "Id": "72+974933A2",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3982,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ella",
+                "LastName": "Hickam",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Olivia",
+                    "LastName": "Lautz",
+                    "UniformNumber": "3",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Hickam, Ella for Lautz, Olivia.",
+            "Context": "",
+            "Id": "73+8802AABC",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3982,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Cali",
+                "LastName": "Schwartzenberger",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ryleigh",
+                    "LastName": "Gray",
+                    "UniformNumber": "23",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Schwartzenberger, Cali for Gray, Ryleigh.",
+            "Context": "",
+            "Id": "74+8C4E2FFC",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 3982,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Avery",
+                "LastName": "Hesseldenz",
+                "UniformNumber": "14",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ella",
+                    "LastName": "Anselm",
+                    "UniformNumber": "13",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Hesseldenz, Avery for Anselm, Ella.",
+            "Context": "",
+            "Id": "75+C7E4A7F6",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4081,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Melanie",
+                "LastName": "Kolnitys",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alahna",
+                    "LastName": "Beckett",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Kolnitys, Melanie for Beckett, Alahna.",
+            "Context": "",
+            "Id": "76+9122ACEE",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4081,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Melanie",
+                "LastName": "Kolnitys",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Foul on Kolnitys, Melanie.",
+            "Context": "",
+            "Id": "77+87726373",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4188,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Avery",
+                "LastName": "Hesseldenz",
+                "UniformNumber": "14",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Foul on Hesseldenz, Avery.",
+            "Context": "",
+            "Id": "78+4DF11A2B",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4221,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Rachel",
+                "LastName": "Skyberg",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Skyberg, Rachel, out top.",
+            "Context": "",
+            "Id": "79+65A43AC3",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4310,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Romina",
+                "LastName": "McGuire",
+                "UniformNumber": "14",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Foul on McGuire, Romina.",
+            "Context": "",
+            "Id": "80+68650AA2",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4342,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ella",
+                "LastName": "Hickam",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ava",
+                    "LastName": "Wilberding",
+                    "UniformNumber": "0",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Hickam, Ella, bottom center, saved by Wilberding, Ava.",
+            "Context": "",
+            "Id": "81+ACB404EA",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4372,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Maddy",
+                "LastName": "Kuhn",
+                "UniformNumber": "25",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Foul on Kuhn, Maddy.",
+            "Context": "",
+            "Id": "82+AC2F0CB4",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4393,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Romina",
+                "LastName": "McGuire",
+                "UniformNumber": "14",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Shot by SV McGuire, Romina, out top.",
+            "Context": "",
+            "Id": "83+7FF0BC99",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4436,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sophia",
+                "LastName": "Beedle",
+                "UniformNumber": "24",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Josie",
+                    "LastName": "Maddox",
+                    "UniformNumber": "5",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Beedle, Sophia for Maddox, Josie.",
+            "Context": "",
+            "Id": "84+AB8E8CC9",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4459,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Aubree",
+                "LastName": "Wallace",
+                "UniformNumber": "12",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Maddy",
+                    "LastName": "Kuhn",
+                    "UniformNumber": "25",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Wallace, Aubree for Kuhn, Maddy.",
+            "Context": "",
+            "Id": "85+F9AFF69E",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4459,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Jaidyn",
+                "LastName": "Veldhouse",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Romina",
+                    "LastName": "McGuire",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Veldhouse, Jaidyn for McGuire, Romina.",
+            "Context": "",
+            "Id": "86+AC59A8AB",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4573,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Grace",
+                "LastName": "Battershell",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Isla",
+                    "LastName": "MacGregor",
+                    "UniformNumber": "27",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Battershell, Grace for MacGregor, Isla.",
+            "Context": "",
+            "Id": "87+D24BAD2E",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4573,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Alahna",
+                "LastName": "Beckett",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Avalee",
+                    "LastName": "Pomper",
+                    "UniformNumber": "33",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Beckett, Alahna for Pomper, Avalee.",
+            "Context": "",
+            "Id": "88+1EABD059",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4573,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Avery",
+                "LastName": "Hesseldenz",
+                "UniformNumber": "14",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ava",
+                    "LastName": "Wilberding",
+                    "UniformNumber": "0",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Hesseldenz, Avery, bottom left, saved by Wilberding, Ava.",
+            "Context": "",
+            "Id": "89+9ACB0AD2",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4577,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Corner kick.",
+            "Context": "",
+            "Id": "90+2FC2724A",
+            "Type": "CORNER",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4640,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Sophia",
+                "LastName": "Beedle",
+                "UniformNumber": "24",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Foul on Beedle, Sophia.",
+            "Context": "",
+            "Id": "91+66DC687D",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4691,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Madi",
+                "LastName": "Riege",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Foul on Riege, Madi.",
+            "Context": "",
+            "Id": "92+C68AE7AE",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4743,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Madi",
+                "LastName": "Riege",
+                "UniformNumber": "6",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Yellow card on UMSL Riege, Madi.",
+            "Context": "",
+            "Id": "93+2BEFDEC4",
+            "Type": "YC",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4743,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Olivia",
+                "LastName": "Lautz",
+                "UniformNumber": "3",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Ella",
+                    "LastName": "Hickam",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Lautz, Olivia for Hickam, Ella.",
+            "Context": "",
+            "Id": "94+1FD5DB07",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4752,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Natalie",
+                "LastName": "Heib",
+                "UniformNumber": "21",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Sophia",
+                    "LastName": "Beedle",
+                    "UniformNumber": "24",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Heib, Natalie for Beedle, Sophia.",
+            "Context": "",
+            "Id": "95+6DCFC47E",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4752,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Ella",
+                "LastName": "Anselm",
+                "UniformNumber": "13",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Avery",
+                    "LastName": "Hesseldenz",
+                    "UniformNumber": "14",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Anselm, Ella for Hesseldenz, Avery.",
+            "Context": "",
+            "Id": "96+5A4F714",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4752,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Maddy",
+                "LastName": "Kuhn",
+                "UniformNumber": "25",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "AJ",
+                    "LastName": "Baldwin",
+                    "UniformNumber": "16",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Kuhn, Maddy for Baldwin, AJ.",
+            "Context": "",
+            "Id": "97+DA9D2E6C",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4752,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Josie",
+                "LastName": "Maddox",
+                "UniformNumber": "5",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Aubree",
+                    "LastName": "Wallace",
+                    "UniformNumber": "12",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Maddox, Josie for Wallace, Aubree.",
+            "Context": "",
+            "Id": "98+AA753C66",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4752,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Grace",
+                "LastName": "Battershell",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Foul on Battershell, Grace.",
+            "Context": "",
+            "Id": "99+85A180F2",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4801,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Morgan",
+                "LastName": "Bogacki",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Abby",
+                    "LastName": "Ellis",
+                    "UniformNumber": "11",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Bogacki, Morgan for Ellis, Abby.",
+            "Context": "",
+            "Id": "100+DA8457F1",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4852,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Ryleigh",
+                "LastName": "Gray",
+                "UniformNumber": "23",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Cali",
+                    "LastName": "Schwartzenberger",
+                    "UniformNumber": "6",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Gray, Ryleigh for Schwartzenberger, Cali.",
+            "Context": "",
+            "Id": "101+C68C59A5",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4852,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Kylie",
+                "LastName": "Cesarek",
+                "UniformNumber": "19",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Foul on Cesarek, Kylie.",
+            "Context": "",
+            "Id": "102+B3A44167",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4895,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Maddie",
+                "LastName": "Clark",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Danni",
+                    "LastName": "Cotter",
+                    "UniformNumber": "20",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "UMSL substitution: Clark, Maddie for Cotter, Danni.",
+            "Context": "",
+            "Id": "103+5FD9DED5",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4930,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Abby",
+                "LastName": "Ellis",
+                "UniformNumber": "11",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Alahna",
+                    "LastName": "Beckett",
+                    "UniformNumber": "8",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Ellis, Abby for Beckett, Alahna.",
+            "Context": "",
+            "Id": "104+68B8A226",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4930,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Morgan",
+                "LastName": "Bogacki",
+                "UniformNumber": "7",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Foul on Bogacki, Morgan.",
+            "Context": "",
+            "Id": "105+F5BE3CD9",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4982,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Rachel",
+                "LastName": "Skyberg",
+                "UniformNumber": "8",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Ava",
+                    "LastName": "Wilberding",
+                    "UniformNumber": "0",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Skyberg, Rachel, bottom left, saved by Wilberding, Ava.",
+            "Context": "",
+            "Id": "106+C69C098D",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 4999,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Taylor",
+                "LastName": "Martin",
+                "UniformNumber": "19",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Martin, Taylor, out left.",
+            "Context": "",
+            "Id": "107+9411605A",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 5005,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Gracie",
+                "LastName": "Cwik",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Foul on Cwik, Gracie.",
+            "Context": "",
+            "Id": "108+EB51205D",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 5046,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Gracie",
+                "LastName": "Cwik",
+                "UniformNumber": "10",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Foul on Cwik, Gracie.",
+            "Context": "",
+            "Id": "109+EE54BDD6",
+            "Type": "FOUL",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 5112,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "HomeTeam",
+                "FirstName": "Maddie",
+                "LastName": "Clark",
+                "UniformNumber": "2",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "Shot by UMSL Clark, Maddie, out top.",
+            "Context": "",
+            "Id": "110+93940429",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 5126,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Savanah",
+                "LastName": "Thompson",
+                "UniformNumber": "53",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "VisitingTeam",
+                    "FirstName": "Gracie",
+                    "LastName": "Cwik",
+                    "UniformNumber": "10",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "SV substitution: Thompson, Savanah for Cwik, Gracie.",
+            "Context": "",
+            "Id": "111+F908428E",
+            "Type": "SUB",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 5154,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Grace",
+                "LastName": "Battershell",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Shot by SV Battershell, Grace, out top.",
+            "Context": "",
+            "Id": "112+34540BEE",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 5180,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Kylie",
+                "LastName": "Cesarek",
+                "UniformNumber": "19",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Allysa",
+                    "LastName": "Wolf",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "Shot by SV Cesarek, Kylie, bottom center, saved by Wolf, Allysa.",
+            "Context": "",
+            "Id": "113+65AED938",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 5238,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Corner kick.",
+            "Context": "",
+            "Id": "114+CB97A999",
+            "Type": "CORNER",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 5331,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Kylie",
+                "LastName": "Cesarek",
+                "UniformNumber": "19",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Shot by SV Cesarek, Kylie, out left.",
+            "Context": "",
+            "Id": "115+215F4D1D",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 5354,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": {
+                "Team": "VisitingTeam",
+                "FirstName": "Grace",
+                "LastName": "Battershell",
+                "UniformNumber": "15",
+                "Photo": null,
+                "PersonId": ""
+            },
+            "InvolvedPlayers": [
+                {
+                    "Team": "HomeTeam",
+                    "FirstName": "Allysa",
+                    "LastName": "Wolf",
+                    "UniformNumber": "1",
+                    "Photo": null,
+                    "PersonId": ""
+                }
+            ],
+            "Team": "VisitingTeam",
+            "Narrative": "Shot by SV Battershell, Grace, bottom left, saved by Wolf, Allysa.",
+            "Context": "",
+            "Id": "116+280DE407",
+            "Type": "SHOT",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 5384,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "VisitingTeam",
+            "Narrative": "Corner kick.",
+            "Context": "",
+            "Id": "117+ECDB80CF",
+            "Type": "CORNER",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 5390,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        },
+        {
+            "Player": null,
+            "InvolvedPlayers": [],
+            "Team": "HomeTeam",
+            "Narrative": "End of period.",
+            "Context": "",
+            "Id": "118+2DCEB10C",
+            "Type": "END-PRD",
+            "Action": null,
+            "Period": 2,
+            "ClockSeconds": 5400,
+            "Coordinate": null,
+            "Qualifiers": null,
+            "Score": null
+        }
+    ]
+}
